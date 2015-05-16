@@ -2,7 +2,7 @@ Title: Firefox 主题: Oxygen
 Date: 2008-07-22 09:19
 Author: toy
 Category: Themes
-Tags: Firefox, KDE 4, Oxygen
+Tags: Firefox,  Oxygen
 Slug: firefox-theme-oxygen
 
 Oxygen 主题适用于 Firefox 3，让你与 KDE 4 桌面环境的外观保持一致。

@@ -2,7 +2,7 @@ Title: Aurorae: KDE 4 新的窗口边框主题引擎
 Date: 2009-08-06 15:47
 Author: toy
 Category: Themes
-Tags: Aurorae, KDE 4.3
+Tags: Aurorae, 
 Slug: aurorae
 
 Aurorae 是针对 KDE 4 而开发的新的窗口边框主题引擎。在 KDE-Look.org 的

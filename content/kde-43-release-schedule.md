@@ -2,7 +2,7 @@ Title: KDE 4.3 发布时间表
 Date: 2009-04-14 10:28
 Author: toy
 Category: News
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-43-release-schedule
 
 近日，KDE 发布团队更新了下一个主要版本 KDE 4.3 的发布时间表，关注 KDE

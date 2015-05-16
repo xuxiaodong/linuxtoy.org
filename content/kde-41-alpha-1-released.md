@@ -2,7 +2,7 @@ Title: KDE 4.1 Alpha 1 发布
 Date: 2008-05-01 10:03
 Author: lovenemesis
 Category: Apps
-Tags: Alpha, KDE, KDE 4.1
+Tags: Alpha, KDE, 
 Slug: kde-41-alpha-1-released
 
 ![kde-logo-official-oxygen](http://i.linuxtoy.org/i/2008/05/kde-logo-official-oxygen.png)4

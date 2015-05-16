@@ -2,7 +2,7 @@ Title: 视频: KDE 4.2 - KWin
 Date: 2009-01-04 11:23
 Author: toy
 Category: Videos
-Tags: KDE 4.2, KWin
+Tags: , KWin
 Slug: kde-42-kwin-videos
 
 在 [KDE 4.2 Beta 1

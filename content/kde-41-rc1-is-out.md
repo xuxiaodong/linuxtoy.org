@@ -2,7 +2,7 @@ Title: KDE 4.1 RC1 推出
 Date: 2008-07-16 10:11
 Author: toy
 Category: Apps
-Tags: KDE 4.1
+Tags: 
 Slug: kde-41-rc1-is-out
 
 [KDE](http://linuxtoy.org/tag/kde) 开发社区已经推出了 [KDE 4.1

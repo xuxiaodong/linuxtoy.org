@@ -2,7 +2,7 @@ Title: KDE SC 4.4 RC 2 发布
 Date: 2010-01-26 14:36
 Author: toy
 Category: News
-Tags: KDE, KDE 4.4
+Tags: KDE, 
 Slug: kde-sc-44-rc-2-released
 
 KDE 开发小组已发布 KDE SC 4.4 RC 2 版本。该版本主要修正了 KDE SC 4.4  

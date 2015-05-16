@@ -2,7 +2,7 @@ Title: KDE 4.3.0 RC2 发布
 Date: 2009-07-10 11:36
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-430-rc2-released
 
 KDE 团队已发布了代号为“Canteras”的 KDE 4.3.0 RC2 版本。与 RC1

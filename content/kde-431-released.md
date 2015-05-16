@@ -2,7 +2,7 @@ Title: KDE 4.3.1 发布
 Date: 2009-09-02 07:53
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-431-released
 
 KDE 开发社区已发布 KDE 4.3.1 版本。KDE 4.3.1  

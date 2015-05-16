@@ -2,7 +2,7 @@ Title: KDE SC 4.4 Beta 2 发布
 Date: 2009-12-22 14:27
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4.4
+Tags: KDE, 
 Slug: kde-sc-44-beta-2
 
 KDE 开发团队在今天发布了 KDE SC 4.4 的第二个 Beta 测试版本。KDE SC 4.4

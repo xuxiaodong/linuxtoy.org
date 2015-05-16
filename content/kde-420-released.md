@@ -2,7 +2,7 @@ Title: KDE 4.2.0 正式发布
 Date: 2009-01-28 11:52
 Author: toy
 Category: News
-Tags: KDE, KDE 4.2
+Tags: KDE, 
 Slug: kde-420-released
 
 代号为“The Answer”的 KDE 4.2.0 已于 1 月 27 日正式发布。KDE 4.2.0

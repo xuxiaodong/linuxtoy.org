@@ -2,7 +2,7 @@ Title: 视频: Plasma 中的动画墙纸
 Date: 2008-12-12 10:25
 Author: toy
 Category: Videos
-Tags: KDE 4, Plasma
+Tags:  Plasma
 Slug: plasma-animated-wallpaper
 
 [MoRpHeUz](http://labs.morpheuz.eng.br/blog) 通过 hack QZion 使 Plasma

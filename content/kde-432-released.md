@@ -2,7 +2,7 @@ Title: KDE 4.3.2 发布
 Date: 2009-10-07 16:29
 Author: toy
 Category: News
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-432-released
 
 KDE 开发社区在今天发布了 KDE 4.3.2 版本。KDE 4.3.2

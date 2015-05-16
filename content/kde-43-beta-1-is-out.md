@@ -2,7 +2,7 @@ Title: KDE 4.3 Beta 1 放出，欢迎测试
 Date: 2009-05-14 10:58
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-43-beta-1-is-out
 
 KDE 开发社区在昨天放出了 KDE 4.3 的首个 Beta 测试版以供用户测试。在 KDE

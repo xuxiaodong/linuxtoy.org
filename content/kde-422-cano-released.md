@@ -2,7 +2,7 @@ Title: KDE 4.2.2 "Cano" 发布
 Date: 2009-04-03 09:01
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.2
+Tags: KDE,  
 Slug: kde-422-cano-released
 
 KDE 开发团队已发布了 KDE 桌面环境的

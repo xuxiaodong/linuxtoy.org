@@ -2,7 +2,7 @@ Title: KDE SC 4.5 Beta 1 发布
 Date: 2010-05-27 14:56
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4.5
+Tags: KDE, 
 Slug: kde-sc-45-beta-1
 
 KDE 团队已发布 KDE Software Compilation（下称“KDE SC”）4.5 的第一个

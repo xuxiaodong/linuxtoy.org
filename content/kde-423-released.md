@@ -2,7 +2,7 @@ Title: KDE 4.2.3 发布
 Date: 2009-05-07 09:25
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.2
+Tags: KDE,  
 Slug: kde-423-released
 
 KDE 开发社区已发布了 [KDE

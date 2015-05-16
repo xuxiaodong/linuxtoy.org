@@ -2,7 +2,7 @@ Title: KDE 4.3 Beta 2 发布
 Date: 2009-06-11 11:05
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.3
+Tags: KDE,  
 Slug: kde-43-beta-2-released
 
 KDE 开发社区已面向测试人员发布了 KDE 4.3 Beta 2 版本。KDE 4.3 为 KDE

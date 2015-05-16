@@ -2,7 +2,7 @@ Title: KDE SC 4.4.1 发布
 Date: 2010-03-03 10:25
 Author: toy
 Category: News
-Tags: KDE, KDE 4.4
+Tags: KDE, 
 Slug: kde-sc-441
 
 离 [KDE Software Compilation（KDE  

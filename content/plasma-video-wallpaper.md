@@ -2,7 +2,7 @@ Title: Plasma video wallpaper: KDE 4 视频壁纸
 Date: 2009-09-23 14:45
 Author: toy
 Category: Apps
-Tags: KDE 4, Plasma, Wallpaper
+Tags:  Plasma, Wallpaper
 Slug: plasma-video-wallpaper
 
 Plasma video wallpaper 可将播放的视频设置为桌面壁纸，目前支持  

@@ -2,7 +2,7 @@ Title: Krusader 2.0.0 发布
 Date: 2009-04-13 10:05
 Author: toy
 Category: Apps
-Tags: KDE 4, Krusader
+Tags:  Krusader
 Slug: krusader-200-released
 
 最近，[双面板文件管理器

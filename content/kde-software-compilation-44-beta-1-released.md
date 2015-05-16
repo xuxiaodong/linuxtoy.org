@@ -2,7 +2,7 @@ Title: KDE Software Compilation 4.4 Beta 1 发布
 Date: 2009-12-05 16:25
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4.4
+Tags: KDE, 
 Slug: kde-software-compilation-44-beta-1-released
 
 KDE 团队已发布即将到来的 KDE Software Compilation（KDE SC）4.4  

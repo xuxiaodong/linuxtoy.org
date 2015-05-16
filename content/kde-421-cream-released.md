@@ -2,7 +2,7 @@ Title: KDE 4.2.1 "Cream" 发布
 Date: 2009-03-05 09:25
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.2
+Tags: KDE,  
 Slug: kde-421-cream-released
 
 KDE 团队已发布 KDE 4.2.1（代号“Cream”）。KDE 4.2.1 包含大量的 bug

@@ -2,7 +2,7 @@ Title: KDE 4.1.4 和 4.2 RC 同时发布
 Date: 2009-01-14 09:47
 Author: toy
 Category: News
-Tags: KDE, KDE 4.1, KDE 4.2
+Tags: KDE, , 
 Slug: kde-414-and-42-rc
 
 KDE 社区于今日同时发布了 KDE 4.1.4 和 4.2 RC 两个版本。其中，KDE 4.1.4

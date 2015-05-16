@@ -2,7 +2,7 @@ Title: KDE 4 的新 NetworkManager
 Date: 2009-01-13 17:11
 Author: toy
 Category: Apps
-Tags: KDE 4, NetworkManager
+Tags:  NetworkManager
 Slug: networkmanager-for-kde-4
 
 KDE 贡献者 Sebastian Kügler 已为 KDE 4 桌面环境开发了一个[新的

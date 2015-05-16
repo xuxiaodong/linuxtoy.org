@@ -2,7 +2,7 @@ Title: KDE 更新到 4.2.4
 Date: 2009-06-03 17:58
 Author: toy
 Category: Apps
-Tags: KDE, KDE 4, KDE 4.2
+Tags: KDE,  
 Slug: kde-updated-to-424
 
 KDE 4 桌面环境的稳定分支已更新到了 4.2.4 版本。KDE 4.2.4 开发代号为

@@ -2,7 +2,7 @@ Title: KDE 4.2 Beta 1 发布，包含许多改进
 Date: 2008-11-27 10:14
 Author: toy
 Category: News
-Tags: KDE, KDE 4, KDE 4.2
+Tags: KDE,  
 Slug: kde-42-beta-1
 
 KDE 开发社区已发布了 KDE 4.2 Beta 1（代号“Caterpillar”）。这是 KDE 4.2

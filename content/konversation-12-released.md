@@ -2,7 +2,7 @@ Title: Konversation 1.2 发布
 Date: 2009-10-12 09:00
 Author: toy
 Category: Apps
-Tags: IRC, KDE 4, Konversation
+Tags: IRC,  Konversation
 Slug: konversation-12-released
 
 KDE 桌面环境下的 IRC 客户端 Konversation 在最近发布了新的 1.2

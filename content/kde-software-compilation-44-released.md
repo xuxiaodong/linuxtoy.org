@@ -2,7 +2,7 @@ Title: KDE Software Compilation 4.4 正式发布
 Date: 2010-02-10 10:29
 Author: toy
 Category: News
-Tags: KDE, KDE 4.4
+Tags: KDE, 
 Slug: kde-software-compilation-44-released
 
 KDE 开发社区已正式发布了 KDE Software Compilation（KDE SC）4.4 版本。KDE

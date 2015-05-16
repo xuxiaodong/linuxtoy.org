@@ -2,7 +2,7 @@ Title: Lancelot──KDE 4 菜单替代品
 Date: 2008-08-28 08:00
 Author: toy
 Category: Apps
-Tags: KDE 4, Lancelot
+Tags:  Lancelot
 Slug: lancelot
 
 如果你不喜欢 KDE 4 中现有的 Kickoff 或 KMenu 菜单，不妨考虑 Lancelot

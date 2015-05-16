@@ -2,7 +2,7 @@ Title: Mandriva 助力 K3b 向 KDE 4 移植
 Date: 2009-03-24 11:09
 Author: toy
 Category: News
-Tags: K3b, KDE 4, Mandriva
+Tags: K3b,  Mandriva
 Slug: mandriva-helps-porting-k3b
 
 最近，[Mandriva](http://linuxtoy.org/tag/mandriva) 决定帮助

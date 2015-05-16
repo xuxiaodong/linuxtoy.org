@@ -2,7 +2,7 @@ Title: 简讯: Qt 4.5 Beta、Qt Creator Beta 及 KDE 4.2 Beta2
 Date: 2008-12-19 10:16
 Author: toy
 Category: News
-Tags: KDE 4.2, Qt, Qt Creator
+Tags: , Qt, Qt Creator
 Slug: qt-45-beta-qt-creator-beta-and-kde-42-beta-2
 
 近日，Qt Software 和 KDE 社区相继推出了新的版本供用户测试，包括 [Qt 4.5

@@ -2,7 +2,7 @@ Title: Glib4/GTK4 Roadmap
 Date: 2010-11-02 20:34
 Author: lovenemesis
 Category: News
-Tags: glib4, gtk4
+Tags: glib, gtk
 Slug: glib4gtk4-roadmap
 
 最近举行的 GTK 2010 Hackfest 上公布了 Glib4 和 GTK 4

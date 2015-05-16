@@ -1,7 +1,7 @@
 Title: 全能的笔记软件——Evernote （3.0 beta）
 Date: 2008-04-15 14:30
 Author: Ning Bao
-Category: Apps, Note-Taking
+Category: Apps
 Tags: Beta, Evernote
 Slug: evernote
 

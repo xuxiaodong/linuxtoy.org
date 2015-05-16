@@ -1,7 +1,7 @@
 Title: 10/GUI
 Date: 2010-08-14 01:53
 Author: lovenemesis
-Category: Featured, Reviews
+Category: Featured
 Tags: 10gui
 Slug: 10gui
 

@@ -1,7 +1,7 @@
 Title: text-to-freemind: 将缩进文本转换成freemind
 Date: 2008-07-31 00:11
 Author: lwl
-Category: Cli, Productivity
+Category: Cli
 Tags: convert, freemind, Python
 Slug: text-to-freemind
 

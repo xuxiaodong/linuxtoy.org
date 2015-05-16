@@ -2,7 +2,7 @@ Title: GTK+3 Ambiance 和 Radiance 主题
 Date: 2011-06-23 11:29
 Author: lovenemesis
 Category: Themes
-Tags: gtk3, Ubuntu
+Tags: GTK, Ubuntu
 Slug: gtk3-ambiance-and-radiance-themes
 
 Ubuntu 的 Ambiance 和 Radiance 主题风格移植到 GTK3+ 上了。

@@ -1,7 +1,7 @@
 Title: KDE4 plasma 崩溃了怎么办？如何正确地重启 plasma
 Date: 2009-09-01 11:59
 Author: gmsh
-Category: Apps, Desktop Environment
+Category: Apps
 Tags: KDE, Plasma
 Slug: how-to-restart-plasma-after-crash
 

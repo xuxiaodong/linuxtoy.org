@@ -1,7 +1,7 @@
 Title: 教程：在Linux用摄像头做简单的监控系统 
 Date: 2010-09-06 18:17
 Author: Petty
-Category: Apps, Security
+Category: Apps
 Tags: Camera
 Slug: linux-camera-monitor
 

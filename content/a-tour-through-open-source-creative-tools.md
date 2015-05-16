@@ -1,7 +1,7 @@
 Title: 开源创作工具一览 
 Date: 2012-09-10 17:28
 Author: lovenemesis
-Category: Featured, Image Editor
+Category: Featured
 Tags: audacity, Blender, calligra, cmyktool, darktable, GIMP, hydrogen, Inkscape, kdenlive, mixxx, mypaint, PiTiVi, scribus, SparkleShare, synfig, xournal
 Slug: a-tour-through-open-source-creative-tools
 

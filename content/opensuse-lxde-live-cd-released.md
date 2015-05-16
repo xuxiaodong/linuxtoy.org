@@ -1,7 +1,7 @@
 Title: openSUSE-LXDE live CD 发布
 Date: 2009-09-02 21:15
 Author: gmsh
-Category: Apps, Books, Desktop Environment, Distros, News
+Category: Apps, Books, Desktop Environment, Distros
 Tags: lxde, openSUSE
 Slug: opensuse-lxde-live-cd-released
 

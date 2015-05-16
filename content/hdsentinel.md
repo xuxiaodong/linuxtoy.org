@@ -1,7 +1,7 @@
 Title: HDSentinel：你的硬盘健康吗？
 Date: 2008-11-10 09:43
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Slug: hdsentinel
 
 因为硬盘承载着我们的重要数据，所以时常查看硬盘的健康状况是很有必要的。要达成此目的，你可以使用

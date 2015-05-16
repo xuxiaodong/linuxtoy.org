@@ -1,7 +1,7 @@
 Title: VLC 相关教程三则
 Date: 2010-09-04 22:22
 Author: Petty
-Category: Audio Converter, Movie Player, Music Player, Tips
+Category: Audio Converter, Movie Player, Music Player
 Tags: VLC
 Slug: vlc-resources
 

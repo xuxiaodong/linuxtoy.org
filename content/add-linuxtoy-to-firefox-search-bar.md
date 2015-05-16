@@ -1,7 +1,7 @@
 Title: 将 LinuxTOY 添加到你的 Firefox 搜索栏
 Date: 2007-08-18 09:47
 Author: toy
-Category: Featured, Firefox Extension
+Category: Featured
 Slug: add-linuxtoy-to-firefox-search-bar
 
 虽然我们在 [LinuxTOY](http://linuxtoy.org/)

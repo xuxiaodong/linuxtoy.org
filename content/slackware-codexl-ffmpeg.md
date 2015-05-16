@@ -1,7 +1,7 @@
 Title: 短消息：Slackware CodeXL FFmpeg
 Date: 2012-09-29 13:09
 Author: lovenemesis
-Category: Development, Distros
+Category: Development
 Tags: FFmpeg, hsa, Slackware
 Slug: slackware-codexl-ffmpeg
 

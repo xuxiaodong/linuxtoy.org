@@ -1,7 +1,7 @@
 Title: Linux DLNA
 Date: 2011-08-22 00:00
 Author: lovenemesis
-Category: Featured, Movie Player, Music Player, Network
+Category: Featured, Movie Player, Music Player
 Tags: dlna, Fedora
 Slug: linux-dlna
 

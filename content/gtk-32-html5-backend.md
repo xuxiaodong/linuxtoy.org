@@ -2,7 +2,7 @@ Title: Gtk+ 3.2 HTML5 后端
 Date: 2011-03-18 10:39
 Author: lovenemesis
 Category: News
-Tags: Firefox, gtk3
+Tags: Firefox, GTK
 Slug: gtk-32-html5-backend
 
 GTK+ 3.X 的渲染后端支持达到一个全新的境界，增加 HTML5 渲染后端支持。

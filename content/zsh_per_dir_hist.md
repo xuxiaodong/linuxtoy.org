@@ -1,7 +1,7 @@
 Title: Zsh 技巧三则
 Date: 2009-03-03 10:56
 Author: Kardinal
-Category: Cli, News
+Category: Cli
 Tags: per-Directory  history, Zsh
 Slug: zsh_per_dir_hist
 

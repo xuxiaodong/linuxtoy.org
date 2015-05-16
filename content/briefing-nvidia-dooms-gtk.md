@@ -1,7 +1,7 @@
 Title: 短消息：NVIDIA Doom GTK+ 
 Date: 2011-11-23 18:35
 Author: lovenemesis
-Category: Development, Drivers
+Category: Development
 Tags: doom, GTK+, NVIDIA
 Slug: briefing-nvidia-dooms-gtk
 

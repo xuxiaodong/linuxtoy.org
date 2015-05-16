@@ -2,7 +2,7 @@ Title: GtkInspector
 Date: 2014-05-19 09:02
 Author: lovenemesis
 Category: Development
-Tags: gtk3
+Tags: GTK
 Slug: gtkinspector
 
 GtkInspector 是一款即将在 GTK+ 3.14

@@ -1,7 +1,7 @@
 Title: 介绍 urxvt 插件一枚: vim-scrollback
 Date: 2010-08-13 16:52
 Author: vern
-Category: Cli, Terminal Emulator
+Category: Cli
 Slug: vim-scrollback
 
 这个插件和 urxvt 自带的 searchable-scrollback

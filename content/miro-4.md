@@ -1,7 +1,7 @@
 Title: Miro 4
 Date: 2011-05-25 21:59
 Author: lovenemesis
-Category: BitTorrent Client, Movie Player
+Category: BitTorrent Client
 Tags: Miro
 Slug: miro-4
 

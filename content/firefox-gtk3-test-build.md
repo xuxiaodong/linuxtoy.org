@@ -2,7 +2,7 @@ Title: Firefox GTK3 测试版
 Date: 2014-01-14 15:09
 Author: lovenemesis
 Category: Web Browser
-Tags: Firefox, gtk3
+Tags: Firefox, GTK
 Slug: firefox-gtk3-test-build
 
 Mozilla 将 Firefox 迁移至 GTK3 并移除 X11 特定代码的工作似乎终于会在

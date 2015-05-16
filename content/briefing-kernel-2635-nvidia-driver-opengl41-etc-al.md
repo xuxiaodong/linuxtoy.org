@@ -1,7 +1,7 @@
 Title: 短消息：Kernel 2.6.35, Nvidia OpenGL 4.1 Driver 等
 Date: 2010-08-04 18:59
 Author: lovenemesis
-Category: Distros, Drivers
+Category: Distros
 Tags: Chromium, Kernel, NVIDIA, OpenGL, opensolaris
 Slug: briefing-kernel-2635-nvidia-driver-opengl41-etc-al
 

@@ -1,7 +1,7 @@
 Title: systemd Journal
 Date: 2011-12-01 14:50
 Author: lovenemesis
-Category: Featured, News
+Category: Featured
 Tags: jounral, systemd
 Slug: systemd-journal
 

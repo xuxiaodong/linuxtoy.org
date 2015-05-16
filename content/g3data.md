@@ -1,7 +1,7 @@
 Title: g3data: 从图片中提取数据
 Date: 2008-09-16 21:26
 Author: lwl
-Category: Apps, Image Converter
+Category: Apps
 Tags: data
 Slug: g3data
 

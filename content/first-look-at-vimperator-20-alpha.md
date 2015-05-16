@@ -1,7 +1,7 @@
 Title: Vimperator 2.0 alpha 一瞥
 Date: 2008-12-29 17:58
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Tags: Vimperator
 Slug: first-look-at-vimperator-20-alpha
 

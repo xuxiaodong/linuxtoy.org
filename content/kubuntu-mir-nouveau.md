@@ -1,7 +1,7 @@
 Title: 短消息：Kubuntu Mir 和 Nouveau
 Date: 2013-06-29 17:29
 Author: liangsuilong
-Category: Desktop Environment, Distros
+Category: Desktop Environment
 Tags: canonical, Kubuntu, mir, nouveau, Ubuntu, XMir
 Slug: kubuntu-mir-nouveau
 

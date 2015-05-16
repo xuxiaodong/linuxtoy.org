@@ -1,7 +1,7 @@
 Title: WebQQ 桌面化（更新最终效果图）
 Date: 2009-11-17 00:26
 Author: lovenemesis
-Category: Instant Messenger, Tips
+Category: Instant Messenger
 Tags: alltray, Prism, webqq
 Slug: webqq-desktop-integration
 

@@ -1,7 +1,7 @@
 Title: 短消息：Audacity Songbird Firefox
 Date: 2010-04-03 20:26
 Author: lovenemesis
-Category: Music Editor, Music Player
+Category: Music Editor
 Tags: audacity, Firefox, Songbird
 Slug: shortnews-audacity-songbird-firefox
 

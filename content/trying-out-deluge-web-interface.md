@@ -1,7 +1,7 @@
 Title: 试用  Deluge 的 Web 界面
 Date: 2007-10-18 08:35
 Author: toy
-Category: Apps, BitTorrent Client
+Category: Apps
 Slug: trying-out-deluge-web-interface
 
 [Deluge](http://linuxtoy.org/search/deluge) 是我一直在推荐的 BitTorrent

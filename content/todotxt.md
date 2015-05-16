@@ -1,7 +1,7 @@
 Title: Todo.txt: bash打造的待做事项管理
 Date: 2008-07-29 21:04
 Author: lwl
-Category: Cli, Productivity
+Category: Cli
 Slug: todotxt
 
 [Todo.txt](http://todotxt.com/)是[lifehacker](http://www.lifehacker.com)的[Gina

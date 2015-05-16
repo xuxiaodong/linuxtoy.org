@@ -2,7 +2,7 @@ Title: GNOME 3 宣传 DVD
 Date: 2011-05-16 17:26
 Author: lovenemesis
 Category: Distros
-Tags: gnome3
+Tags: GNOME
 Slug: gnome-3-promo-dvd
 
 GNOME 3 宣传用 DVD 镜像放出，特别适合各种 LUG 活动需要。

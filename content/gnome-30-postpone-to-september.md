@@ -2,7 +2,7 @@ Title: GNOME 3.0 延期至九月
 Date: 2011-04-01 13:33
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3
+Tags: GNOME
 Slug: gnome-30-postpone-to-september
 
 GNOME 基金会宣布原定于 4 月 6 日发布的 **GNOME 3.0 延迟至九月份发布**。

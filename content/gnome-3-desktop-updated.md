@@ -2,7 +2,7 @@ Title: GNOME 3 Desktop(Updated)
 Date: 2011-02-16 14:28
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3
+Tags: GNOME
 Slug: gnome-3-desktop-updated
 
 根据前段时间 Test day 和 User Day 上用户的反馈，搭载 GNOME Shell 的

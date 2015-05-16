@@ -2,7 +2,7 @@ Title: GNOME3 Tweak Tool
 Date: 2011-03-18 08:28
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3
+Tags: GNOME
 Slug: gnome3-tweak-tool
 
 警告:远离 Gnome Tweak Tool，多码代码。*感谢 Chen Yu 来稿！*

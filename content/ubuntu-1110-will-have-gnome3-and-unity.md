@@ -2,7 +2,7 @@ Title: Ubuntu 11.10 将搭载 GNOME 3 + Unity
 Date: 2011-05-01 22:03
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3, Ubuntu
+Tags: GNOME, Ubuntu
 Slug: ubuntu-1110-will-have-gnome3-and-unity
 
 因为 Ubuntu 11.04 "Natty Narwhal" 的开发重心在 Unity 上，故 11.04 搭载

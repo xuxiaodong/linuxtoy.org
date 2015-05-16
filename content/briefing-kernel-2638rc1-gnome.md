@@ -2,7 +2,7 @@ Title: 短消息：Kernel GNOME3
 Date: 2011-01-20 11:39
 Author: lovenemesis
 Category: News
-Tags: gnome3, Kernel
+Tags: GNOME, Kernel
 Slug: briefing-kernel-2638rc1-gnome
 
 短消息两则，**Linux 内核 2.6.38rc1** 发布，**GNOME3 项目**主站上线。

@@ -2,7 +2,7 @@ Title: GNOME 3.8 发布
 Date: 2013-03-28 13:01
 Author: liangsuilong
 Category: Desktop Environment
-Tags: GNOME, gnome3
+Tags: GNOME, GNOME
 Slug: gnome-3-8-release
 
 昨晚 GNOME 基金会发布了 GNOME 3.8 稳定版本。

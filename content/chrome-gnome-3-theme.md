@@ -2,7 +2,7 @@ Title: Chrome GNOME 3 主题
 Date: 2011-06-02 00:08
 Author: lovenemesis
 Category: Themes
-Tags: chrome, gnome3
+Tags: chrome, GNOME
 Slug: chrome-gnome-3-theme
 
 在 GNOME 3 环境下使用 Chrome/Chromium ？那么赶紧看看这款 Adwaita

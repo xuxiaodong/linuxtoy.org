@@ -2,7 +2,7 @@ Title: GNOME3 和 YaST
 Date: 2011-05-03 19:13
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3, openSUSE, yast
+Tags: GNOME, openSUSE, yast
 Slug: gnome3-and-yast
 
 openSUSE 的开发者近日分享了一个 YaST 在 GNOME3 环境下的概念图。

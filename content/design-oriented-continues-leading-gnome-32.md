@@ -2,7 +2,7 @@ Title: 设计继续领着 GNOME 迈向 3.2 版本
 Date: 2011-06-02 13:51
 Author: lovenemesis
 Category: Featured
-Tags: gnome3
+Tags: GNOME
 Slug: design-oriented-continues-leading-gnome-32
 
 Gnome 2.x 系列中，GHIG 起到的作用是非常大的，但在这个系列，Gnome

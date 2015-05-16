@@ -2,7 +2,7 @@ Title: GNOME 3安装配置与使用
 Date: 2011-03-13 08:31
 Author: lovenemesis
 Category: Tips
-Tags: gnome3
+Tags: GNOME
 Slug: gnome-3-configuration-wiki
 
 Fedora 15 Alpha 和 Archlinux

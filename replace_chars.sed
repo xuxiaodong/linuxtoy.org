@@ -18,3 +18,4 @@ s/^(Tags:.*?)qt5(.*)$/\1QT\2/
 s/^(Tags:.*?)KDE 4,(.*)$/\1\2/
 s/^(Tags:.*?)KDE 4\.[0-9](.*)$/\1\2/
 s/^(Tags:.*?)firefox4(.*)$/\1Firefox\2/
+s/^(Tags:.*?)gnome3(.*)$/\1GNOME\2/

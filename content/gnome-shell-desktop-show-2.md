@@ -2,7 +2,7 @@ Title: GNOME Shell Desktop
 Date: 2011-01-24 19:41
 Author: lovenemesis
 Category: Desktop Environment
-Tags: gnome3, Zeitgeist
+Tags: GNOME, Zeitgeist
 Slug: gnome-shell-desktop-show-2
 
 自从[上一次本站报道 GNOME

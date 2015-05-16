@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="content pure-u-1 pure-u-md-11-12">
+    <div class="posts">
+        <h1 class="content-subhead">Recent Posts</h1>
+
+        {% if articles %}
+        {% for article in articles_page.object_list %}
+        <section class="post">
+            {% include 'article_info.html' %}
+            <div class="post-description">
+            {{ article.summary }}
+            </div>
+        </section>
+        {% endfor %}
+        {% endif %}
+    </div>
+    {% include 'pagination.html' %}
+</div>
+{% endblock %}

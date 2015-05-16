@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}">
+        <!--[if lte IE 8]>
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/grids-responsive-old-ie-min.css">
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/side-menu-old-ie.css">
+        <![endif]-->
+        <!--[if gt IE 8]><!-->
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/grids-responsive-min.css">
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/side-menu.css">
+        <!--<![endif]-->
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/icono.min.css">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico">
+        {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
+        {% endif %}
+        {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed">
+        {% endif %}
+        <!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+        <div id="layout" class="pure-g">
+            <div class="sidebar pure-u-1 pure-u-md-1-12">
+                <div class="header">
+                    <a id="menuLink" class="menu-link" href="#menu">
+                        <span></span>
+                    </a>
+
+                    <div id="menu">
+                        <div class="pure-menu">
+                            <a class="pure-menu-heading" href="{{ SITEURL }}/" title="{{ SITENAME }}">
+                                <i class="icono-home"></i>
+                            </a>
+
+                            <ul class="pure-menu-list">
+                                {% if MENUITEMS %}
+                                {% for title, link in MENUITEMS %}
+                                <li class="pure-menu-item">
+                                    <a class="pure-menu-link" href="{{ link }}">{{ title }}</a>
+                                </li>
+                                {% endfor %}
+                                {% endif %}
+
+                                {% set icons = ['book', 'support', 'mail', 'heart', 'exclamationCircle'] %}
+                                {% if DISPLAY_PAGES_ON_MENU -%}
+                                {% for pg in PAGES|sort(attribute='page_order') %}
+                                <li class="pure-menu-item{% if pg == page %} menu-item-divided pure-menu-selected{% endif %}">
+                                    <a class="pure-menu-link" href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">
+                                        <i class="icono-{{ icons[loop.index0 ] }}"></i>
+                                    </a>
+                                </li>
+                                {% endfor %}
+                                {% endif %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {% block content %}
+            {% endblock %}
+        </div>
+
+        <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/ui.js"></script>
+        {% include 'google_analytics.html' %}
+    </body>
+</html>

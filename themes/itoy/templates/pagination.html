@@ -1,0 +1,23 @@
+{% if DEFAULT_PAGINATION %}
+<div class="footer">
+    <div class="pure-menu pure-menu-horizontal">
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item">
+                {% if articles_page.has_previous() %}
+                <a class="pure-button" href="{{ SITEURL }}/{{ articles_previous_page.url }}">Previous</a>
+                {% else %}
+                <a class="pure-button pure-button-disabled" href="#">Previous</a>
+                {% endif %}
+            </li>
+            <li class="pure-menu-item">Pages: {{ articles_page.number }}/{{ articles_paginator.num_pages }}</li>
+            <li class="pure-menu-item">
+                {% if articles_page.has_next() %}
+                <a class="pure-button" href="{{ SITEURL }}/{{ articles_next_page.url }}">Next</a>
+                {% else %}
+                <a class="pure-button pure-button-disabled" href="#">Next</a>
+                {% endif %}
+            </li>
+        </ul>
+    </div>
+</div>
+{% endif %}

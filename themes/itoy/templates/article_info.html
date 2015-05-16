@@ -1,0 +1,21 @@
+<header class="post-header">
+    <h2 class="post-title">
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+    </h2>
+    <p class="post-meta">
+        {{ article.locale_date }}
+        {% if article.authors %}
+        By 
+        {% for author in article.authors %}
+        <a class="post-author" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        {% endfor %}
+        {% endif %}
+        Posted in <a class="post-category" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a> 
+        {% if article.tags %} 
+        Tagged as 
+        {% for tag in article.tags %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape }}</a> 
+        {% endfor %} 
+        {% endif %}
+    </p>
+</header>

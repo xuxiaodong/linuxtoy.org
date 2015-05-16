@@ -2,7 +2,7 @@ Title: Firefox 4 Release Candidate
 Date: 2011-03-10 08:03
 Author: lovenemesis
 Category: Web Browser
-Tags: firefox4
+Tags: Firefox
 Slug: firefox-4-release-candidate
 
 Mozilla 基金会释出 Firefox 4 候选发布版本，宣布正式版本即将到来。

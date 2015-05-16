@@ -2,7 +2,7 @@ Title: Firefox 4 Beta 10
 Date: 2011-01-26 12:13
 Author: lovenemesis
 Category: Web Browser
-Tags: firefox4
+Tags: Firefox
 Slug: firefox-4-beta-10
 
 Mozilla 基金会发布 Firefox 4 Beta 10，按照[计划距离正式发布仅剩一个 Beta

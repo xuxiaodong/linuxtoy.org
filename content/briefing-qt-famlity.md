@@ -2,7 +2,7 @@ Title: 短消息：Qt 家族相关
 Date: 2014-08-21 08:24
 Author: lovenemesis
 Category: Desktop Environment
-Tags: KDE, lxqt, qt5
+Tags: KDE, lxqt, QT
 Slug: briefing-qt-famlity
 
 短消息三则，与 Qt 家族相关。

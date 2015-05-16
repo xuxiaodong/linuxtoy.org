@@ -2,7 +2,7 @@ Title: Qt 5.0 Beta
 Date: 2012-08-31 11:14
 Author: lovenemesis
 Category: Development
-Tags: qt5
+Tags: QT
 Slug: qt-5-0-beta
 
 经历了几番波折，开源跨平台 GUI 库 Qt 终于发布 5.0 Beta 版本。

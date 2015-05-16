@@ -2,7 +2,7 @@ Title: KDE Frameworks 5 发布
 Date: 2014-07-08 08:41
 Author: lovenemesis
 Category: Desktop Environment
-Tags: KDE5
+Tags: KDE
 Slug: kde-frameworks-5-released
 
 KDE Frameworks 5 的首个版本发布，带来了 50

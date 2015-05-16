@@ -2,7 +2,7 @@ Title: KDE 4.1 “Don't look back”  正式发布(中文首发)
 Date: 2008-07-30 00:44
 Author: lovenemesis
 Category: Apps
-Tags: kde4
+Tags: KDE
 Slug: kde41_release
 
 7月29日，KDE社区宣布 KDE 4.1 正式版发布，标志着 KDE4

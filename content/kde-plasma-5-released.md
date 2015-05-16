@@ -2,7 +2,7 @@ Title: KDE Plasma 5 发布
 Date: 2014-07-15 23:06
 Author: lovenemesis
 Category: Desktop Environment
-Tags: KDE, qt5
+Tags: KDE, QT
 Slug: kde-plasma-5-released
 
 KDE 项目组带来了面向最终用户的 Plasma 5 桌面环境。

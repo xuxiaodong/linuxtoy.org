@@ -2,7 +2,7 @@ Title: ScreenCloud
 Date: 2013-01-10 15:13
 Author: lovenemesis
 Category: Cloud
-Tags: qt4
+Tags: QT
 Slug: screencloud
 
 想在社交网络或者没有内嵌截图功能的 IM 中晒自己的桌面？ScreenCloud

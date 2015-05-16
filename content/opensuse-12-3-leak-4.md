@@ -2,7 +2,7 @@ Title: openSUSE 12.3 谍照四：去而复归：一个发行版的传说
 Date: 2013-03-12 23:08
 Author: liangsuilong
 Category: Distros
-Tags: OBS, openSUSE, Qt, qt5
+Tags: OBS, openSUSE, Qt
 Slug: opensuse-12-3-leak-4
 
 # openSUSE 谍照四：去而复归：一个发行版的传说

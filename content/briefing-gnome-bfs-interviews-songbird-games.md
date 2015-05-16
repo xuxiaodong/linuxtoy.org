@@ -1,7 +1,7 @@
 Title: 短消息：Gnome、BFS-Distros、Interviews、Songbird、Games
 Date: 2010-09-04 16:44
 Author: Petty
-Category: Apps, Desktop Environment, Distros, Games
+Category: Apps, Desktop Environment
 Tags: Amnesia, And Yet It Moves, BFS, Game, GNOME, GUADEC, Interview, Songbird
 Slug: briefing-gnome-bfs-interviews-songbird-games
 

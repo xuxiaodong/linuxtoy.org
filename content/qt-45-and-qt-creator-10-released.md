@@ -2,7 +2,7 @@ Title: Qt 4.5 和 Qt Creator 1.0 发布
 Date: 2009-03-03 19:10
 Author: toy
 Category: News
-Tags: Qt, Qt Creator, qt4
+Tags: Qt, Qt Creator, QT
 Slug: qt-45-and-qt-creator-10-released
 
 今天，诺基亚发布了 4.5 版本的 Qt

@@ -2,7 +2,7 @@ Title: 基于Qt4的字典：QStarDict 0.12.9
 Date: 2008-06-22 21:38
 Author: lovenemesis
 Category: Apps
-Tags: qt4, stardict
+Tags: QT, stardict
 Slug: qstardict-0129
 
 QStarDict 是一款基于 Qt4 的 StarDict 的克隆，它完全兼容 StarDict

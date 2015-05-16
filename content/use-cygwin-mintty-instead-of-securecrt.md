@@ -1,7 +1,7 @@
 Title: 使用 Cygwin/mintty 代替 SecureCRT
 Date: 2013-04-10 11:54
 Author: shuge.lee
-Category: Cli, Network, Scripts
+Category: Cli
 Slug: use-cygwin-mintty-instead-of-securecrt
 
 [cygwin] [cygwin] 是 MS-Windows 一个程序，它提供一套 POSIX

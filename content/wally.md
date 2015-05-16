@@ -2,7 +2,7 @@ Title: Wally：壁纸更换工具
 Date: 2008-09-10 10:16
 Author: toy
 Category: Apps
-Tags: qt4, Wally
+Tags: QT, Wally
 Slug: wally
 
 Wally 是一个基于 Qt4 的壁纸更换程序。Wally

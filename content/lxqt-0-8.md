@@ -2,7 +2,7 @@ Title: LXQt 0.8
 Date: 2014-10-15 14:12
 Author: lovenemesis
 Category: Desktop Environment
-Tags: lxqt, qt5
+Tags: lxqt, QT
 Slug: lxqt-0-8
 
 LXDE 与 Razor-qt 合体来的 LXQt 终于发布支持 Qt5 的 0.8 版本。

@@ -2,7 +2,7 @@ Title: KDEmod 4.1 出炉了！
 Date: 2008-07-31 14:33
 Author: Ning Bao
 Category: Tips
-Tags: Archlinux, KDE, kde4, kdemod
+Tags: Archlinux, KDE, KDE, kdemod
 Slug: kdemod-41
 
 Archlinux的卖点之一就是其精雕细琢的KDE环境，[KDEmod](http://kdemod.ath.cx/)。  

@@ -2,7 +2,7 @@ Title: Archlinux 向 KDE 4.1 进军
 Date: 2008-07-30 13:00
 Author: toy
 Category: News
-Tags: Archlinux, kde4
+Tags: Archlinux, KDE
 Slug: archlinux-kde-41
 
 [撰文/max0000]

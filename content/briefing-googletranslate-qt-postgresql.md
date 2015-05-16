@@ -1,7 +1,7 @@
 Title: 短消息：Google翻译 Qt PostgreSQL
 Date: 2010-09-02 17:41
 Author: Petty
-Category: Apps, Development
+Category: Apps
 Tags: Google, PostgreSQL, Qt
 Slug: briefing-googletranslate-qt-postgresql
 

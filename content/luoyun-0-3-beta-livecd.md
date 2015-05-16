@@ -1,7 +1,7 @@
 Title: LuoYun 云计算平台 0.3 Beta 版本 LiveCD 发布
 Date: 2012-06-14 08:20
 Author: jianlee
-Category: Cloud, News
+Category: Cloud
 Tags: cloud, 落云, 虚拟化, LuoYun, opensource, 云计算
 Slug: luoyun-0-3-beta-livecd
 

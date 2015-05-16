@@ -1,7 +1,7 @@
 Title: Songbird 扩展推荐
 Date: 2009-07-24 22:50
 Author: lovenemesis
-Category: Firefox Extension, Music Player
+Category: Firefox Extension
 Tags: Songbird
 Slug: songbird-extensions-recommending
 

@@ -1,7 +1,7 @@
 Title: Audio-convert-mod: 3 步搞定 Linux 下的音频转换
 Date: 2008-04-24 09:54
 Author: toy
-Category: Apps, Audio Converter
+Category: Apps
 Tags: Audio-convert-mod
 Slug: audio-convert-mod
 

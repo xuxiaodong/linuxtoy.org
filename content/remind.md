@@ -1,7 +1,7 @@
 Title: Remind: 命令行的 calendar 及 todo list
 Date: 2009-03-11 14:17
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Calendar, Remind, Todo list
 Slug: remind
 

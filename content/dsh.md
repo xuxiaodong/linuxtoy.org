@@ -1,7 +1,7 @@
 Title: dsh：分布式 shell
 Date: 2008-08-20 18:24
 Author: hmy
-Category: Apps, Cli
+Category: Apps
 Slug: dsh
 
 [撰文/hmy]

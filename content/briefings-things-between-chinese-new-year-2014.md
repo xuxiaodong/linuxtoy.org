@@ -1,7 +1,7 @@
 Title: 短消息：2014 春节前后
 Date: 2014-02-04 13:55
 Author: lovenemesis
-Category: Distros, Office Suite
+Category: Distros
 Tags: libreoffice, lightworks, mageia
 Slug: briefings-things-between-chinese-new-year-2014
 

@@ -1,7 +1,7 @@
 Title: 短消息：Audacity Flock VLC
 Date: 2011-04-13 12:25
 Author: lovenemesis
-Category: Movie Player, Music Editor
+Category: Movie Player
 Tags: audacity, flock, VLC
 Slug: audacity-flock-vlc
 

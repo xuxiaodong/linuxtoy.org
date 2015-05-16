@@ -1,7 +1,7 @@
 Title: Wine 1.1.16 发布
 Date: 2009-02-28 09:52
 Author: toy
-Category: Apps, Emulator
+Category: Apps
 Tags: Wine
 Slug: wine-1116-released
 

@@ -1,7 +1,7 @@
 Title: Fcitx 有偿开发资助计划
 Date: 2012-07-21 11:07
 Author: liangsuilong
-Category: Apps, AskLinuxtoy, Featured, Input Method
+Category: Apps, AskLinuxtoy, Featured
 Tags: Fcitx, Qt, sponsor
 Slug: fcitx-sponsor-development-plan
 

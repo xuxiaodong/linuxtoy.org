@@ -1,7 +1,7 @@
 Title: 短消息：Chrome Linux Flash
 Date: 2010-02-25 05:17
 Author: lovenemesis
-Category: Movie Player, News
+Category: Movie Player
 Tags: chrome, Flash, Kernel
 Slug: shortnews-chrome-linux-flash
 

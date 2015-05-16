@@ -1,7 +1,7 @@
 Title: 桌面 Linux 下付费软件的使用体验分享
 Date: 2012-08-10 17:15
 Author: lovenemesis
-Category: Featured, Reviews
+Category: Featured
 Tags: valve
 Slug: linux-paid-software-experience-share
 

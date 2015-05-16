@@ -1,7 +1,7 @@
 Title: FEBE — 轻松备份 Firefox 配置
 Date: 2007-08-26 08:00
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: firefox-environment-backup-extension
 
 [FEBE](http://www.customsoftwareconsult.com/extensions/febe/febe.html)

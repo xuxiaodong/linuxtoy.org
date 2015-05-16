@@ -1,7 +1,7 @@
 Title: Firefox 扩展：GooglePreview
 Date: 2007-08-07 08:30
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: googlepreview
 
 GooglePreview 这个 Firefox 扩展可以为你在 Google 及 Yahoo

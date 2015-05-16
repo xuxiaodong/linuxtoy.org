@@ -1,7 +1,7 @@
 Title: cpulimit: 限制进程的 CPU 占用率
 Date: 2010-02-27 10:23
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: CPU, cpulimit
 Slug: cpulimit
 

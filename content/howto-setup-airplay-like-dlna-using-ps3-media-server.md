@@ -1,7 +1,7 @@
 Title: 使用 PS3 Media Server 构建 DLNA 家庭媒体网络
 Date: 2012-08-17 17:38
 Author: lovenemesis
-Category: Featured, Server
+Category: Featured
 Tags: dlna
 Slug: howto-setup-airplay-like-dlna-using-ps3-media-server
 

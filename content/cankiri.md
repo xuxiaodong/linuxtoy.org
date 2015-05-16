@@ -1,7 +1,7 @@
 Title: Cankiri：小巧实用的屏幕录像机
 Date: 2006-07-31 10:58
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: cankiri
 
 我在阅读 Michael Urman 的 [Blog](http://www.tortall.net/mu/blog/)

@@ -2,7 +2,7 @@ Title: Permutation GTK+ Theme
 Date: 2008-08-16 09:21
 Author: toy
 Category: Themes
-Tags: GTK2, Themes
+Tags: GTK, Themes
 Slug: permutation-gtk-theme
 
 这是一套看起来不错的 GTK 2 主题。注意，它需要 Clearlooks 和 Aurora

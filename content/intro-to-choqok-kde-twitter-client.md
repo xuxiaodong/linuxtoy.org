@@ -1,7 +1,7 @@
 Title: 中国大陆的 KDE 用户可借 choqoK 发推 - KDE 下 Twitter 客户端 choqoK 介绍
 Date: 2009-08-26 17:46
 Author: gmsh
-Category: Apps, News, Tips
+Category: Apps, News
 Tags: choqoK, KDE, Twitter
 Slug: intro-to-choqok-kde-twitter-client
 

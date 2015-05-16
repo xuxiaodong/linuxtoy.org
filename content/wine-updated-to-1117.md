@@ -1,7 +1,7 @@
 Title: Wine 更新至 1.1.17
 Date: 2009-03-14 09:38
 Author: toy
-Category: Apps, Emulator
+Category: Apps
 Tags: Wine
 Slug: wine-updated-to-1117
 

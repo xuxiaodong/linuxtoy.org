@@ -1,7 +1,7 @@
 Title: Compiz Fusion：新插件　新效果
 Date: 2007-07-27 09:01
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: compiz-fusion
 
 Compiz Fusion 是 Compiz 和 Beryl

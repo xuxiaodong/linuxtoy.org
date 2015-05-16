@@ -1,7 +1,7 @@
 Title: Freespire 2.0 Screenshots
 Date: 2007-08-09 11:12
 Author: toy
-Category: Distros, Featured
+Category: Distros
 Slug: freespire-20-screenshots
 
 昨天，[Linspire](http://www.linspire.com/) 发布了

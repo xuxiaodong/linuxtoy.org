@@ -1,7 +1,7 @@
 Title: 如何在 Fedora 上使用 BOINC
 Date: 2009-04-20 23:09
 Author: lovenemesis
-Category: Featured, News
+Category: Featured
 Tags: boinc, Fedora
 Slug: how-to-install-boinc-on-fedora
 

@@ -1,7 +1,7 @@
 Title: Linux 工具箱 — 文件管理器 [17 款]
 Date: 2007-09-06 08:00
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: linux-toolbox-file-managers
 
 在平常使用 Linux

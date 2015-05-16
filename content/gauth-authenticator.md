@@ -1,7 +1,7 @@
 Title: GAuth Authenticator
 Date: 2012-06-18 15:39
 Author: lovenemesis
-Category: Desktop Stuff, Google Chrome Extension
+Category: Desktop Stuff
 Slug: gauth-authenticator
 
 GAuth Authenticator 是一款 [@gbraad](http://twitter.com/#!/gbraad) 使用

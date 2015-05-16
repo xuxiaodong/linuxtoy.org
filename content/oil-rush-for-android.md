@@ -1,7 +1,7 @@
 Title: Oil Rush for Android
 Date: 2013-01-23 13:32
 Author: lovenemesis
-Category: Android, Games
+Category: Android
 Slug: oil-rush-for-android
 
 本站先前跟踪报道的[即时战略游戏 Oil

@@ -1,7 +1,7 @@
 Title: Firefox 3.0.8 修正安全漏洞
 Date: 2009-03-28 10:10
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Firefox, Mozilla
 Slug: firefox-308
 

@@ -1,7 +1,7 @@
 Title: 如何在 Sony Playstation 3 安装 Fedora 9
 Date: 2008-07-29 01:06
 Author: lovenemesis
-Category: Featured, News
+Category: Featured
 Tags: Fedora, ps3
 Slug: howto_install_fedora9_ps3
 

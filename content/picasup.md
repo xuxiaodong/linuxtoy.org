@@ -1,7 +1,7 @@
 Title: picasup: picasa相册上传脚本
 Date: 2008-08-11 22:11
 Author: lwl
-Category: Apps, Cli
+Category: Apps
 Slug: picasup
 
 [picasup](http://code.google.com/p/picasup/)是一个python脚本，利用google的API来上传照片到picasa，仅仅41行。谢谢作者[王元涛](http://todwang.blogspot.com/2008/07/simple-picasa-synchronizer-in-console.html)。

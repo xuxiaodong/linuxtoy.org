@@ -1,7 +1,7 @@
 Title: Cacti：网络流量监测工具
 Date: 2008-08-26 17:42
 Author: MDZ
-Category: Apps, Network
+Category: Apps
 Tags: cacti, 监测, 网络, 流量
 Slug: cacti
 

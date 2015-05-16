@@ -1,7 +1,7 @@
 Title: ChmSee 1.0.4 发布
 Date: 2009-03-15 09:53
 Author: toy
-Category: Apps, CHM Viewer
+Category: Apps
 Tags: ChmSee
 Slug: chmsee-104-released
 

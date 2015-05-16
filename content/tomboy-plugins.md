@@ -1,7 +1,7 @@
 Title: 6 个值得一用的 Tomboy 插件
 Date: 2007-07-14 18:33
 Author: toy
-Category: Apps, Note-Taking
+Category: Apps
 Slug: tomboy-plugins
 
 [Tomboy](http://linuxtoy.org/archives/tomboy.html) 是 GNOME

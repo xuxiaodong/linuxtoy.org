@@ -1,7 +1,7 @@
 Title: 10 个最酷的 Linux 单行命令
 Date: 2010-03-19 21:13
 Author: toy
-Category: Cli, Featured
+Category: Cli
 Tags: Commandline
 Slug: top-10-one-liners
 

@@ -1,7 +1,7 @@
 Title: 使用Python查询纯真IP(最新修改，无乱码）
 Date: 2009-05-27 10:48
 Author: jianlee
-Category: Cli, Tips
+Category: Cli
 Tags: ip, Python, QQWry.Dat
 Slug: python-ip
 

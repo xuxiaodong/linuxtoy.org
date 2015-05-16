@@ -1,7 +1,7 @@
 Title: Google Chrome Linux 版截图现身
 Date: 2009-02-28 10:24
 Author: toy
-Category: Apps, Screenshots
+Category: Apps
 Tags: Google Chrome
 Slug: google-chrome-for-linux-screenshots
 

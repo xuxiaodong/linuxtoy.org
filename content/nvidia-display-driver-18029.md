@@ -1,7 +1,7 @@
 Title: NVIDIA 显示驱动更新至 180.29
 Date: 2009-02-12 20:22
 Author: toy
-Category: Apps, Drivers
+Category: Apps
 Tags: NVIDIA
 Slug: nvidia-display-driver-18029
 

@@ -1,7 +1,7 @@
 Title: 短消息：Gentoo Avidemux Scribus Wine
 Date: 2012-01-03 11:18
 Author: lovenemesis
-Category: Distros, Emulator, Music Editor
+Category: Distros, Emulator
 Tags: avidemux, Gentoo, scribus, Wine
 Slug: briefing-gentoo-avidemux-scribus-wine
 

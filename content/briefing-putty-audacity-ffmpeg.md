@@ -1,7 +1,7 @@
 Title: 短消息：PuTTY Audacity FFmpeg
 Date: 2011-12-13 09:17
 Author: lovenemesis
-Category: Music Editor, Productivity
+Category: Music Editor
 Tags: audacity, FFmpeg, putty
 Slug: briefing-putty-audacity-ffmpeg
 

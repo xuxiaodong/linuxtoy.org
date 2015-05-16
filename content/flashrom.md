@@ -1,7 +1,7 @@
 Title: 使用 Flashrom 在 Linux 下备份或刷写 BIOS
 Date: 2009-01-22 11:33
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Tags: BIOS, Flashrom
 Slug: flashrom
 

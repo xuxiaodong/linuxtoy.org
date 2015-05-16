@@ -1,7 +1,7 @@
 Title: Vuze 4.X 系列简体中文汉化版
 Date: 2009-02-07 00:29
 Author: lovenemesis
-Category: BitTorrent Client, Featured
+Category: BitTorrent Client
 Tags: vuze
 Slug: vuze4-series-simplified-chinese
 

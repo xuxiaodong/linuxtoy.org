@@ -1,7 +1,7 @@
 Title: 邪恶的 eshell
 Date: 2011-10-16 19:18
 Author: Kardinal
-Category: News, Themes
+Category: News
 Slug: emacs-eshell
 
 对于一个经常“被跨平台”的人来说，Windows 下没有一个好用的

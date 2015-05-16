@@ -2,7 +2,7 @@ Title: 三套漂亮的 Linux 桌面主题
 Date: 2008-08-30 09:50
 Author: toy
 Category: Themes
-Tags: Emerald, GTK2, Pekwm, Themes
+Tags: Emerald, GTK, Pekwm, Themes
 Slug: 3-beautiful-themes-for-linux
 
 向大家推荐三套漂亮的 Linux

@@ -1,7 +1,7 @@
 Title: SamePlace — 在 Firefox 侧栏使用的即时通讯软件
 Date: 2007-10-04 11:05
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: sameplace
 
 [SamePlace](http://sameplace.cc/) 是一个有意思的即时通讯客户端，它作为

@@ -1,7 +1,7 @@
 Title: 使用 MyPasswordSafe 管理密码
 Date: 2007-11-09 09:15
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: mypasswordsafe
 
 网络时代，真可谓密码无处不在。如果密码太多，那么仅靠人脑记忆是很不够的。在

@@ -1,7 +1,7 @@
 Title: 不错的音乐播放及管理软件——Banshee
 Date: 2006-08-01 14:11
 Author: toy
-Category: Apps, Music Player
+Category: Apps
 Slug: banshee
 
 不得不承认，[Banshee](http://www.banshee-project.org)

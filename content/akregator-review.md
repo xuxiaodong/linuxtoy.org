@@ -1,7 +1,7 @@
 Title: Akregator 使用评测
 Date: 2007-06-02 18:24
 Author: toy
-Category: Apps, Feed Reader
+Category: Apps
 Slug: akregator-review
 
 [Akregator](http://akregator.kde.org/) 是一款 KDE 桌面环境下的 Feed

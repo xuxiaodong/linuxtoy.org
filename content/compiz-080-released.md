@@ -1,7 +1,7 @@
 Title: Compiz 0.8.0 发布
 Date: 2009-02-21 11:52
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Compiz
 Slug: compiz-080-released
 

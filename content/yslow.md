@@ -1,7 +1,7 @@
 Title: YSlow：为你的网页加速
 Date: 2007-07-26 10:08
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: yslow
 
 YSlow 是由 Yahoo 所发布的 Firefox

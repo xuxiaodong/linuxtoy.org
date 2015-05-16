@@ -1,7 +1,7 @@
 Title: Cockpit：基于 Web 的图形化服务管理工具
 Date: 2014-02-13 11:26
 Author: lovenemesis
-Category: Productivity, Server
+Category: Productivity
 Tags: cockpit
 Slug: cockpit-web-based-gui-service-managment-tool
 

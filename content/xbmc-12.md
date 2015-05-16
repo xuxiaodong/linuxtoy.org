@@ -1,7 +1,7 @@
 Title: XBMC 12 发布
 Date: 2013-01-30 11:22
 Author: toy
-Category: Android, Movie Player
+Category: Android
 Tags: XBMC
 Slug: xbmc-12
 

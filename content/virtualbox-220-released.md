@@ -1,7 +1,7 @@
 Title: VirtualBox 2.2.0 发布
 Date: 2009-04-09 09:48
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: VirtualBox, VM
 Slug: virtualbox-220-released
 

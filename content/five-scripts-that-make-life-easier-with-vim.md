@@ -1,7 +1,7 @@
 Title: 5 个使 Vim 更易用的脚本
 Date: 2007-06-07 18:10
 Author: toy
-Category: Apps, Scripts
+Category: Apps
 Tags: Vim
 Slug: five-scripts-that-make-life-easier-with-vim
 

@@ -1,7 +1,7 @@
 Title: Amarok 更新至 2.0.2 版
 Date: 2009-03-06 09:38
 Author: toy
-Category: Apps, Music Player
+Category: Apps
 Tags: Amarok, Amarok 2
 Slug: amarok-updated-to-202
 

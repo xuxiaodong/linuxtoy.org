@@ -1,7 +1,7 @@
 Title: PyTone - 一个控制台音乐播放器
 Date: 2007-08-03 08:00
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Slug: pytone
 
 [PyTone](http://www.luga.de/pytone/) 是一款使用 Python

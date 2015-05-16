@@ -1,7 +1,7 @@
 Title: cw: 给你的 Linux 命令输出一点颜色
 Date: 2010-03-26 20:31
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: cw
 Slug: cw-color-wrapper
 

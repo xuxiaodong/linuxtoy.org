@@ -1,7 +1,7 @@
 Title: KDE 4.0 Beta 1 屏照集
 Date: 2007-08-02 13:58
 Author: toy
-Category: Apps, Desktop Environment, Featured
+Category: Apps, Desktop Environment
 Slug: kde-40-beta-1-screenshots
 
 从 [Nicky](http://www.osxcn.com/ubuntu/kde-40-beta-1-live-cd.html)

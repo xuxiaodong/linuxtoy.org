@@ -1,7 +1,7 @@
 Title: 浅谈各种软件包转换及在openSUSE下如何安装deb包
 Date: 2009-08-31 19:55
 Author: gmsh
-Category: Apps, Tools
+Category: Apps
 Tags: alien, openSUSE
 Slug: how-to-install-deb-file-in-opensuse
 

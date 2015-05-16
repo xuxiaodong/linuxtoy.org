@@ -1,7 +1,7 @@
 Title: Puppy Arcade 10
 Date: 2010-12-05 21:13
 Author: lovenemesis
-Category: Distros, Emulator
+Category: Distros
 Tags: arcade, puppy
 Slug: puppy-arcade-10
 

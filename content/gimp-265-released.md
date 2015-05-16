@@ -1,7 +1,7 @@
 Title: GIMP 发布 2.6.5 bug 修订版
 Date: 2009-02-16 17:02
 Author: toy
-Category: Apps, Image Editor
+Category: Apps
 Tags: GIMP
 Slug: gimp-265-released
 

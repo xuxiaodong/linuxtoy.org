@@ -1,7 +1,7 @@
 Title: 短消息：Samsung Catalyst openSUSE
 Date: 2012-06-06 15:34
 Author: lovenemesis
-Category: Distros, Drivers
+Category: Distros
 Tags: AMD, briefing, openSUSE, samsung
 Slug: briefing-samsung-catalyst-opensuse
 

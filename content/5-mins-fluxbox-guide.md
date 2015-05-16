@@ -1,7 +1,7 @@
 Title: 5 分钟 Fluxbox 指南
 Date: 2011-07-04 00:00
 Author: lovenemesis
-Category: Featured, Tutorials
+Category: Featured
 Tags: Fluxbox
 Slug: 5-mins-fluxbox-guide
 

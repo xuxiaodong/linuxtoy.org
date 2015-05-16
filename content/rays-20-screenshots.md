@@ -1,7 +1,7 @@
 Title: RAYS 2.0 屏幕截图集锦
 Date: 2007-10-13 10:22
 Author: toy
-Category: Distros, Featured
+Category: Distros
 Slug: rays-20-screenshots
 
 我们安装了两天前[由新华 Linux 所发布的 RAYS 的最新版本

@@ -1,7 +1,7 @@
 Title: GNOME环境下清理右键菜单项
 Date: 2010-04-30 17:49
 Author: shuge.lee
-Category: Desktop Environment, Desktop Stuff
+Category: Desktop Environment
 Tags: GNOME
 Slug: cleanup-right-popup-menuitem-on-gnome
 

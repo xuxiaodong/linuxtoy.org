@@ -1,7 +1,7 @@
 Title: 在 Ubuntu 中运行 µTorrent
 Date: 2007-01-09 18:50
 Author: toy
-Category: Apps, BitTorrent Client
+Category: Apps
 Slug: run_utorrent_on_ubuntu
 
 [µTorrent](http://www.utorrent.com/) 是 Windows 下流行的 BitTorrent

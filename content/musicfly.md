@@ -1,7 +1,7 @@
 Title: Musicfly: 支持歌词显示的音乐播放器前端
 Date: 2009-08-27 18:49
 Author: toy
-Category: Apps, Music Player
+Category: Apps
 Tags: GNOME, Musicfly
 Slug: musicfly
 

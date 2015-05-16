@@ -1,7 +1,7 @@
 Title: CoreAVC 1.9 for Linux 安装指南
 Date: 2009-03-03 13:51
 Author: lovenemesis
-Category: Featured, Movie Player
+Category: Featured
 Tags: coreavc, mplayer
 Slug: coreavc-19-for-linux-installation-guide
 

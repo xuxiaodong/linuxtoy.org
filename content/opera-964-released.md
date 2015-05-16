@@ -1,7 +1,7 @@
 Title: Opera 9.64 发布
 Date: 2009-03-04 15:04
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Opera
 Slug: opera-964-released
 

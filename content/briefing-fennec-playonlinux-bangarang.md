@@ -1,7 +1,7 @@
 Title: 短消息: Fennec Play Bangarang
 Date: 2010-08-30 01:31
 Author: lovenemesis
-Category: Games, Movie Player
+Category: Games
 Tags: Bangarang, fennec, PlayOnLinux
 Slug: briefing-fennec-playonlinux-bangarang
 

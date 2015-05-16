@@ -1,7 +1,7 @@
 Title: 点亮世界：Mozilla Firefox 5 周年回顾
 Date: 2009-11-09 22:35
 Author: lovenemesis
-Category: Featured, Reviews
+Category: Featured
 Tags: Firefox
 Slug: mozilla-firefox-5th-anniversary
 

@@ -1,7 +1,7 @@
 Title: Skype Call Recoder
 Date: 2010-10-02 16:19
 Author: lovenemesis
-Category: Instant Messenger, Note-Taking
+Category: Instant Messenger
 Tags: Recorder, Skype
 Slug: skype-call-recoder
 

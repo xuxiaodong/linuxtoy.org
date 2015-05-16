@@ -1,7 +1,7 @@
 Title: Bangarang: KDE 媒体播放器
 Date: 2010-02-11 14:34
 Author: toy
-Category: Apps, Movie Player
+Category: Apps
 Tags: Bangarang, KDE
 Slug: bangarang
 

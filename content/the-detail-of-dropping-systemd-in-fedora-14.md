@@ -1,7 +1,7 @@
 Title: Systemd 落选 Fedora 14 的详细原因
 Date: 2010-09-19 14:50
 Author: liangsuilong
-Category: Distros, Featured
+Category: Distros
 Tags: Fedora, systemd
 Slug: the-detail-of-dropping-systemd-in-fedora-14
 

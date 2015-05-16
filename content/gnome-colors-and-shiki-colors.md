@@ -2,7 +2,7 @@ Title: [主题推荐日]GNOME-colors + Shiki-colors
 Date: 2008-11-17 11:13
 Author: toy
 Category: Themes
-Tags: GNOME, GTK2, Icons
+Tags: GNOME, GTK, Icons
 Slug: gnome-colors-and-shiki-colors
 
 GNOME-colors 这套图标集包括

@@ -1,7 +1,7 @@
 Title: Metacity 获得复合特性
 Date: 2007-12-06 10:17
 Author: toy
-Category: Apps, News
+Category: Apps
 Slug: metacity-gets-composite-features
 
 GNOME 用户还在艳羡 [KDE 4.0 中 KWin

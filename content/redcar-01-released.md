@@ -1,7 +1,7 @@
 Title: Redcar 0.1 发布
 Date: 2009-04-06 09:22
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Redcar
 Slug: redcar-01-released
 

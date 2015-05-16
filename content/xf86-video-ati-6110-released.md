@@ -1,7 +1,7 @@
 Title: xf86-video-ati 6.11.0 发布
 Date: 2009-02-19 11:25
 Author: toy
-Category: Apps, Drivers
+Category: Apps
 Tags: ATI
 Slug: xf86-video-ati-6110-released
 

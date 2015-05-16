@@ -1,7 +1,7 @@
 Title: 可曾记得（一）：BluePoint Linux 1.0
 Date: 2009-01-24 23:21
 Author: lovenemesis
-Category: Distros, Featured
+Category: Distros
 Tags: bluepoint, remember
 Slug: remember-bluepoint-linux-10
 

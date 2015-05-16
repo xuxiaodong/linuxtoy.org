@@ -1,7 +1,7 @@
 Title: 小米 vs. GPL
 Date: 2015-01-19 13:06
 Author: lovenemesis
-Category: Android, Featured
+Category: Android
 Tags: Android
 Slug: xiaomi-vs-gpl
 

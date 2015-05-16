@@ -1,7 +1,7 @@
 Title: 再来个源代码分析阅读器：LXR
 Date: 2008-11-20 11:26
 Author: MDZ
-Category: Apps, Development
+Category: Apps
 Tags: Linux, LXR, 源代码阅读
 Slug: lxr
 

@@ -1,7 +1,7 @@
 Title: Unix/Linux 命令速查表
 Date: 2007-08-03 15:07
 Author: toy
-Category: Cli, Featured
+Category: Cli
 Slug: unix-linux-command-cheat-sheet
 
 这份 Unix/Linux 命令速查表来自

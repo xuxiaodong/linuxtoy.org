@@ -1,7 +1,7 @@
 Title: APG：密码生成器
 Date: 2008-08-25 09:51
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: APG, Password Generator
 Slug: apg
 

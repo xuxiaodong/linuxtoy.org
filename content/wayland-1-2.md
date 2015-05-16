@@ -1,7 +1,7 @@
 Title: Wayland 1.2
 Date: 2013-07-14 00:06
 Author: liangsuilong
-Category: Apps, Distros, Embedded
+Category: Apps, Distros
 Tags: Sailfish, wayland
 Slug: wayland-1-2
 

@@ -1,7 +1,7 @@
 Title: Firefox 扩展：Sidebar on Right
 Date: 2007-07-23 15:10
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: sidebar-on-right
 
 Sidebar on Right 是一个简单实用的 Firefox 扩展，它的主要功能是将 Firefox

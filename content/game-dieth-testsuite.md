@@ -1,7 +1,7 @@
 Title: 短消息：Dinosaur 讣告 TestSuite KDEapps and etc.
 Date: 2010-09-02 22:03
 Author: Petty
-Category: Apps, BitTorrent Client, Books, Games, News, Office Suite, Tools, We reading
+Category: Apps, BitTorrent Client, Books, Games, News, Office Suite, Tools
 Tags: Firefox, Game Test News, Ksplice, Mesa
 Slug: game-dieth-testsuite
 

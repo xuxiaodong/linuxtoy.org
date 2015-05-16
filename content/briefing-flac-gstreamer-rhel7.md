@@ -1,7 +1,7 @@
 Title: 短消息：FLAC GStreamer RHEL7
 Date: 2013-06-14 09:05
 Author: lovenemesis
-Category: Desktop Environment, Development
+Category: Desktop Environment
 Tags: flac, Gstreamer, RHEL
 Slug: briefing-flac-gstreamer-rhel7
 

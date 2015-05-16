@@ -1,7 +1,7 @@
 Title: ePDFView 0.1.7 发布
 Date: 2009-03-03 10:46
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: ePDFView, PDF
 Slug: epdfview-017-released
 

@@ -1,7 +1,7 @@
 Title: Ubuntu Edge 手机（鉴于价格变动过于频繁本文不再更新）
 Date: 2013-07-23 00:23
 Author: liangsuilong
-Category: Android, Distros
+Category: Android
 Tags: Android, Ubuntu, Ubuntu Edge
 Slug: ubuntu-edge-smartphone
 

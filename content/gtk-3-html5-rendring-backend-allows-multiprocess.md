@@ -1,7 +1,7 @@
 Title: GTK+ 3 HTML5 渲染后端实现多进程支持
 Date: 2012-12-28 12:08
 Author: lovenemesis
-Category: Desktop Stuff, Development
+Category: Desktop Stuff
 Tags: GTK+, html5
 Slug: gtk-3-html5-rendring-backend-allows-multiprocess
 

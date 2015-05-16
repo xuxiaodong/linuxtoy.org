@@ -1,7 +1,7 @@
 Title: Atop: 监视 Linux 系统性能
 Date: 2010-03-23 19:42
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Atop, top
 Slug: atop
 

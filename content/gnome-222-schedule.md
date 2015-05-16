@@ -1,7 +1,7 @@
 Title: GNOME 2.22 发布计划
 Date: 2007-10-06 09:33
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: gnome-222-schedule
 
 GNOME 每六个月完成一次发布。在 [GNOME 2.20

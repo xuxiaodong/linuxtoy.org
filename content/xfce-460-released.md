@@ -1,7 +1,7 @@
 Title: Xfce 4.6.0 正式发布
 Date: 2009-02-27 13:45
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Tags: DE, Xfce
 Slug: xfce-460-released
 

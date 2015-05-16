@@ -1,7 +1,7 @@
 Title: webOS Isis 开源
 Date: 2012-02-15 12:52
 Author: lovenemesis
-Category: Development, Embedded
+Category: Development
 Tags: Qt, Webkit, webos
 Slug: webos-isis-open-sourced
 

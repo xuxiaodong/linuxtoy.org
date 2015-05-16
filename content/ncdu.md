@@ -1,7 +1,7 @@
 Title: ncdu: 磁盘占用分析器
 Date: 2010-02-05 10:09
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: ncdu
 Slug: ncdu
 

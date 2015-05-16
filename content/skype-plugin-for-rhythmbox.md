@@ -1,7 +1,7 @@
 Title: 听我的音乐：Rhythmbox 的 Skype 状态插件
 Date: 2009-09-06 21:58
 Author: lovenemesis
-Category: Instant Messenger, Music Player
+Category: Instant Messenger
 Tags: rhythmbox, Skype
 Slug: skype-plugin-for-rhythmbox
 

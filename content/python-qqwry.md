@@ -1,7 +1,7 @@
 Title: 使用Python查询纯真IP(完整)
 Date: 2014-08-09 15:52
 Author: jianlee
-Category: Apps, News, Tips, Tools
+Category: Apps, News, Tips
 Slug: python-qqwry
 
 纯真IP是一个非常不错的IP数据库

@@ -1,7 +1,7 @@
 Title: Firefox 特色扩展：Video Download
 Date: 2006-09-21 20:44
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: video_download
 
 [Video Download](http://www.viloader.net) 是一个实用的 Firefox

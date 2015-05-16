@@ -1,7 +1,7 @@
 Title: Fedora 下安装 Nimbus 主题引擎
 Date: 2008-12-27 20:38
 Author: lovenemesis
-Category: Apps, Desktop Stuff, Themes
+Category: Apps, Desktop Stuff
 Tags: Fedora, nimbus, opensolaris
 Slug: howto_install_nimbus_engine_under_fedora
 

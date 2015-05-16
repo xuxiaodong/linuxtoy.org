@@ -1,7 +1,7 @@
 Title: Fedora 18 安装前指南
 Date: 2013-01-07 14:50
 Author: lovenemesis
-Category: Distros, Featured
+Category: Distros
 Tags: Fedora
 Slug: fedora-18-pre-installation-guide
 

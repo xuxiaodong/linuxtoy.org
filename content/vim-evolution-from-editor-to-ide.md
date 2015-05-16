@@ -1,7 +1,7 @@
 Title: 拼装的艺术：vim 之 IDE 进化实录
 Date: 2011-08-01 00:00
 Author: lovenemesis
-Category: Development, News
+Category: Development
 Tags: IDE, Vim
 Slug: vim-evolution-from-editor-to-ide
 

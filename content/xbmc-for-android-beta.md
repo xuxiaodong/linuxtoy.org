@@ -1,7 +1,7 @@
 Title: XBMC for Android Beta
 Date: 2012-07-16 21:03
 Author: lovenemesis
-Category: Embedded, Movie Player
+Category: Embedded
 Tags: Android, XBMC
 Slug: xbmc-for-android-beta
 

@@ -1,7 +1,7 @@
 Title: Fedora 下如何使用 thoggen 备份 DVD 影片
 Date: 2009-10-30 02:31
 Author: lovenemesis
-Category: Featured, Tutorials
+Category: Featured
 Tags: dvdrip, Fedora, Theora, thoggen
 Slug: how-to-use-thoggen-to-backup-dvd-video-under-fedora
 

@@ -1,7 +1,7 @@
 Title: Apvlv 增添分页浏览功能
 Date: 2009-03-01 13:14
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Apvlv, PDF, Vim
 Slug: apvlv-added-tab-view
 

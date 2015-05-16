@@ -1,7 +1,7 @@
 Title: 短消息：Xfce LLVM Vulkan
 Date: 2015-03-03 13:38
 Author: lovenemesis
-Category: Desktop Environment, News
+Category: Desktop Environment
 Slug: briefing-xfce-llvm-vulkan
 
 短消息三则，发生在刚刚过去的那个周末。

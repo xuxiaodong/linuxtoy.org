@@ -1,7 +1,7 @@
 Title: OilRush for Linux 0.6 Preview
 Date: 2011-03-13 11:23
 Author: lovenemesis
-Category: Featured, Games
+Category: Featured
 Tags: OilRush
 Slug: oilrush-for-linux-06-preview
 

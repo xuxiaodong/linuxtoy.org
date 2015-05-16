@@ -1,7 +1,7 @@
 Title: pyRenamer－批量重命名工具
 Date: 2007-07-24 10:51
 Author: toy
-Category: Apps, Tools
+Category: Apps
 Slug: pyrenamer
 
 [pyRenamer](http://www.infinicode.org/code/pyrenamer/)

@@ -1,7 +1,7 @@
 Title: smem: 内存占用报告
 Date: 2009-05-06 17:26
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Python, smem
 Slug: smem
 

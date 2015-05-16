@@ -1,7 +1,7 @@
 Title: 永中集成OFFICE 2009个人版 Linux 版本同步上线
 Date: 2008-10-13 21:35
 Author: lovenemesis
-Category: Apps, News
+Category: Apps
 Tags: eioffice
 Slug: eioffice2009_personal_linux
 

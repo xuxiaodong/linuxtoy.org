@@ -1,7 +1,7 @@
 Title: 短消息：Pitivi SDDM Trisquel
 Date: 2014-11-04 13:53
 Author: lovenemesis
-Category: Desktop Stuff, Distros
+Category: Desktop Stuff
 Tags: PiTiVi, ssdm, trisquel
 Slug: briefing-pitivi-sddm-trisquel
 

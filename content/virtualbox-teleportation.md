@@ -1,7 +1,7 @@
 Title: VirtualBox 的实时迁移试验
 Date: 2010-01-23 16:34
 Author: toy
-Category: Apps, Reviews
+Category: Apps
 Tags: VirtualBox
 Slug: virtualbox-teleportation
 

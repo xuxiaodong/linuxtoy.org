@@ -1,7 +1,7 @@
 Title: Mozilla Ubiquity 的 10 种用法
 Date: 2008-08-31 09:30
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Tags: Add-ons, Firefox, Mozilla, Ubiquity
 Slug: mozilla-ubiquity-usage
 

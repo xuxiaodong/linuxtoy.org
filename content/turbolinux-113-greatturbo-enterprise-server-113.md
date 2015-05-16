@@ -1,7 +1,7 @@
 Title: Turbolinux 11.3 (GreatTurbo Enterprise Server 11.3) 正式发行
 Date: 2009-11-05 09:19
 Author: jianlee
-Category: Distros, Productivity
+Category: Distros
 Tags: GNU/Linux, Server, turbolinux, 服务器
 Slug: turbolinux-113-greatturbo-enterprise-server-113
 

@@ -1,7 +1,7 @@
 Title: Fedora 8 Games Spin (Live DVD) 发布
 Date: 2007-11-11 10:19
 Author: toy
-Category: Distros, Games
+Category: Distros
 Slug: fedora-8-games-spin-live-dvd-released
 
 新的定制 Spins 为本次所发布的 [Fedora

@@ -1,7 +1,7 @@
 Title: Fedora 15 专用的 2.6.40 内核
 Date: 2011-07-30 11:33
 Author: liangsuilong
-Category: Distros, Funny, News
+Category: Distros, Funny
 Tags: Fedora, Kernel, Linux
 Slug: fedora-15-2-6-40-kernel
 

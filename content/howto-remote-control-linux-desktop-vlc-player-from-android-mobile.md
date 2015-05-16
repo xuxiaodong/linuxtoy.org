@@ -1,7 +1,7 @@
 Title: 如何用 Android 手机远程控制 Linux 桌面 VLC 播放器
 Date: 2012-06-08 00:33
 Author: lovenemesis
-Category: Embedded, Movie Player, Music Player
+Category: Embedded, Movie Player
 Tags: Android, Fedora, VLC
 Slug: howto-remote-control-linux-desktop-vlc-player-from-android-mobile
 

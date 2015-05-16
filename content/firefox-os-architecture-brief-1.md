@@ -1,7 +1,7 @@
 Title: Firefox OS 架构简析（1）
 Date: 2012-08-27 15:21
 Author: lovenemesis
-Category: Embedded, Featured
+Category: Embedded
 Tags: firefoxos
 Slug: firefox-os-architecture-brief-1
 

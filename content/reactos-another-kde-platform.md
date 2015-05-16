@@ -1,7 +1,7 @@
 Title: KDE - 征服 ReactOS 的桌面！
 Date: 2009-08-27 11:25
 Author: gmsh
-Category: Apps, Distros
+Category: Apps
 Slug: reactos-another-kde-platform
 
 当 KDE 社区重在忙着准备 KDE 4.3 的发布的时候， KDE 4  

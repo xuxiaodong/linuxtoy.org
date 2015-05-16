@@ -1,7 +1,7 @@
 Title: WebYaST 简介
 Date: 2009-08-28 19:39
 Author: gmsh
-Category: Apps, Network, News
+Category: Apps, Network
 Tags: openSUSE, WebYaST
 Slug: webyast
 

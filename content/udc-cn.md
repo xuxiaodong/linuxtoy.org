@@ -1,7 +1,7 @@
 Title: Ubuntu 桌面培训(Ubuntu Desktop Course) 中文译本发布
 Date: 2010-04-24 21:41
 Author: JimHu
-Category: Books, Featured
+Category: Books
 Tags: course, Ubuntu, udc
 Slug: udc-cn
 

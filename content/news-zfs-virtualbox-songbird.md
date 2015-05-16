@@ -1,7 +1,7 @@
 Title: 短消息： ZFS, VirtualBox, Songbird
 Date: 2010-06-08 05:49
 Author: lovenemesis
-Category: Music Player, News
+Category: Music Player
 Tags: Songbird, VirtualBox, zfs
 Slug: news-zfs-virtualbox-songbird
 

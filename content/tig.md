@@ -1,7 +1,7 @@
 Title: 使用 tig 方便的提交代码片断
 Date: 2010-05-15 18:56
 Author: vern
-Category: Cli, Development
+Category: Cli
 Slug: tig
 
 tig 是一款命令行界面的 git 版本仓库工具。用 tig 作 commit in

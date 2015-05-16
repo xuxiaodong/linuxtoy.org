@@ -1,7 +1,7 @@
 Title: 盘点 2008 年下半年值得期待的 Linux 发行版
 Date: 2008-09-03 16:18
 Author: toy
-Category: Distros, Featured
+Category: Distros
 Tags: Distro
 Slug: 2008-linux-distros
 

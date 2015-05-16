@@ -1,7 +1,7 @@
 Title: Snownews：从命令行阅读 RSS 新闻
 Date: 2008-03-19 11:36
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: RSS, Snownews
 Slug: snownews
 

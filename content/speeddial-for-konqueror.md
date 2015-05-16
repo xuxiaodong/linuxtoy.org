@@ -1,7 +1,7 @@
 Title: 教程：把Opera的快速拨号引入 Konqueror
 Date: 2009-08-30 10:26
 Author: gmsh
-Category: Apps, Network, News
+Category: Apps, Network
 Slug: speeddial-for-konqueror
 
 本教程介绍一种借助软件把快速拨号引入 Konqueror 中的方法。

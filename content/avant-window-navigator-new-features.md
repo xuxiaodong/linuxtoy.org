@@ -1,7 +1,7 @@
 Title: 图说 Avant Window Navigator 新增功能
 Date: 2007-08-28 15:09
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Slug: avant-window-navigator-new-features
 
 [Avant Window

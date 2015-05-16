@@ -1,7 +1,7 @@
 Title: Vimperator 2.0 抵达 Beta 测试阶段
 Date: 2009-02-10 10:33
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Tags: Firefox, Vim, Vimperator
 Slug: vimperator-20-hits-beta
 

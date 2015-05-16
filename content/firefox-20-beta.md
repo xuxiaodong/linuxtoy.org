@@ -1,7 +1,7 @@
 Title: Firefox 20 Beta
 Date: 2013-02-25 15:26
 Author: lovenemesis
-Category: Android, Embedded
+Category: Android
 Tags: Firefox, Mozilla
 Slug: firefox-20-beta
 

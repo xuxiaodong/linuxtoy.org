@@ -1,7 +1,7 @@
 Title: Adobe Reader 9.1 发布
 Date: 2009-03-26 08:36
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Adobe, Adobe Reader
 Slug: adobe-reader-91-released
 

@@ -1,7 +1,7 @@
 Title: DigiKam 0.10.0 for KDE4 发布
 Date: 2009-03-19 14:21
 Author: toy
-Category: Apps, Image Viewer
+Category: Apps
 Tags: DigiKam, KDE 4
 Slug: digikam-0100-for-kde4-released
 

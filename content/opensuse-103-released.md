@@ -1,7 +1,7 @@
 Title: openSUSE 10.3 正式版发布
 Date: 2007-10-04 18:54
 Author: toy
-Category: Distros, News
+Category: Distros
 Slug: opensuse-103-released
 
 openSUSE 10.3 的正式版本已经发布。该版本包括 Linux Kernel 2.6.22、X.Org

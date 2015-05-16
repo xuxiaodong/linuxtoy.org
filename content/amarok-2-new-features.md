@@ -1,7 +1,7 @@
 Title: Amarok 2 前瞻
 Date: 2007-08-01 08:00
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: amarok-2-new-features
 
 [Amarok](http://linuxtoy.org/archives/amarok.html) 是 Linux/Unix

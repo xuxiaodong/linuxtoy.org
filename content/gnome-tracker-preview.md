@@ -1,7 +1,7 @@
 Title: GNOME Tracker 初赏
 Date: 2010-04-30 02:16
 Author: lovenemesis
-Category: Desktop Stuff, Featured, News
+Category: Desktop Stuff, Featured
 Tags: GNOME, tracker
 Slug: gnome-tracker-preview
 

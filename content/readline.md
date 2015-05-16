@@ -1,7 +1,7 @@
 Title: readline：好用的工具应该让更多人知道
 Date: 2008-08-19 19:41
 Author: hmy
-Category: Apps, Cli
+Category: Apps
 Slug: readline
 
 [撰文/hmy]

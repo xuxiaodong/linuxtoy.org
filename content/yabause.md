@@ -1,7 +1,7 @@
 Title: Yabause — Sega Saturn 模拟器
 Date: 2007-08-20 08:07
 Author: toy
-Category: Apps, Emulator
+Category: Apps
 Slug: yabause
 
 [Yabause](http://yabause.org/) 是一款发布在 GPL 许可之下的 Sega

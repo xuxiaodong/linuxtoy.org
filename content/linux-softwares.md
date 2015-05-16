@@ -1,7 +1,7 @@
 Title: 我日常所用的 Linux 软件
 Date: 2010-05-05 12:30
 Author: toy
-Category: Apps, Reviews
+Category: Apps
 Tags: Software
 Slug: linux-softwares
 

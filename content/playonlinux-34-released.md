@@ -1,7 +1,7 @@
 Title: PlayOnLinux 3.4 发布
 Date: 2009-03-08 10:07
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: PlayOnLinux, Wine
 Slug: playonlinux-34-released
 

@@ -1,7 +1,7 @@
 Title: cwtext —— 莫尔斯电码生成器
 Date: 2009-11-02 16:45
 Author: MDZ
-Category: Apps, News, Text Processing
+Category: Apps, News
 Tags: cwtext, morse
 Slug: cwtext
 

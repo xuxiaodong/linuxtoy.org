@@ -1,7 +1,7 @@
 Title: 短消息：Money X Banshee
 Date: 2010-08-27 06:27
 Author: lovenemesis
-Category: Music Player, Personal Finance Manager
+Category: Music Player
 Tags: Banshee, KMyMoney, X.Org
 Slug: briefing-kmymoney-xorg19-banshee
 

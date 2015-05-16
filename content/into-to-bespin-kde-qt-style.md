@@ -1,7 +1,7 @@
 Title: Bespin-被KDE4遗忘的主题
 Date: 2009-08-29 15:31
 Author: gmsh
-Category: Apps, News
+Category: Apps
 Tags: Bespin, KDE
 Slug: into-to-bespin-kde-qt-style
 

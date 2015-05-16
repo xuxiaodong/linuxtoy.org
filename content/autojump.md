@@ -1,7 +1,7 @@
 Title: autojump: 在命令行下快速更改目录
 Date: 2009-02-16 18:48
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: autojump, cd
 Slug: autojump
 

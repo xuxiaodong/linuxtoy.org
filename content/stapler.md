@@ -1,7 +1,7 @@
 Title: Stapler: 从命令行处理 PDF 文档
 Date: 2010-05-21 11:47
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: PDF, Python, Stapler
 Slug: stapler
 

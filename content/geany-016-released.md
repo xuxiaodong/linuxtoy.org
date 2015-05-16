@@ -1,7 +1,7 @@
 Title: Geany 0.16 发布
 Date: 2009-02-18 11:13
 Author: toy
-Category: Apps, IDE
+Category: Apps
 Tags: Geany
 Slug: geany-016-released
 

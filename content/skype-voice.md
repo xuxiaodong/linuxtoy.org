@@ -1,7 +1,7 @@
 Title: skype语音聊天设置
 Date: 2009-12-20 23:13
 Author: shuge.lee
-Category: Apps, Phone
+Category: Apps
 Tags: Skype, voice
 Slug: skype-voice
 

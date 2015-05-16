@@ -1,7 +1,7 @@
 Title: 值得关注和体验的音乐播放器songbird 1.2.0
 Date: 2009-06-27 16:14
 Author: shuge.lee
-Category: Apps, Music Player, News
+Category: Apps, Music Player
 Slug: songbird-120-released
 
 将浏览器和播放器整合，非常精致的UI，强大插件系统，是吸引我的主要原因。

@@ -1,7 +1,7 @@
 Title: MySQL Workbench 5.2.25 GA 发布
 Date: 2010-07-02 12:01
 Author: liangsuilong
-Category: Apps, News
+Category: Apps
 Tags: database, MySQL
 Slug: mysql-workbench-5225-ga
 

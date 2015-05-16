@@ -1,7 +1,7 @@
 Title: 使用 Kompare 比较文件
 Date: 2007-08-06 08:30
 Author: toy
-Category: Apps, Featured, File Compare
+Category: Apps, Featured
 Slug: kompare
 
 [Kompare](http://www.caffeinated.me.uk/kompare/) 是适用于 KDE

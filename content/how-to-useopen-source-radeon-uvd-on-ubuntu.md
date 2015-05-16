@@ -1,7 +1,7 @@
 Title: 如何在 Ubuntu 启用 Radeon 开源驱动的 UVD 硬件解码(补充)
 Date: 2013-04-19 13:48
 Author: liangsuilong
-Category: Movie Player, Tutorials
+Category: Movie Player
 Tags: AMD, radeon, Ubuntu
 Slug: how-to-useopen-source-radeon-uvd-on-ubuntu
 

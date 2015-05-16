@@ -1,7 +1,7 @@
 Title: pho：轻巧的命令行图片查看器
 Date: 2008-11-11 16:54
 Author: toy
-Category: Apps, Cli, Featured, Image Viewer
+Category: Apps, Cli, Featured
 Slug: pho
 
 在 Linux

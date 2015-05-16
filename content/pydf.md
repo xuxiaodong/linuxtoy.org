@@ -1,7 +1,7 @@
 Title: 使用 pydf 查看磁盘空间占用情况
 Date: 2009-01-11 17:32
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: df, pydf, Python
 Slug: pydf
 

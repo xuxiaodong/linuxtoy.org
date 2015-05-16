@@ -1,7 +1,7 @@
 Title: 折腾：给 TL-WR703N 安装 OpenWrt
 Date: 2015-02-20 23:00
 Author: lovenemesis
-Category: Featured, Gadget
+Category: Featured
 Tags: OpenWrt
 Slug: howto-install-openwrt-on-tl-wr703n
 

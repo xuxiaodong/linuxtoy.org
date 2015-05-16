@@ -1,7 +1,7 @@
 Title: UEX: UltraEdit for Linux
 Date: 2009-03-28 17:28
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: UEX, UltraEdit
 Slug: uex-ultraedit-for-linux
 

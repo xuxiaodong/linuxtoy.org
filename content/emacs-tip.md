@@ -35,7 +35,7 @@ load-file
                (file-name-sans-extension (file-name-nondirectory x)))
          (add-hook  (concat-symbol name "-mode-hook")
                    `(lambda()(load ,x))))
-       (directory-files dir t "\.el\\\\'")))
+       (directory-files dir t ".el\\\\'")))
 
 简单的说，假设 ~/init.emacs/\_major-mode/ 目录下有 3 个文件
 emacs-lisp.el nxml.el js2.el.bak ，则会：
@@ -140,7 +140,7 @@ generated-autoload-file 变量来指定，真 TMD 操蛋
     (let* ((dir (expand-file-name "\_extensions/" *init-dir*))
            (ext (mapcar
                  (lambda(x)(cons (file-name-sans-extension (file-name-nondirectory x)) x))
-                 (directory-files dir t "\.el\\\\'"))))
+                 (directory-files dir t ".el\\\\'"))))
       (add-hook 'find-file-hook
                 `(lambda ()
                    (let (mode)
@@ -175,7 +175,7 @@ generated-autoload-file 变量来指定，真 TMD 操蛋
            (if (or force
                    (null (file-newer-than-file-p ldfs f)))
                (update-file-autoloads f t ldfs)))
-         (directory-files path t "\.el\\\\'"))
+         (directory-files path t ".el\\\\'"))
         (load ldfs)))
 
     (autoload-directory "\_autoload/")
@@ -202,7 +202,7 @@ xxx-mode-hook 之前运行，在 find-file-hook 里面定义 xxx-mode-hook
     (let* ((dir (expand-file-name "\_extensions/" *init-dir*))
            (ext (mapcar
                  (lambda(x)(cons (file-name-sans-extension (file-name-nondirectory x)) x))
-                 (directory-files dir t "\.el\\\\'"))))
+                 (directory-files dir t ".el\\\\'"))))
       (add-hook 'find-file-hook
                 `(lambda ()
                    (let (mode)
@@ -256,7 +256,7 @@ xxx-mode-hook 之前运行，在 find-file-hook 里面定义 xxx-mode-hook
     (let* ((dir (expand-file-name "\_extensions/" *init-dir*))
            (ext (mapcar
                  (lambda(x)(cons (file-name-sans-extension (file-name-nondirectory x)) x))
-                 (directory-files dir t "\.el\\\\'"))))
+                 (directory-files dir t ".el\\\\'"))))
       (if nil
           ;; if nil  ;; by extension
           ;; if t    ;; by major-mode

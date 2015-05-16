@@ -1,7 +1,7 @@
 Title: Pencil Project
 Date: 2010-11-22 19:35
 Author: lovenemesis
-Category: Firefox Extension, News
+Category: Firefox Extension
 Tags: pencil
 Slug: pencil-project
 

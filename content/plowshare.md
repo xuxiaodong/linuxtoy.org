@@ -1,7 +1,7 @@
 Title: Plowshare: 从命令行下载 Megaupload、Rapidshare 等网盘上的文件
 Date: 2010-03-21 13:32
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Plowshare
 Slug: plowshare
 

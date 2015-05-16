@@ -1,7 +1,7 @@
 Title: 媒体管理、播放数种
 Date: 2010-09-05 14:06
 Author: Petty
-Category: Apps, Movie Player
+Category: Apps
 Slug: media-manager-player
 
 以下是几款媒体管理、播放和编辑软件的简介。

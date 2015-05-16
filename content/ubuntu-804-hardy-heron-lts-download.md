@@ -1,7 +1,7 @@
 Title: Ubuntu 8.04 (Hardy Heron) LTS 发布及下载
 Date: 2008-04-24 19:05
 Author: toy
-Category: Distros, Featured
+Category: Distros
 Tags: Releases, Screenshots, Ubuntu
 Slug: ubuntu-804-hardy-heron-lts-download
 

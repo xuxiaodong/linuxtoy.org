@@ -2,7 +2,7 @@ Title: Interstellar GTK
 Date: 2008-07-10 13:53
 Author: toy
 Category: Themes
-Tags: GNOME, GTK2
+Tags: GNOME, GTK
 Slug: interstellar-gtk
 
 这是一套不错的 GTK 2

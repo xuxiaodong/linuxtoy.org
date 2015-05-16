@@ -1,7 +1,7 @@
 Title: 短消息：Kernel 3.2 OpenFetion Aurora
 Date: 2012-01-05 13:53
 Author: lovenemesis
-Category: Development, Embedded
+Category: Development
 Tags: Android, Firefox, Kernel, openfetion
 Slug: briefing-kernel-32-openfetion-aurora
 

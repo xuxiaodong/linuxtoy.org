@@ -1,7 +1,7 @@
 Title: SELinux 入门
 Date: 2011-05-31 13:41
 Author: lovenemesis
-Category: Featured, Security
+Category: Featured
 Tags: selinux
 Slug: selinux-introduction
 

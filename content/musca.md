@@ -1,7 +1,7 @@
 Title: 平铺式窗口管理器 Musca 初体验
 Date: 2009-11-05 12:22
 Author: jiqingwu
-Category: Apps, Featured
+Category: Apps
 Tags: Musca, WM
 Slug: musca
 

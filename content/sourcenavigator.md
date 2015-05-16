@@ -1,7 +1,7 @@
 Title:  源代码阅读利器：Source Navigator
 Date: 2008-11-20 11:22
 Author: MDZ
-Category: Apps, Development
+Category: Apps
 Tags: redhat, sourcenavigator, 源代码阅读
 Slug: sourcenavigator
 

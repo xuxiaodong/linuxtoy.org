@@ -1,7 +1,7 @@
 Title: 配置 Emacs 的小技巧
 Date: 2011-10-09 18:05
 Author: Kardinal
-Category: Text Editor, Tips
+Category: Text Editor
 Tags: elisp, Emacs
 Slug: conf-emacs-tips
 
@@ -48,7 +48,7 @@ windows 的同学，哪儿凉快到哪儿去找 dotemacs
        null           (dolist (init-lp (directory-files init-dir t "^_"))
                         (when (file-directory-p init-lp)
                           (add-to-list 'load-path init-lp)))
-       init-files     (mapc 'load (directory-files init-dir t "\.el\\\\'"))
+       init-files     (mapc 'load (directory-files init-dir t ".el\\\\'"))
        init-stop      (time-to-seconds)
        )
 

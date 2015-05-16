@@ -1,7 +1,7 @@
 Title: Surfraw: 在命令行下执行 WWW 搜索
 Date: 2009-06-11 10:40
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Surfraw
 Slug: surfraw
 

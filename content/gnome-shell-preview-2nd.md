@@ -1,7 +1,7 @@
 Title: GNOME Shell 初赏第二弹
 Date: 2010-05-15 22:26
 Author: lovenemesis
-Category: Desktop Environment, Featured
+Category: Desktop Environment
 Tags: gnomeshell
 Slug: gnome-shell-preview-2nd
 

@@ -1,7 +1,7 @@
 Title: Mosait：制作马赛克效果的拼图
 Date: 2008-08-22 09:02
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Mosait
 Slug: mosait
 

@@ -1,7 +1,7 @@
 Title: GIMP 2.4.3 & LyX 1.5.3
 Date: 2007-12-17 10:23
 Author: toy
-Category: Apps, Image Editor
+Category: Apps
 Slug: gimp-243-and-lyx-153
 
 今天，有两个重要的软件获得了更新。一是

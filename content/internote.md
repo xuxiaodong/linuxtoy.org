@@ -1,7 +1,7 @@
 Title: Internote：Firefox 中的便笺工具
 Date: 2007-08-02 08:00
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: internote
 
 [Internote](http://internote.sourceforge.net/) 这个扩展将便笺工具带到了

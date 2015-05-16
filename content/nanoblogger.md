@@ -1,7 +1,7 @@
 Title: NanoBlogger: Unix命令行打造的Blog引擎
 Date: 2008-07-28 23:42
 Author: lwl
-Category: Apps, Cli
+Category: Apps
 Slug: nanoblogger
 
 [NanoBlogger](http://nanoblogger.sourceforge.net/)是一款使用Bash编写的Blog引擎。它的特点如下：

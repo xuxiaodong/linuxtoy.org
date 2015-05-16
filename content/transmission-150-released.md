@@ -1,7 +1,7 @@
 Title: Transmission 1.50 增添 IPv6 支持
 Date: 2009-02-16 09:27
 Author: toy
-Category: Apps, BitTorrent Client
+Category: Apps
 Tags: Transmission
 Slug: transmission-150-released
 

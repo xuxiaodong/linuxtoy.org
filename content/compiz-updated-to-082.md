@@ -1,7 +1,7 @@
 Title: Compiz 更新至 0.8.2
 Date: 2009-03-02 10:24
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Tags: Compiz
 Slug: compiz-updated-to-082
 

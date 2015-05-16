@@ -1,7 +1,7 @@
 Title: GIMP 2.4.0 新功能概览
 Date: 2007-08-20 08:00
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: gimp-240-new-features
 
 经过漫长的开发过程，图像处理软件 [GIMP](http://gimp.org/)

@@ -1,7 +1,7 @@
 Title: McDPF: 做一个自己的电子像框
 Date: 2008-11-18 06:24
 Author: lwl
-Category: Apps, Funny
+Category: Apps
 Slug: mcdpf
 
 现在市面上有做好的电子像框买，可是价格不菲，如果自己有很老的笔记本的话，就可以用McDPF来废物利用，打造一个自己的电子像框，还是大屏幕的呢。  

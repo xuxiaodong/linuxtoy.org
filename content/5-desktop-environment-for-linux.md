@@ -1,7 +1,7 @@
 Title: 五个你可能不知道的 Linux 桌面环境
 Date: 2009-04-23 18:54
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Tags: DE
 Slug: 5-desktop-environment-for-linux
 

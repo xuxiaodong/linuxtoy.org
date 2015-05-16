@@ -1,7 +1,7 @@
 Title: Thunar 使用技巧
 Date: 2007-08-27 08:00
 Author: toy
-Category: Apps, File Manager
+Category: Apps
 Slug: thunar-tips-and-tricks
 
 [Thunar](http://thunar.xfce.org/)

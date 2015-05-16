@@ -1,7 +1,7 @@
 Title: Pearl Crescent Page Saver：将网页捕获为图片
 Date: 2007-07-28 10:35
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: pearl-crescent-page-saver
 
 一直在寻找好用的将网页捕获为图片的工具，之前有用过

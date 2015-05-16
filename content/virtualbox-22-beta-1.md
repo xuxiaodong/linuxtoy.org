@@ -1,7 +1,7 @@
 Title: VirtualBox 2.2 Beta 1 添加针对 Linux guests 的 OpenGL 3d 加速支持
 Date: 2009-03-18 17:01
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Beta, VirtualBox, VM
 Slug: virtualbox-22-beta-1
 

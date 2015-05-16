@@ -1,7 +1,7 @@
 Title: KDE 4.0 计划有变，正式版将延期两个月发布
 Date: 2007-09-01 19:03
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: kde-40-release-delayed-for-two-months
 
 根据 [KDE 4.0

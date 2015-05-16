@@ -1,7 +1,7 @@
 Title: 在你的 Linux 桌面嵌入终端窗口
 Date: 2007-08-24 16:37
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Slug: embed-the-terminal-on-the-desktop
 
 除了我们曾经介绍过的 [Tilda 和 Yakuake

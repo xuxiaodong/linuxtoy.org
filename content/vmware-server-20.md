@@ -1,7 +1,7 @@
 Title: VMware Server 2.0：从 Web 访问虚拟机
 Date: 2008-11-01 15:35
 Author: toy
-Category: Apps, Server
+Category: Apps
 Tags: Server, VMware
 Slug: vmware-server-20
 

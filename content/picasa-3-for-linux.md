@@ -1,7 +1,7 @@
 Title: Google 推出 Linux 版 Picasa 3 (beta)
 Date: 2008-10-04 09:46
 Author: toy
-Category: Apps, Image Editor
+Category: Apps
 Tags: Google, Picasa
 Slug: picasa-3-for-linux
 

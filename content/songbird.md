@@ -1,7 +1,7 @@
 Title: Songbird：一边上网，一边听歌
 Date: 2006-10-03 19:05
 Author: toy
-Category: Apps, Music Player
+Category: Apps
 Tags: Songbird
 Slug: songbird
 

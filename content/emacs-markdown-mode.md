@@ -1,7 +1,7 @@
 Title: Emacs Markdown 模式简介
 Date: 2009-04-14 16:05
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Tags: Emacs, Markdown
 Slug: emacs-markdown-mode
 
@@ -23,7 +23,7 @@ Emacs 可找到的路径，例如 ~/.emacs.d/modes。然后把下列内容添加
 (autoload 'markdown-mode "markdown-mode.el"  
 "Major mode for editing Markdown files" t)  
 (setq auto-mode-alist  
-(cons '("\.markdown" . markdown-mode) auto-mode-alist))
+(cons '(".markdown" . markdown-mode) auto-mode-alist))
 
 这样，当 Emacs 打开扩展名为 markdown 的文件时，就会自动进入 Markdown
 主模式。如果你定义的 Markdown

@@ -1,7 +1,7 @@
 Title: GrNotify: 即时获取 Google Reader 更新
 Date: 2008-02-13 15:38
 Author: toy
-Category: Apps, Feed Reader
+Category: Apps
 Slug: grnotify
 
 RSS 恐怕是如今最为流行的获取资讯方式。如果你在使用 Google Reader

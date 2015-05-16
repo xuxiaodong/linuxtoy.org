@@ -1,7 +1,7 @@
 Title: VMware Workstation 更新到 6.5.2
 Date: 2009-04-02 18:53
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: VMware
 Slug: vmware-workstation-updated-to-652
 

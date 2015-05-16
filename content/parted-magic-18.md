@@ -1,7 +1,7 @@
 Title: Parted Magic 1.8 发布
 Date: 2007-07-26 17:30
 Author: toy
-Category: Apps, Distros
+Category: Apps
 Slug: parted-magic-18
 
 [Parted Magic](http://linuxtoy.org/archives/parted-magic.html) 堪称

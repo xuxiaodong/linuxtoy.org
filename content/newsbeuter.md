@@ -1,7 +1,7 @@
 Title: Newsbeuter：在控制台下读 RSS 新闻
 Date: 2008-08-27 08:00
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Newsbeuter, RSS
 Slug: newsbeuter
 

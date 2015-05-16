@@ -1,7 +1,7 @@
 Title: 短消息：Ardour Node.js CentOS
 Date: 2013-03-13 12:14
 Author: lovenemesis
-Category: Distros, Music Editor
+Category: Distros
 Tags: ardour, CentOS, nodejs
 Slug: briefing-ardour-node-js-centos
 

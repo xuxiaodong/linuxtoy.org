@@ -1,7 +1,7 @@
 Title: GNOME 2.26 正式发布
 Date: 2009-03-19 09:28
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Tags: DE, GNOME
 Slug: gnome-226-released
 

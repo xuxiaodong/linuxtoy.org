@@ -1,7 +1,7 @@
 Title: CrossOver Games 8.10 发布
 Date: 2009-11-19 19:04
 Author: lovenemesis
-Category: Games, News
+Category: Games
 Tags: CrossOver
 Slug: crossover-games-810-released
 

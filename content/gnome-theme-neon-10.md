@@ -2,7 +2,7 @@ Title: GNOME 主题：Neon 1.0
 Date: 2008-12-10 09:42
 Author: toy
 Category: Themes
-Tags: GNOME, GTK2, Metacity
+Tags: GNOME, GTK, Metacity
 Slug: gnome-theme-neon-10
 
 Neon 1.0 是一套 GNOME 主题，其中包含 Metacity 边框主题和 GTK2 控件主题。

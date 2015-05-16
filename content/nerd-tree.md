@@ -1,7 +1,7 @@
 Title: NERD tree: Vim 的树状文件浏览插件
 Date: 2009-01-31 18:29
 Author: toy
-Category: Apps, Scripts
+Category: Apps
 Tags: Vim, Vim plugins
 Slug: nerd-tree
 

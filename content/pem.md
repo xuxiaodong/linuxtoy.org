@@ -1,7 +1,7 @@
 Title: Pem: 简单理财
 Date: 2009-05-27 14:28
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Pem
 Slug: pem
 

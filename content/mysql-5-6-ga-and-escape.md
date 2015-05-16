@@ -1,7 +1,7 @@
 Title: MySQL 5.6 GA 及逃亡潮
 Date: 2013-02-06 14:56
 Author: liangsuilong
-Category: Apps, News
+Category: Apps
 Tags: Fedora, mariadb, MySQL
 Slug: mysql-5-6-ga-and-escape
 

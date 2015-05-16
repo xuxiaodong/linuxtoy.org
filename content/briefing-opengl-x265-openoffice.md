@@ -1,7 +1,7 @@
 Title: 短消息：OpenGL x265 OpenOffice
 Date: 2013-07-25 10:06
 Author: lovenemesis
-Category: Drivers, Office Suite
+Category: Drivers
 Tags: OpenGL, openoffice, x265
 Slug: briefing-opengl-x265-openoffice
 

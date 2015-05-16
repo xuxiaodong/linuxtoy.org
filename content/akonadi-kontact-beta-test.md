@@ -1,7 +1,7 @@
 Title: 基于 Akonadi 的新 Kontact 开始测试
 Date: 2010-09-04 02:28
 Author: Petty
-Category: Apps, Email Client
+Category: Apps
 Tags: Akonadi, KDE, Kontact, PIM
 Slug: akonadi-kontact-beta-test
 

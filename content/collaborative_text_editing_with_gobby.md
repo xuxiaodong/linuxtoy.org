@@ -1,7 +1,7 @@
 Title: 使用 Gobby 协作文本编辑
 Date: 2006-11-11 12:12
 Author: toy
-Category: Apps, Reviews
+Category: Apps
 Tags: Gobby
 Slug: collaborative_text_editing_with_gobby
 

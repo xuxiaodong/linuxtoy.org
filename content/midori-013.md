@@ -1,7 +1,7 @@
 Title: Midori 0.1.3 引入鼠标手势、Maemo 等功能
 Date: 2009-02-23 16:52
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Midori, Webkit
 Slug: midori-013
 

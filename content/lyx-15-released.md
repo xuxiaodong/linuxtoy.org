@@ -1,7 +1,7 @@
 Title: LyX 发布支持 CJK 的 1.5 正式版
 Date: 2007-08-01 08:50
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: lyx-15-released
 
 [LyX](http://linuxtoy.org/archives/lyx.html) 于近日推出了 1.5

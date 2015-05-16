@@ -1,7 +1,7 @@
 Title: Citrix 宣布企业级虚拟化平台 XenServer 免费
 Date: 2009-02-26 18:31
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: XenServer
 Slug: citrix-xenserver
 

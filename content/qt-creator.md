@@ -1,7 +1,7 @@
 Title: Qt Creator：跨平台的 Qt IDE
 Date: 2008-11-23 19:46
 Author: toy
-Category: Apps, Development
+Category: Apps
 Tags: Qt, Qt Creator
 Slug: qt-creator
 

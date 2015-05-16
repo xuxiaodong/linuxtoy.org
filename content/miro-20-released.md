@@ -1,7 +1,7 @@
 Title: Miro 2.0 推出
 Date: 2009-02-11 14:06
 Author: toy
-Category: Apps, Movie Player
+Category: Apps
 Tags: Internet TV, Miro, Video Podcast
 Slug: miro-20-released
 

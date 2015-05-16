@@ -1,7 +1,7 @@
 Title: 高效率编辑器 VIM－操作篇，非常适合 VIM 新手
 Date: 2007-01-27 09:49
 Author: toy
-Category: Featured, Text Editor
+Category: Featured
 Slug: efficient-editing-with-vim
 
 虽然从很久前就开始用 VIM

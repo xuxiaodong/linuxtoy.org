@@ -1,7 +1,7 @@
 Title: History（历史）命令用法 15 例
 Date: 2008-09-07 08:00
 Author: toy
-Category: Cli, Featured
+Category: Cli
 Tags: Commands, History
 Slug: history-command-usage-examples
 

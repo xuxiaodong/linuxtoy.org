@@ -1,7 +1,7 @@
 Title: GNOME Activity Journal 初赏
 Date: 2010-04-29 17:49
 Author: lovenemesis
-Category: Featured, File Manager
+Category: Featured
 Tags: GNOME, Zeitgeist
 Slug: gnome-activity-journal-preview
 

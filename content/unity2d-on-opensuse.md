@@ -1,7 +1,7 @@
 Title: Unity2D on openSUSE
 Date: 2011-05-18 21:55
 Author: cheer_xiao
-Category: Distros, News
+Category: Distros
 Tags: Ayatana, openSUSE, Unity
 Slug: unity2d-on-opensuse
 

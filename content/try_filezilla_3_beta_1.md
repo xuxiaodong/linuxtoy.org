@@ -1,7 +1,7 @@
 Title: 试用 FileZilla 3.0.0 beta1
 Date: 2006-10-07 10:50
 Author: toy
-Category: Apps, FTP Client
+Category: Apps
 Slug: try_filezilla_3_beta_1
 
 [FileZilla](http://filezilla-project.org) 这个 FTP

@@ -1,7 +1,7 @@
 Title: Dev Todo: 从命令行管理待做事项清单
 Date: 2009-02-19 10:20
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Dev Todo
 Slug: dev-todo
 

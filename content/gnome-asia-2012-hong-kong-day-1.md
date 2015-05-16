@@ -1,7 +1,7 @@
 Title: GNOME.Asia 2012 Hong Kong Day 1
 Date: 2012-06-13 02:40
 Author: liangsuilong
-Category: Desktop Environment, News
+Category: Desktop Environment
 Tags: 2012, GNOME, GNOME.ASIA, Hong Kong
 Slug: gnome-asia-2012-hong-kong-day-1
 

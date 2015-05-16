@@ -1,7 +1,7 @@
 Title: 4 个 Greasemonkey 脚本，改善 Google Reader 阅读体验
 Date: 2008-11-14 16:38
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Tags: Firefox, Google Reader, Greasemonkey
 Slug: 4-greasemonkey-scripts-for-google-reader
 

@@ -1,7 +1,7 @@
 Title: Vimperator char hints mod
 Date: 2010-04-16 15:35
 Author: Kardinal
-Category: Apps, Firefox Extension, News
+Category: Apps, Firefox Extension
 Slug: vimperator-char-hints-mod
 
 Vimperator char-hints-mod2.js

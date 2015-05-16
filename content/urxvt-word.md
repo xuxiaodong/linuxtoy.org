@@ -1,7 +1,7 @@
 Title: urxvt 插件实现被选单词的快速翻译
 Date: 2011-03-28 19:10
 Author: vern
-Category: Cli, Terminal Emulator
+Category: Cli
 Slug: urxvt-word
 
 双击选中一个英文单词后，右键弹出中文翻译，松开右键后翻译结果消失。

@@ -1,7 +1,7 @@
 Title: Firefox Marketplace for Android 预览
 Date: 2012-12-03 13:52
 Author: lovenemesis
-Category: Embedded, Screenshots
+Category: Embedded
 Tags: Firefox, html5, Mozilla
 Slug: firefox-marketplace-for-android-preview
 

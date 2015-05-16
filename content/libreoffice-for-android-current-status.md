@@ -1,7 +1,7 @@
 Title: LibreOffice for Android 开发进展
 Date: 2012-07-16 20:45
 Author: lovenemesis
-Category: Embedded, Office Suite
+Category: Embedded
 Tags: Android, libreoffice
 Slug: libreoffice-for-android-current-status
 

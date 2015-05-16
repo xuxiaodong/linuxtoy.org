@@ -1,7 +1,7 @@
 Title: GNOME 迎来 10 周岁生日
 Date: 2007-08-15 10:00
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: gnome-birthday
 
 [GNOME](http://www.gnome.org/) 是目前 Linux

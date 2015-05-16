@@ -1,7 +1,7 @@
 Title: Wine相关商业消息二则
 Date: 2010-09-04 02:20
 Author: Petty
-Category: Apps, Emulator
+Category: Apps
 Tags: Bordeaux, BSD, CodeWeavers, CrossOver, Wine
 Slug: wine-2-ads
 

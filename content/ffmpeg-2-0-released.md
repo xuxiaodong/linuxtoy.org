@@ -1,7 +1,7 @@
 Title: FFmpeg 2.0 发布
 Date: 2013-07-10 17:46
 Author: liangsuilong
-Category: Apps, News
+Category: Apps
 Tags: FFmpeg
 Slug: ffmpeg-2-0-released
 

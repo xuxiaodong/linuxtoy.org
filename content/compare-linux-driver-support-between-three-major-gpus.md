@@ -1,7 +1,7 @@
 Title: 浅析三大主流显卡厂商对 Linux 的驱动支持
 Date: 2012-06-27 17:21
 Author: lovenemesis
-Category: Drivers, Featured
+Category: Drivers
 Slug: compare-linux-driver-support-between-three-major-gpus
 
 在挑选一台 Linux

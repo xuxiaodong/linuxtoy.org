@@ -1,7 +1,7 @@
 Title: Barry：在 Linux 下同步你的黑莓手机
 Date: 2008-10-13 09:55
 Author: toy
-Category: Apps, Phone
+Category: Apps
 Tags: Barry, BlackBerry
 Slug: barry
 

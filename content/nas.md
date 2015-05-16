@@ -1,7 +1,7 @@
 Title: nas：网络声音服务
 Date: 2008-08-31 16:32
 Author: hmy
-Category: Apps, Network
+Category: Apps
 Tags: NAS
 Slug: nas
 

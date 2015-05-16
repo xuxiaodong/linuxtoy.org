@@ -1,7 +1,7 @@
 Title: Synergy 变得越来越易用
 Date: 2011-10-29 09:56
 Author: shuge.lee
-Category: Apps, Desktop Stuff
+Category: Apps
 Tags: Synergy
 Slug: synergy-becoming-more-easier-to-use
 

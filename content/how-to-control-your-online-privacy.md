@@ -1,7 +1,7 @@
 Title: 如何控制您的在线隐私
 Date: 2012-03-03 07:22
 Author: lovenemesis
-Category: Featured, Firefox Extension, Reviews
+Category: Featured, Firefox Extension
 Tags: DNT, Mozilla
 Slug: how-to-control-your-online-privacy
 

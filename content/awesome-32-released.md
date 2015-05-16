@@ -1,7 +1,7 @@
 Title: Awesome 3.2 发布
 Date: 2009-03-14 08:47
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Awesome, WM
 Slug: awesome-32-released
 

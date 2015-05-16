@@ -1,7 +1,7 @@
 Title: VLC Media Player 0.9.1 带来 Last.fm、更多解码及字幕支持
 Date: 2008-08-27 16:20
 Author: toy
-Category: Apps, Movie Player
+Category: Apps
 Tags: Media Player, VLC
 Slug: vlc-media-player-091
 

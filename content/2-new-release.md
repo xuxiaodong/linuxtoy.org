@@ -1,7 +1,7 @@
 Title: 软件更新 2 则
 Date: 2009-05-17 16:58
 Author: JimHu
-Category: Music Player, Network
+Category: Music Player
 Tags: Amarok, amule
 Slug: 2-new-release
 

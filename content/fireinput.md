@@ -1,7 +1,7 @@
 Title: Fireinput — Firefox 的中文拼音输入法扩展
 Date: 2007-08-21 10:31
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: fireinput
 
 [Fireinput](http://www.fireinput.com/)（火输）是一个 Firefox

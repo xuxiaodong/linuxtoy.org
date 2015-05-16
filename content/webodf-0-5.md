@@ -1,7 +1,7 @@
 Title: WebODF 0.5
 Date: 2014-07-01 17:18
 Author: lovenemesis
-Category: Firefox Extension, Text Editor
+Category: Firefox Extension
 Tags: odf, webodf
 Slug: webodf-0-5
 

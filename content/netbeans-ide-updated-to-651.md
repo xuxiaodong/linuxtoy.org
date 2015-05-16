@@ -1,7 +1,7 @@
 Title: NetBeans IDE 更新至 6.5.1
 Date: 2009-03-18 09:58
 Author: toy
-Category: Apps, IDE
+Category: Apps
 Tags: NetBeans
 Slug: netbeans-ide-updated-to-651
 

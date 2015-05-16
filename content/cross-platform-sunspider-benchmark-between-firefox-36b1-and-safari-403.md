@@ -1,7 +1,7 @@
 Title: 跨平台 Firefox 3.6 Beta 1 与 Safari 4.0.3 Sunspider 评测比较
 Date: 2009-11-03 02:15
 Author: lovenemesis
-Category: Featured, Reviews
+Category: Featured
 Tags: Firefox, safari, sunspider
 Slug: cross-platform-sunspider-benchmark-between-firefox-36b1-and-safari-403
 

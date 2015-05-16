@@ -1,7 +1,7 @@
 Title: Awesome 3.2 RC 4 发布
 Date: 2009-02-28 17:31
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Awesome, WM
 Slug: awesome-32-rc-4-released
 

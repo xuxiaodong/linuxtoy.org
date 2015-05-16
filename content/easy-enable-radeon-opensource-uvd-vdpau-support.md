@@ -1,7 +1,7 @@
 Title: 轻松启用 Radeon 开源驱动 UVD VDPAU 支持
 Date: 2013-08-04 10:25
 Author: lovenemesis
-Category: Drivers, Featured
+Category: Drivers
 Tags: arch, Fedora, radeon, uvd, vdpau
 Slug: easy-enable-radeon-opensource-uvd-vdpau-support
 

@@ -1,7 +1,7 @@
 Title: GNOME 2.20 屏幕截图集锦
 Date: 2007-09-22 08:00
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: gnome-220-screenshots
 
 Linux 下流行的桌面环境 [GNOME 于最近发布了 2.20

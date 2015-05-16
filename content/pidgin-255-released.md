@@ -1,7 +1,7 @@
 Title: Pidgin 2.5.5 发布
 Date: 2009-03-05 10:47
 Author: toy
-Category: Apps, Instant Messenger
+Category: Apps
 Tags: IM, Pidgin
 Slug: pidgin-255-released
 

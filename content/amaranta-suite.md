@@ -2,7 +2,7 @@ Title: Amaranta Suite
 Date: 2008-11-01 08:56
 Author: toy
 Category: Themes
-Tags: Emerald, GTK2
+Tags: Emerald, GTK
 Slug: amaranta-suite
 
 Amaranta Suite 是一套 GNOME 主题，内含 GTK2 控件主题及 Emerald

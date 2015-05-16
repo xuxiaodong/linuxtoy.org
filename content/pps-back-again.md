@@ -1,7 +1,7 @@
 Title: PPS网络电视再次推出Linux版
 Date: 2010-11-05 16:14
 Author: ihipop
-Category: Apps, Movie Player
+Category: Apps
 Tags: PPS
 Slug: pps-back-again
 

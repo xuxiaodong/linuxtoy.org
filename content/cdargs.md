@@ -1,7 +1,7 @@
 Title: CDargs：拯救你的手指
 Date: 2008-09-19 16:46
 Author: hmy
-Category: Apps, Cli
+Category: Apps
 Tags: CDargs
 Slug: cdargs
 

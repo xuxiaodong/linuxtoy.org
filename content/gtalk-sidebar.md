@@ -1,7 +1,7 @@
 Title: gTalk Sidebar — 在 Firefox 侧栏使用 Google Talk
 Date: 2007-08-29 09:00
 Author: toy
-Category: Apps, Firefox Extension
+Category: Apps
 Slug: gtalk-sidebar
 
 需要随时随地与 Google Talk 朋友沟通联络，没有时间安装 Google Talk

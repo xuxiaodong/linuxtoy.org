@@ -1,7 +1,7 @@
 Title: Gimmie — 一个创新的 GNOME 面板程序
 Date: 2007-10-06 17:50
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Slug: gimmie-review
 
 早在[去年](http://linuxtoy.org/archives/gimmie.html)我们便关注过

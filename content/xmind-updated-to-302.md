@@ -1,7 +1,7 @@
 Title: XMind 更新到 3.0.2
 Date: 2009-03-24 18:48
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Mind mapping, XMind
 Slug: xmind-updated-to-302
 

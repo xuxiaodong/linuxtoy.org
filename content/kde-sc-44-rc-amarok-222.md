@@ -1,7 +1,7 @@
 Title: KDE SC 4.4 RC & Amarok 2.2.2
 Date: 2010-01-12 19:50
 Author: JimHu
-Category: Desktop Environment, Music Player
+Category: Desktop Environment
 Tags: Amarok, KDE
 Slug: kde-sc-44-rc-amarok-222
 

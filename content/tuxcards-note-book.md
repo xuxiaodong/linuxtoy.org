@@ -1,7 +1,7 @@
 Title: TuxCards：随记笔记本
 Date: 2008-06-13 20:27
 Author: MDZ
-Category: Apps, Text Editor
+Category: Apps
 Tags: basket, gjots2, kjots, knowit, notebook, Tools, tuxcards
 Slug: tuxcards-note-book
 

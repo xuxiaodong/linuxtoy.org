@@ -1,7 +1,7 @@
 Title: 短消息：Google Chrome对openSUSE打包的rpm发布
 Date: 2009-08-30 13:42
 Author: gmsh
-Category: Apps, Network
+Category: Apps
 Tags: chrome, openSUSE
 Slug: google-chrome-4-0-203-2-released-opensuse-rpm
 

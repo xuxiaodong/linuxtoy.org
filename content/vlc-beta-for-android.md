@@ -1,7 +1,7 @@
 Title: VLC Beta for Android
 Date: 2012-07-03 09:00
 Author: lovenemesis
-Category: Embedded, Movie Player
+Category: Embedded
 Tags: Android, VLC
 Slug: vlc-beta-for-android
 

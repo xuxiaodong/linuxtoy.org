@@ -1,7 +1,7 @@
 Title: Qemu 0.10.0 发布
 Date: 2009-03-06 08:00
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Qemu, VM
 Slug: qemu-0100-released
 

@@ -1,7 +1,7 @@
 Title: Firefox 3.1 Beta 3 已提供下载
 Date: 2009-03-13 09:43
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Firefox, Firefox 3
 Slug: firefox-31-beta-3-available-for-download
 

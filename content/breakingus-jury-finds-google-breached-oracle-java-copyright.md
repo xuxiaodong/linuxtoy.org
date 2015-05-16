@@ -1,7 +1,7 @@
 Title: 要闻：陪审团裁定 Google 侵犯 Oracle Java 版权
 Date: 2012-05-08 06:08
 Author: lovenemesis
-Category: Featured, News
+Category: Featured
 Tags: Google, Java, Oracle
 Slug: breakingus-jury-finds-google-breached-oracle-java-copyright
 

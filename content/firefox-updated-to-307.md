@@ -1,7 +1,7 @@
 Title: Firefox 更新到 3.0.7
 Date: 2009-03-05 09:54
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Firefox, Firefox 3, Mozilla
 Slug: firefox-updated-to-307
 

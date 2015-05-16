@@ -1,7 +1,7 @@
 Title: Fedora 新软件维护者指南第二版更新
 Date: 2011-09-13 16:12
 Author: liangsuilong
-Category: Books, Featured
+Category: Books
 Tags: Document, Fedora
 Slug: fedora-new-packager-guideline-2nd-upgrade
 

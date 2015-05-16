@@ -1,7 +1,7 @@
 Title: KFTPgrabber－全功能的 FTP 客户端
 Date: 2006-09-06 19:50
 Author: toy
-Category: Apps, FTP Client
+Category: Apps
 Slug: kftpgrabber
 
 因为平时需要维护网站，所以总是免不了去使用一些 FTP

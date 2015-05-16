@@ -1,7 +1,7 @@
 Title: 三款 Linux  下的免费桌面级杀毒软件
 Date: 2008-10-08 23:05
 Author: lovenemesis
-Category: Apps, Featured, Reviews
+Category: Apps, Featured
 Tags: antivirus
 Slug: 3_free_antivirus_under_linux
 

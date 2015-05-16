@@ -1,7 +1,7 @@
 Title: [译]关于KDE4您必须知道的小技巧
 Date: 2009-09-01 00:29
 Author: gmsh
-Category: Apps, Desktop Environment
+Category: Apps
 Tags: KDE
 Slug: kde-4-tips-you-should-know
 

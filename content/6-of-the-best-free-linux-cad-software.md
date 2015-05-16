@@ -1,7 +1,7 @@
 Title: 6 款高品质的免费 Linux CAD 应用程序
 Date: 2009-06-08 18:59
 Author: toy
-Category: Apps, CAD
+Category: Apps
 Tags: CAD
 Slug: 6-of-the-best-free-linux-cad-software
 

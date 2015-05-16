@@ -1,7 +1,7 @@
 Title: Audacity 1.3.5 Beta发布
 Date: 2008-05-09 16:11
 Author: lovenemesis
-Category: Apps, Music Editor
+Category: Apps
 Tags: audacity
 Slug: audacity-135-beta%e5%8f%91%e5%b8%83
 

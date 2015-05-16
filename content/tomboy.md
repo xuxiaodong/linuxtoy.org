@@ -1,7 +1,7 @@
 Title: 推荐一个桌面即时贴软件：Tomboy
 Date: 2006-08-01 14:41
 Author: toy
-Category: Apps, Note-Taking
+Category: Apps
 Slug: tomboy
 
 虽然桌面中已经有一个即时贴了，但我还是愿意推荐这一个

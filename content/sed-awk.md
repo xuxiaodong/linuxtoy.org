@@ -214,8 +214,8 @@ awk '{f=!f;if(f)printf("%s",$0);else printf(" %s\\n",$0)}'
   
 # 并去掉原来行尾的反斜杠
 
-sed -e :a -e '/\$/N; s/\\\\\\n//; ta'  
-awk '{if(/\$/)printf("%s",substr($0,0,length($0)-1));else
+sed -e :a -e '/$/N; s/\\\\\\n//; ta'  
+awk '{if(/$/)printf("%s",substr($0,0,length($0)-1));else
 printf("%s\\n",$0)}'
 
 # 如果当前行以等号开头，将当前行并到上一行末尾  

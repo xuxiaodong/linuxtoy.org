@@ -1,7 +1,7 @@
 Title: Wine 1.1.15 发布
 Date: 2009-02-14 10:05
 Author: toy
-Category: Apps, Emulator
+Category: Apps
 Tags: Wine
 Slug: wine-1115-released
 

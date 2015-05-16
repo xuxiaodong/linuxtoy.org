@@ -1,7 +1,7 @@
 Title: 如何编译安装aMule 2.21 CVS
 Date: 2008-07-23 19:51
 Author: lovenemesis
-Category: Apps, BitTorrent Client, Featured
+Category: Apps, BitTorrent Client
 Tags: amule
 Slug: howto_amule_cvs
 

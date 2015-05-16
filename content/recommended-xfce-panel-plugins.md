@@ -1,7 +1,7 @@
 Title: Xfce 面板插件推荐
 Date: 2008-05-02 08:30
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Tags: Panel Plugins, Xfce
 Slug: recommended-xfce-panel-plugins
 

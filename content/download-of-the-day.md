@@ -1,7 +1,7 @@
 Title: 今日下载：Pidgin 2.5.0, Opera 9.52, Nvidia 177.67
 Date: 2008-08-20 09:47
 Author: toy
-Category: Apps, Drivers, Instant Messenger
+Category: Apps, Drivers
 Tags: NVIDIA, Opera, Pidgin
 Slug: download-of-the-day
 

@@ -1,7 +1,7 @@
 Title: 导致 SELinux 警告的四个常见原因
 Date: 2012-11-14 14:26
 Author: lovenemesis
-Category: Featured, Security
+Category: Featured
 Tags: Apache, selinux
 Slug: four-causes-that-make-selinux-warn
 

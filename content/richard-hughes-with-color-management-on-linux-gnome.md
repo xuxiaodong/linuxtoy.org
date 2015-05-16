@@ -1,7 +1,7 @@
 Title: Richard Hughes 和 Linux, GNOME 上的色彩管理
 Date: 2011-09-26 00:00
 Author: lovenemesis
-Category: Desktop Stuff, Featured
+Category: Desktop Stuff
 Tags: colord, Fedora, GNOME
 Slug: richard-hughes-with-color-management-on-linux-gnome
 

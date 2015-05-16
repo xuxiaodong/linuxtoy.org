@@ -1,7 +1,7 @@
 Title: Pidgin 2.1.0 发布
 Date: 2007-07-30 08:31
 Author: toy
-Category: Apps, Featured
+Category: Apps
 Slug: pidgin-210-released
 
 Linux 下支持多种协议的即时通讯软件 [Pidgin](http://pidgin.im/)

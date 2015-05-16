@@ -1,7 +1,7 @@
 Title: makeself 制作自解压压缩包
 Date: 2009-01-06 14:42
 Author: hmy
-Category: Apps, Cli
+Category: Apps
 Tags: makeself shell
 Slug: makeself
 

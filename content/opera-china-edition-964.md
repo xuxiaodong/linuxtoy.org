@@ -1,7 +1,7 @@
 Title: Opera 中国版 9.64 发布
 Date: 2009-03-10 13:36
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Opera
 Slug: opera-china-edition-964
 

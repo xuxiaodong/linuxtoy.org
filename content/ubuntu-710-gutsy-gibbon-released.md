@@ -1,7 +1,7 @@
 Title: Ubuntu 7.10 Gutsy Gibbon 正式推出
 Date: 2007-10-18 17:02
 Author: toy
-Category: Distros, Featured, News
+Category: Distros, Featured
 Slug: ubuntu-710-gutsy-gibbon-released
 
 经过六个月的努力开发，[Ubuntu](http://www.ubuntu.com/)

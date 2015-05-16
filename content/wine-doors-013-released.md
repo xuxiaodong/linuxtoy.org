@@ -1,7 +1,7 @@
 Title: Wine-Doors 0.1.3 发布
 Date: 2009-03-18 16:21
 Author: toy
-Category: Apps, News
+Category: Apps
 Tags: Wine, Wine-Doors
 Slug: wine-doors-013-released
 

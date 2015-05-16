@@ -1,7 +1,7 @@
 Title: PLWM：写自己的窗口管理器
 Date: 2008-09-02 10:24
 Author: toy
-Category: Apps, Development
+Category: Apps
 Tags: Python, WM
 Slug: python-plwm
 

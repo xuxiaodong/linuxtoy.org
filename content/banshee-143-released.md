@@ -1,7 +1,7 @@
 Title: Banshee 1.4.3 发布
 Date: 2009-03-07 10:02
 Author: toy
-Category: Apps, Music Player
+Category: Apps
 Tags: Banshee
 Slug: banshee-143-released
 

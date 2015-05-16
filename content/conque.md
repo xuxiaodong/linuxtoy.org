@@ -1,7 +1,7 @@
 Title: Conque: 在 Vim 中运行 Shell
 Date: 2010-06-23 17:46
 Author: toy
-Category: Apps, Cli
+Category: Apps
 Tags: Conque, Shell, Vim
 Slug: conque
 

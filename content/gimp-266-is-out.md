@@ -1,7 +1,7 @@
 Title: GIMP 2.6.6 放出
 Date: 2009-03-18 09:23
 Author: toy
-Category: Apps, Image Editor
+Category: Apps
 Tags: GIMP
 Slug: gimp-266-is-out
 

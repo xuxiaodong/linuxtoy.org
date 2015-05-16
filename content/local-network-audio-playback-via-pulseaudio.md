@@ -1,7 +1,7 @@
 Title: 通过 PulseAudio 实现局域网音乐播放
 Date: 2014-12-03 23:01
 Author: lovenemesis
-Category: Music Player, Network
+Category: Music Player
 Tags: pulseaudio
 Slug: local-network-audio-playback-via-pulseaudio
 

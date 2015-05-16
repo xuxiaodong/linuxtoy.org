@@ -1,7 +1,7 @@
 Title: KDE 4.0 Beta 4 精彩截图
 Date: 2007-11-01 09:00
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: kde-40-beta-4-screenshots
 
 昨儿晚上体验了一番最新发布的 [KDE 4.0 Beta

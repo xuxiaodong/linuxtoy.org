@@ -1,7 +1,7 @@
 Title: Google Chrome Pre-alpha for Linux 截图预览
 Date: 2009-04-13 11:34
 Author: toy
-Category: Apps, Screenshots
+Category: Apps
 Tags: Google, Google Chrome
 Slug: google-chrome-pre-alpha-screenshots
 

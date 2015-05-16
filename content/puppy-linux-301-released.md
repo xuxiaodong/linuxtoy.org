@@ -1,7 +1,7 @@
 Title: Puppy Linux 3.01 推出
 Date: 2007-10-16 09:31
 Author: toy
-Category: Distros, News
+Category: Distros
 Slug: puppy-linux-301-released
 
 [Puppy Linux](http://www.puppylinux.com/) 是一个十分小巧的 Linux

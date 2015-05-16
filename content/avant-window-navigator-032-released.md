@@ -1,7 +1,7 @@
 Title: Avant Window Navigator 0.3.2 发布
 Date: 2009-02-09 13:57
 Author: toy
-Category: Apps, Desktop Stuff
+Category: Apps
 Tags: Awn, Dock
 Slug: avant-window-navigator-032-released
 

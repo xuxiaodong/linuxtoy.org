@@ -1,7 +1,7 @@
 Title: GNOME 2.20.0 RC 截图集锦
 Date: 2007-09-10 08:00
 Author: toy
-Category: Apps, Desktop Environment
+Category: Apps
 Slug: gnome-2200-rc-screenshots
 
 [GNOME 2.20.0 的 RC

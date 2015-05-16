@@ -1,7 +1,7 @@
 Title: 玩转 MPlayer
 Date: 2007-02-12 10:37
 Author: toy
-Category: Featured, Movie Player
+Category: Featured
 Slug: playing-around-with-mplayer
 
 MPlayer 是我在 Linux

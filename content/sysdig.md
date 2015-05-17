@@ -4,10 +4,7 @@ Author: toy
 Category: Apps
 Slug: sysdig
 
-[Sysdig][s] 在操作系统层面进行监听，并将系统调用及系统事  
-件等系统活动捕获下来，这使得它看起来极像面向系统的 tcpdump  
-或 Wireshark。如果你打算对系统中的异常故障进行排查，那么  
-Sysdig 将成为你解决问题得心应手的利器。
+[Sysdig][s] 在操作系统层面进行监听，并将系统调用及系统事件等系统活动捕获下来，这使得它看起来极像面向系统的 tcpdump 或 Wireshark。如果你打算对系统中的异常故障进行排查，那么 Sysdig 将成为你解决问题得心应手的利器。
 
 在 Linux 上，可使用以下命令来安装 Sysdig：
 
@@ -91,8 +88,7 @@ Sysdig 将成为你解决问题得心应手的利器。
 
 **过滤捕获结果**
 
-在默认情况下，Sysdig 捕获的信息非常多，要从中找到我们感  
-兴趣的信息，这就需要类似 grep 的过滤功能。
+在默认情况下，Sysdig 捕获的信息非常多，要从中找到我们感兴趣的信息，这就需要类似 grep 的过滤功能。
 
 按字段类别进行过滤：
 
@@ -113,11 +109,9 @@ Sysdig 将成为你解决问题得心应手的利器。
     5 10:54:50.463206317 0 sysdig (29043) > switch next=0 pgft\_maj=0
     pgft\_min=1790 vm\_size=35748 vm\_rss=7164 vm\_swap=0
 
-Sysdig 提供包括 fd、process、evt、user、group、syslog 等字段  
-类别，可通过 `sysdig -l` 查询。
+Sysdig 提供包括 fd、process、evt、user、group、syslog 等字段类别，可通过 `sysdig -l` 查询。
 
-除 = 外，Sysdig 的过滤表达式还支持 !=、<、<=、>、>= 及 contains  
-等比较操作符。
+除 = 外，Sysdig 的过滤表达式还支持 !=、<、<=、>、>= 及 contains 等比较操作符。
 
 同时，也可以使用 and、or、not 等布尔操作符。例如：
 
@@ -126,11 +120,9 @@ Sysdig 提供包括 fd、process、evt、user、group、syslog 等字段
 
 **Chisels**
 
-在 Sysdig 中，chisels 是通过 Lua 编写的脚本，可以用来扩展  
-Sysdig 的过滤功能。
+在 Sysdig 中，chisels 是通过 Lua 编写的脚本，可以用来扩展 Sysdig 的过滤功能。
 
-比如我们想看读写磁盘文件最频繁的进程，可以使用 topprocs\\\_file  
-这个 chisels：
+比如我们想看读写磁盘文件最频繁的进程，可以使用 topprocs\\\_file 这个 chisels：
 
     :::bash
     sysdig -c topprocs\_file
@@ -147,7 +139,6 @@ Sysdig 的过滤功能。
     1.59KB Xorg  
     1.30KB urxvtd
 
-更多 chisels，可通过 `sysdig -cl` 了解。当然，如果你熟悉 Lua，  
-那么也可以编写自己的 chisels。
+更多 chisels，可通过 `sysdig -cl` 了解。当然，如果你熟悉 Lua，那么也可以编写自己的 chisels。
 
 [s]: http://www.sysdig.org

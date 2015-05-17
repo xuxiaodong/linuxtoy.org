@@ -201,6 +201,13 @@ code {
     word-wrap: break-word;
 }
 
+.nav-left {
+    float: left;
+}
+.nav-right {
+    float: right;
+}
+
 /*
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
 appears on the left side of the page.

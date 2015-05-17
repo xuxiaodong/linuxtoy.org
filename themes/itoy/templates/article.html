@@ -27,14 +27,14 @@
         <div class="pure-menu pure-menu-horizontal">
             <ul class="pure-ment-list">
                 {% if article.prev_article %}
-                <li class="pure-menu-item">
+                <li class="pure-menu-item nav-left">
                     <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
                         &laquo; {{ article.prev_article.title }}
                     </a>
                 </li>
                 {% endif %}
                 {% if article.next_article %}
-                <li class="pure-menu-item">
+                <li class="pure-menu-item nav-right">
                     <a href="{{ SITEURL }}/{{ article.next_article.url}}">
                         {{ article.next_article.title }} &raquo;
                     </a>

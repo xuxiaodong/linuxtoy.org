@@ -45,15 +45,20 @@
                             </a>
 
                             <ul class="pure-menu-list">
-                                {% if MENUITEMS %}
-                                {% for title, link in MENUITEMS %}
+                                {% if MENUITEMS_BEFORE %}
+                                {% for title, link in MENUITEMS_BEFORE %}
                                 <li class="pure-menu-item">
-                                    <a class="pure-menu-link" href="{{ link }}">{{ title }}</a>
+                                    <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">
+                                        {% if ARCHIVE_ICONS %}
+                                        <i class="icono-{{ ARCHIVE_ICONS[loop.index0 ] }}"></i>
+                                        {% else %}
+                                        {{ title }}
+                                        {% endif %}
+                                    </a>
                                 </li>
                                 {% endfor %}
                                 {% endif %}
 
-                                {% set icons = ['book', 'support', 'mail', 'heart', 'exclamationCircle'] %}
                                 {% if DISPLAY_PAGES_ON_MENU -%}
                                 {% for pg in PAGES|sort(attribute='page_order') %}
                                 <li class="pure-menu-item{% if pg == page %} menu-item-divided pure-menu-selected{% endif %}">
@@ -62,6 +67,20 @@
                                         <i class="icono-{{ PAGE_ICONS[loop.index0 ] }}"></i>
                                         {% else %}
                                         {{ pg.title }}
+                                        {% endif %}
+                                    </a>
+                                </li>
+                                {% endfor %}
+                                {% endif %}
+
+                                {% if MENUITEMS_AFTER %}
+                                {% for title, link in MENUITEMS_AFTER %}
+                                <li class="pure-menu-item">
+                                    <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">
+                                        {% if RSS_ICONS %}
+                                        <i class="icono-{{ RSS_ICONS[loop.index0 ] }}"></i>
+                                        {% else %}
+                                        {{ title }}
                                         {% endif %}
                                     </a>
                                 </li>

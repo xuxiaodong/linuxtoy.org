@@ -17,6 +17,11 @@ SUMMARY_MAX_LENGTH = 30
 DEFAULT_PAGINATION = 10
 
 PAGE_ICONS = ['book', 'support', 'mail', 'heart', 'exclamationCircle']
+ARCHIVE_ICONS = ['folder']
+RSS_ICONS = ['rss']
+MENUITEMS_BEFORE = (('Archives', '/pages/all-archives.html'),)
+MENUITEMS_AFTER = (('RSS', '/feeds/all.atom.xml'),)
+
 DISQUS_SITENAME = 'linuxtoy'
 GOOGLE_ANALYTICS = 'UA-349050-2'
 

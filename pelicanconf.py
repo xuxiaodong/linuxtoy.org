@@ -16,6 +16,7 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 SUMMARY_MAX_LENGTH = 30
 DEFAULT_PAGINATION = 10
 
+PAGE_ICONS = ['book', 'support', 'mail', 'heart', 'exclamationCircle']
 DISQUS_SITENAME = 'linuxtoy'
 GOOGLE_ANALYTICS = 'UA-349050-2'
 

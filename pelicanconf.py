@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'toy'
 SITENAME = u'LinuxTOY'
-SITEURL = ''
+SITEURL = 'http://archive.linuxtoy.org'
 
 PATH = 'content'
 TIMEZONE = 'Asia/Shanghai'

@@ -7,7 +7,11 @@
         {% if article.authors %}
         By 
         {% for author in article.authors %}
+        {% if AUTHOR_ALIAS %}
+        <a class="post-author" href="{{ SITEURL }}/{{ author.url }}">{% if AUTHOR_ALIAS[author] %}{{ AUTHOR_ALIAS[author] }}{% else %}{{ author }}{% endif %}</a>
+        {% else %}
         <a class="post-author" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+        {% endif %}
         {% endfor %}
         {% endif %}
         Posted in <a class="post-category" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a> 

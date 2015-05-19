@@ -16,6 +16,8 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 SUMMARY_MAX_LENGTH = 30
 DEFAULT_PAGINATION = 10
 
+AUTHOR_ALIAS = {'lovenemesis': '黑日白月'}
+
 PAGE_ICONS = ['book', 'support', 'mail', 'heart', 'exclamationCircle']
 ARCHIVE_ICONS = ['folder']
 RSS_ICONS = ['rss']

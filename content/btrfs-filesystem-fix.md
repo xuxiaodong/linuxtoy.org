@@ -16,7 +16,7 @@ Btrfs
 
 慢！在撞墙或果断调用 `btrfs check` 之前，请注意 btrfs
 文件系统不像其他文件系统，大多数情况下是不需要 `fsck` 的，这个不干活的
-`fsck` 其实是为了兼容在 `fstab` 中错误的非0 `fs\_passno`
+`fsck` 其实是为了兼容在 `fstab` 中错误的非0 `fs_passno`
 设置而生的。
 
 再慢！`btrfs check`
@@ -87,8 +87,6 @@ Btrfs
 
 参考资料：
 
-* [Btrfs Problem
-FAQ](https://btrfs.wiki.kernel.org/index.php/Problem\_FAQ)  
+* [Btrfs Problem FAQ](https://btrfs.wiki.kernel.org/index.php/Problem_FAQ)  
 * [Btrfs FAQ](https://btrfs.wiki.kernel.org/index.php/FAQ)  
-* [Btrfs
-Tips](http://marc.merlins.org/perso/btrfs/post\_2014-03-19\_Btrfs-Tips\_-Btrfs-Scrub-and-Btrfs-Filesystem-Repair.html)
+* [Btrfs Tips](http://marc.merlins.org/perso/btrfs/post_2014-03-19_Btrfs-Tips_-Btrfs-Scrub-and-Btrfs-Filesystem-Repair.html)

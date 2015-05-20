@@ -24,6 +24,8 @@ RSS_ICONS = ['rss']
 MENUITEMS_BEFORE = (('Archives', '/pages/all-archives.html'),)
 MENUITEMS_AFTER = (('RSS', '/feeds/all.atom.xml'),)
 
+GITHUB_SOURCE = 'https://raw.githubusercontent.com/xuxiaodong/linuxtoy.org/master/content'
+
 DISQUS_SITENAME = 'linuxtoy'
 GOOGLE_ANALYTICS = 'UA-349050-2'
 

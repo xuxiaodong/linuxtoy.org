@@ -21,5 +21,8 @@
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape }}</a> 
         {% endfor %} 
         {% endif %}
+        {% if GITHUB_SOURCE %}
+        View on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
+        {% endif %}
     </p>
 </header>

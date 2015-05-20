@@ -11,6 +11,8 @@ Co.](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-com
 [Kickstarter](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 众筹中。
 
+<!-- PELICAN_END_SUMMARY -->
+
 CHIP 的特点有：
 
 * 以全志 A13 为基础的 R8 SoC CorextA8 SoC 方案，1GHz 主频，512M

@@ -10,52 +10,61 @@ linuxtoy.org
 - develop_server.sh：开发脚本
 - Makefile：Make 构建脚本
 
-## 如何使用
+### 如何使用
 
-参照 [Pelican 快速入门][p] 安装 Pelican。
+请参照 [Pelican 快速入门][p] 安装 Pelican。
 
-## 新建文章
+### 新建文章
 
-为了保持一致性，推荐 Markdown 格式，包括文章元数据和正文两个部分，例如：
+为了保持一致性，推荐使用 Markdown 格式，主要包括文章元数据和正文两个部分，例如：
 
     Title: (标题)
     Date: 2010-12-03 10:20 (创建日期)
     Modified: 2010-12-05 19:30 (修改日期)
-    Category: Python (分类)
-    Tags: pelican, publishing (标签)
+    Category: Python (分类，只能使用单一分类)
+    Tags: pelican, publishing (标签，多个以 , 分隔)
     Slug: my-super-post (slug，将用于 url)
-    Authors: (作者)
+    Authors: (作者，多个以 , 分隔)
     Summary: (摘要)
 
     这是正文。
 
-## 添加代码
+### 添加代码
 
-可对引用代码添加语法高亮显示，写法如下：
+在撰文时，可对引用代码添加语法高亮显示，记法如下：
 
     A block of text. (正常文本)
 
         :::identifier (标识符，如 python)
         <code goes here> (具体的代码)
 
-## Vim 支持
+### Vim 支持
 
-在 .vimrc 中定义如下函数并绑定快捷键 `_ + m`，便可快速生成文章元数据：
+若你使用 Vim 文本编辑器，那么可以在 .vimrc 中定义如下函数并绑定快捷键 `_ + m`，这样能够快速生成文章元数据：
 
-    ```viml
-    "-- Markdown header --"
-    function! MarkdownHeader()
-    let date = strftime("%Y-%m-%d %T")
-    exe "normal iTitle: "
-    exe "normal oDate: " . date
-    exe "normal oAuthors: "
-    exe "normal oCategory: "
-    exe "normal oTags: "
-    exe "normal oSlug: "
-    exe "normal o"
-    endfunction
+```viml
+"-- Markdown header --"
+function! MarkdownHeader()
+let date = strftime("%Y-%m-%d %T")
+exe "normal iTitle: "
+exe "normal oDate: " . date
+exe "normal oAuthors: "
+exe "normal oCategory: "
+exe "normal oTags: "
+exe "normal oSlug: "
+exe "normal o"
+endfunction
 
-    nmap _m :call MarkdownHeader()<cr>
+nmap _m :call MarkdownHeader()<cr>
+
+### 欢迎贡献
+
+我们是开放性网站，主要聚焦于 GNU/Linux 和开源，内容包括但不限于新闻、应用、以及提示诸方面，无论是来稿，抑或改善意见，我们都欢迎。
+
+### 版权许可
+
+本网站文字及图片内容遵循“[署名-非商业性使用-相同方式共享 2.5 中国大陆][c]”的创作共用协议。
 
 [l]: http://linuxtoy.org
 [p]: http://docs.getpelican.com/en/3.5.0/quickstart.html
+[c]: http://creativecommons.org/licenses/by-nc-sa/2.5/cn/

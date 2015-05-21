@@ -6,6 +6,8 @@ Slug: debian-8-jessie-released
 
 代号 Jessie 的 Debian 8 发布正式版，带来 `systemd` 及 UEFI 引导改善。
 
+<!-- PELICAN_END_SUMMARY -->
+
 除了上述两个重要组件，Jessie 带来了一系列软件包的更新：
 
 * Kernel 3.16.7  

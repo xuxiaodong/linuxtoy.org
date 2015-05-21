@@ -7,6 +7,8 @@ Slug: visual-studio-code
 M$ 的 Visual Studio 家族新添一名支持 Linux
 的成员，成为它家首个跨平台的代码编辑器。
 
+<!-- PELICAN_END_SUMMARY -->
+
 Visual Studio Code 是一款面向云端应用开发的代码编辑器（轻量级
 IDE？），现阶段具备的功能有：
 

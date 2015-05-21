@@ -7,6 +7,8 @@ Slug: synfig-studio-1-0
 
 开源 2D 动画制作软件 Synfig Studio 历经多年终于发布 1.0 版本。
 
+<!-- PELICAN_END_SUMMARY -->
+
 本次发布的亮点有：
 
 * 完全重新设计的图形界面，基于 GTK3 框架的单窗口模式  

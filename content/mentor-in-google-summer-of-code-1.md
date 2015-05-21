@@ -13,6 +13,8 @@ Google 挣钱哦～且看 @tonghuix 这篇入门文章。
 4.0](https://creativecommons.org/licenses/by-sa/4.0/)许可发布。按照作者意愿，欢迎转载，请注明作者和出处。但请不要转载到
 CSDN 及其下属网站。谢谢合作！**评论请前往博客原文**。
 
+<!-- PELICAN_END_SUMMARY -->
+
 前
 几天，我指导的两名学生被Google接受，这样我就以导师（Mentor）身份第一次参加到Google
 Summer of

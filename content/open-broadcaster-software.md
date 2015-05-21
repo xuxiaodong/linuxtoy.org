@@ -8,6 +8,8 @@ Slug: open-broadcaster-software
 Open Broadcaster Software
 是一款开源且跨平台的屏幕录制软件，方便想要录制教学视频或者游戏录像的人群。
 
+<!-- PELICAN_END_SUMMARY -->
+
 OBS（注意不要与 openSUSE 的构建服务混淆）提供的功能有：
 
 * 使用 H264 及 AAC 编码的视频文件，封装格式为 MP4 或 FLV  

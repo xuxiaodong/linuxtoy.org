@@ -10,6 +10,8 @@ Slug: avx-simd-used-in-btrfs
 即是这两年引入又在不断得到改善的新指令集之一。可惜大多数新的指令集并不能为一般日常使用带来太多提升。不过若是您打算使用
 Btrfs 文件系统的话，需要留意下 AVX 的支持程度了。  
 
+<!-- PELICAN_END_SUMMARY -->
+
 [Btrfs
 文件系统](https://en.wikipedia.org/wiki/Btrfs)的一大特性就是针对数据和元数据都会校验和，在这个过程由内核的
 `xor` 模块提供支持。而目前 `xor`

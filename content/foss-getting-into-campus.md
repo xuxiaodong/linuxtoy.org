@@ -9,6 +9,8 @@ Slug: foss-getting-into-campus
 夏季活动也开始了，这一次的目标是校园的学妹学弟们！转载自[重庆 Linux
 用户组博客](http://www.chongqinglug.org/foss-getting-into-campus/)
 
+<!-- PELICAN_END_SUMMARY -->
+
 如果你只是电脑用户…  
 你关注过自己使用的**软件**吗？  
 你是否被各种不请自来的卫士所困扰？  

@@ -9,6 +9,8 @@ Slug: amdgpu-kernel-module-released
 统一化驱动策略](https://linuxtoy.org/archives/amd-announce-unified-gpu-driver-stack.html)的核心，`amdgpu`
 驱动模块发布，协同对应的 Xorg 及 Mesa 补丁。
 
+<!-- PELICAN_END_SUMMARY -->
+
 本次发布包括：
 
 * `amdgpu` 内核模块，同时服务于开源及闭源驱动  

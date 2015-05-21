@@ -41,3 +41,7 @@ THEME = 'themes/itoy'
 
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts']
+
+CACHE_CONTENT = True
+LOAD_CONTENT_CACHE = True
+CHECK_MODIFIED_METHOD = 'mtime'

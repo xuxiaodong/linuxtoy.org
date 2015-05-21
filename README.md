@@ -29,7 +29,7 @@ linuxtoy.org
 
     这是正文。
 
-## 添加语法
+## 添加代码
 
 可对引用代码添加语法高亮显示，写法如下：
 
@@ -37,6 +37,25 @@ linuxtoy.org
 
         :::identifier (标识符，如 python)
         <code goes here> (具体的代码)
+
+## Vim 支持
+
+在 .vimrc 中定义如下函数并绑定快捷键 `_ + m`，便可快速生成文章元数据：
+
+    ```viml
+    "-- Markdown header --"
+    function! MarkdownHeader()
+    let date = strftime("%Y-%m-%d %T")
+    exe "normal iTitle: "
+    exe "normal oDate: " . date
+    exe "normal oAuthors: "
+    exe "normal oCategory: "
+    exe "normal oTags: "
+    exe "normal oSlug: "
+    exe "normal o"
+    endfunction
+
+    nmap _m :call MarkdownHeader()<cr>
 
 [l]: http://linuxtoy.org
 [p]: http://docs.getpelican.com/en/3.5.0/quickstart.html

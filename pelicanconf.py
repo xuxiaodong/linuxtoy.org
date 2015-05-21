@@ -18,10 +18,8 @@ DEFAULT_PAGINATION = 10
 
 AUTHOR_ALIAS = {'lovenemesis': '黑日白月'}
 
-PAGE_ICONS = ['book', 'support', 'mail', 'heart', 'exclamationCircle']
-ARCHIVE_ICONS = ['folder']
+PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
 RSS_ICONS = ['rss']
-MENUITEMS_BEFORE = (('Archives', '/pages/all-archives.html'),)
 MENUITEMS_AFTER = (('RSS', '/feeds/all.atom.xml'),)
 
 GITHUB_SOURCE = 'https://github.com/xuxiaodong/linuxtoy.org/blob/master/content'

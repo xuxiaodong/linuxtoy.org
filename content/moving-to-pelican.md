@@ -5,7 +5,7 @@ Category: Sitelog
 Tags: Pelican
 Slug: moving-to-pelican
 
-自建站伊始，我们便选择了使用 WordPress 来搭建网站，这些年一直用得很好。但随着文章及评论内容的增多，WordPress 的效率越来越低，网站打开十分缓慢，想毕最近来访的朋友深知这一点。经过筛选，我们打算迁移到 Pelican。
+自建站伊始，我们便选择了使用 WordPress 来搭建网站，这些年一直用得很好。但随着文章及评论内容的增多，WordPress 的效率越来越低，网站打开十分缓慢，想必最近来访的朋友深知这一点。经过筛选，我们打算迁移到 Pelican。
 
 <!-- PELICAN_END_SUMMARY -->
 

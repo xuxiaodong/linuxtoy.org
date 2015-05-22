@@ -6,8 +6,6 @@ Tags: Kickstart, CentOS
 Slug: kickstart
 Summary: 本文主要通过学习 Kickstart 实现最简单的光盘方式自动化安装 CentOS，希望对大家有所帮助。
 
-![img](http://i.v2ex.co/9a5au33Z.png)
-
 ## 前言
 
 因为需要在浪潮的x86服务器中集中部署CentOS搭建基于Hadoop的大数据平台，平时接触SLES(SuSE Linux Enterprise Server)较多并且已经实现基于Autoyast方式使用光盘或者PXE网络自动化安装(后续会分享具体实现方法)。这次主要通过学习Kickstart实现最简单的光盘方式自动化安装CentOS，而网上的大多数教程并不完全适用于自身的环境，本文将不再赘述Kickstart相关概念，细节可参考扩展阅读。
@@ -18,12 +16,12 @@ Summary: 本文主要通过学习 Kickstart 实现最简单的光盘方式自动
 
 2015年05月20日 - 初稿
 
-阅读原文 - http://wsgzao.github.io/post/kickstart/
+[阅读原文](http://wsgzao.github.io/post/kickstart/)
 
 扩展阅读
 
-- CentOS - http://wiki.centos.org/zh/TipsAndTricks/KickStart
-- Fedora - https://fedoraproject.org/wiki/Anaconda/Kickstart/zh-cn
+- CentOS - <http://wiki.centos.org/zh/TipsAndTricks/KickStart>
+- Fedora - <https://fedoraproject.org/wiki/Anaconda/Kickstart/zh-cn>
 
 ## 环境准备
 
@@ -31,7 +29,7 @@ Summary: 本文主要通过学习 Kickstart 实现最简单的光盘方式自动
 
 > CentOS-6.4-x86_64
 
-官方下载地址 - http://wiki.centos.org/Download
+[官方下载地址](http://wiki.centos.org/Download)
 
 ### 安装软件包
 
@@ -201,5 +199,5 @@ mkisofs -o /tmp/CentOS-6.4_64_auto.iso -b isolinux/isolinux.bin -c isolinux/boot
 
 > 推荐两篇参考文献，建议先在虚拟机上反复测试验证再到物理机部署
 
-- Linux Kickstart 自动安装 - http://liaoph.com/linux-kickstart/
-- Centos6.4定制自动化安装盘 - http://www.wpython.com/444.html
+- [Linux Kickstart 自动安装](http://liaoph.com/linux-kickstart/)
+- [Centos6.4定制自动化安装盘](http://www.wpython.com/444.html)

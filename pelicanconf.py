@@ -16,7 +16,10 @@ DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 SUMMARY_MAX_LENGTH = 30
 DEFAULT_PAGINATION = 10
 
-AUTHOR_ALIAS = {'lovenemesis': '黑日白月'}
+AUTHOR_ALIAS = {
+        'lovenemesis': '黑日白月',
+        'wsgzao': '王奥OX',
+        }
 
 PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
 RSS_ICONS = ['rss']
@@ -38,7 +41,7 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 THEME = 'themes/itoy'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts']
+PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts', 'cjk-auto-spacing']
 
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True

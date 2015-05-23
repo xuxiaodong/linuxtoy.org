@@ -11,7 +11,7 @@
         </section>
     </div>
     {% if article.related_posts %}
-    <h3>Read More:</h3>
+    <h4>Read More:</h4>
     <div class="pure-menu">
         <ul class="pure-ment-list">
         {% for related_post in article.related_posts %}
@@ -24,23 +24,20 @@
     {% endif %}
     {% include 'disqus.html' %}
     <div class="footer">
-        <div class="pure-menu pure-menu-horizontal">
-            <ul class="pure-ment-list">
                 {% if article.prev_article %}
-                <li class="pure-menu-item nav-left">
+                <p class="nav-left">
                     <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
                         &laquo; {{ article.prev_article.title }}
                     </a>
-                </li>
+                </p>
                 {% endif %}
                 {% if article.next_article %}
-                <li class="pure-menu-item nav-right">
+                <p class="nav-right">
                     <a href="{{ SITEURL }}/{{ article.next_article.url}}">
                         {{ article.next_article.title }} &raquo;
                     </a>
-                </li>
+                </p>
                 {% endif %}
-            </ul>
         </div>
     </div>
 </div>

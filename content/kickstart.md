@@ -20,8 +20,8 @@ Summary: 本文主要通过学习 Kickstart 实现最简单的光盘方式自动
 
 扩展阅读
 
-- CentOS - <http://wiki.centos.org/zh/TipsAndTricks/KickStart>
-- Fedora - <https://fedoraproject.org/wiki/Anaconda/Kickstart/zh-cn>
+- [CentOS](http://wiki.centos.org/zh/TipsAndTricks/KickStart)
+- [Fedora](https://fedoraproject.org/wiki/Anaconda/Kickstart/zh-cn)
 
 ## 环境准备
 
@@ -200,4 +200,4 @@ mkisofs -o /tmp/CentOS-6.4_64_auto.iso -b isolinux/isolinux.bin -c isolinux/boot
 > 推荐两篇参考文献，建议先在虚拟机上反复测试验证再到物理机部署
 
 - [Linux Kickstart 自动安装](http://liaoph.com/linux-kickstart/)
-- [Centos6.4定制自动化安装盘](http://www.wpython.com/444.html)
+- [CentOS 6.4 定制自动化安装盘](http://www.wpython.com/444.html)

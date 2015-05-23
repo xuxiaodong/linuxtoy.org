@@ -15,7 +15,7 @@ CPU、内存、磁盘、以及网络的使用情况。
 `rtop` 使用 Go 语言编写而成，可按如下步骤获取源码并编译：
 
 ```bash
-git clone --recursive http://github.com/rapidloop/rtop
+git clone --recursive https://github.com/rapidloop/rtop
 cd rtop
 make
 ```
@@ -23,7 +23,7 @@ make
 要运行 `rtop` 则可执行：
 
 ```bash
-rtop use@host:port
+rtop user@host:port
 ```
 
 其中：

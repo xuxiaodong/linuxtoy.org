@@ -8,9 +8,9 @@ Slug: rtop
 [rtop][r] 是一个基于 SSH 的远程系统监视工具。通过 `rtop`，你可以远程监视
 CPU、内存、磁盘、以及网络的使用情况。
 
-![rtop](/images/2015/05/rtop.png)
-
 <!-- PELICAN_END_SUMMARY -->
+
+![rtop](/images/2015/05/rtop.png)
 
 `rtop` 使用 Go 语言编写而成，可按如下步骤获取源码并编译：
 

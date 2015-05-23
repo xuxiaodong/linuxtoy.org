@@ -36,6 +36,7 @@ ARTICLE_SAVE_AS = 'archives/{slug}.html'
 YEAR_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/index.html'
 MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%m}/index.html'
 
+FEED_MAX_ITEMS = 10
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 THEME = 'themes/itoy'

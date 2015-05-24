@@ -23,7 +23,7 @@ linuxtoy.org
     Modified: 2010-12-05 19:30 (修改日期)
     Category: Python (分类，只能使用单一分类)
     Tags: pelican, publishing (标签，多个以 , 分隔)
-    Slug: my-super-post (slug，将用于 url)
+    Slug: my-super-post (slug，将用于 url，请与文件名保持一致)
     Authors: (作者，多个以 , 分隔)
     Summary: (摘要)
 

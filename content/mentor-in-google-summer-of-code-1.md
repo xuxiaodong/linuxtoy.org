@@ -8,12 +8,12 @@ Slug: mentor-in-google-summer-of-code-1
 如果您是学生党且这个暑假又有时间和技术搞些开源项目的话，不妨再挣点小钱花花？而且是从
 Google 挣钱哦～且看 @tonghuix 这篇入门文章。
 
+<!-- PELICAN_END_SUMMARY -->
+
 下列内容[转载自 @tonghuix
 的博客](https://tonghuix.io/2015/05/mentor-in-google-summer-of-code-1/)，依据以[CC-BY-SA
 4.0](https://creativecommons.org/licenses/by-sa/4.0/)许可发布。按照作者意愿，欢迎转载，请注明作者和出处。但请不要转载到
 CSDN 及其下属网站。谢谢合作！**评论请前往博客原文**。
-
-<!-- PELICAN_END_SUMMARY -->
 
 前
 几天，我指导的两名学生被Google接受，这样我就以导师（Mentor）身份第一次参加到Google

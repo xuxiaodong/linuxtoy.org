@@ -6,7 +6,7 @@ Tags: pinfo
 Slug: pinfo-manpage-texinfo-viewer-part-2
 
 紧接着[上一篇](http://linuxtoy.org/archives/pinfo-manpage-texinfo-viewer-part-1.html)，开始介绍
-pinfo 查看软件。*感谢 cheer\_xiao 投稿*
+pinfo 查看软件。*感谢 cheer_xiao 投稿*
 
 在 Debian/Ubuntu 下用
 
@@ -35,7 +35,7 @@ pinfo 默认采用类似字符界面浏览器 lynx 的键绑定模式，而 lynx
 我们先试试 `pinfo man`。这里打开的是 `man` 的 manpage（因为她没有
 Texinfo 文档）。效果如图：
 
-[![](http://linuxtoy.org/img/2011/01/pinfo-man-head.png)](http://linuxtoy.org/img/2011/01/pinfo-man-head.png)
+[![pinfo](http://linuxtoy.org/img/2011/01/pinfo-man-head.png)](http://linuxtoy.org/img/2011/01/pinfo-man-head.png)
 
 看起来和 `man` 的界面挺像的，基本操作和 `man`
 的区别也不大。上、下键用于滚屏，也可以使用 vi 风格的 j 和
@@ -45,13 +45,13 @@ k。空格键下翻一整屏。不过不能按回车键下滚一行——它已�
 
 现在让我们按 End 键到最后，这里有不少链接：
 
-[![](http://linuxtoy.org/img/2011/01/pinfo-man-tail.png)](http://linuxtoy.org/img/2011/01/pinfo-man-tail.png)
+[![pinfo](http://linuxtoy.org/img/2011/01/pinfo-man-tail.png)](http://linuxtoy.org/img/2011/01/pinfo-man-tail.png)
 
 稍一研究发现，绿色的是指向其它 manpage
 的，紫色的是指向邮件地址（实际上外部地址都是这样）的，最下面的红色链接是当前选中的链接。如果按上键或者
 k，不会向上滚屏，而是选中了上一个链接。按若干次上键或 k，选中 `less`：
 
-[![](http://linuxtoy.org/img/2011/01/pinfo-man-follow-less.png)](http://linuxtoy.org/img/2011/01/pinfo-man-follow-less.png)
+[![pinfo](http://linuxtoy.org/img/2011/01/pinfo-man-follow-less.png)](http://linuxtoy.org/img/2011/01/pinfo-man-follow-less.png)
 
 现在按回车或者右键即可跳到 `less` 的
 manpage。返回呢？按左键即可。就和浏览器的操作方法一样，因为说过它的键绑定是从
@@ -62,7 +62,7 @@ n，不过当然很容易重新配置。
 不过顾名思义，pinfo 主要还是用来看 Texinfo 文档的。 现在我们在终端里面打
 `pinfo pinfo`：
 
-[![](http://linuxtoy.org/img/2011/01/pinfo-pinfo.png)](http://linuxtoy.org/img/2011/01/pinfo-pinfo.png)
+[![pinfo](http://linuxtoy.org/img/2011/01/pinfo-pinfo.png)](http://linuxtoy.org/img/2011/01/pinfo-pinfo.png)
 
 默认的键绑定方案在 Configuration > Configuration file > Example config
 file
@@ -92,7 +92,7 @@ pinfo 会先搜索 Texinfo 文档，找不到时才显示 manpage。以下命令
 也可以，而且会把搜索的结果显示成一个个超链接，十分方便。下面是
 `pinfo -m -k what` 的截图：
 
-[![](http://linuxtoy.org/img/2011/01/pinfo-key-what.png)](http://linuxtoy.org/img/2011/01/pinfo-key-what.png)
+[![pinfo](http://linuxtoy.org/img/2011/01/pinfo-key-what.png)](http://linuxtoy.org/img/2011/01/pinfo-key-what.png)
 
 因为 `pinfo -m` 和 `man` 接受的参数相同，我现在干脆把 `man` 设成了
 `pinfo -m` 的别名：

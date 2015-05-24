@@ -163,13 +163,14 @@ The content `<div>` is where all your content goes.
 
 pre,
 code {
-    font-family: Consolas, Courier, monospace;
+    font-family: "DejaVu Sans Mono", Consolas, Courier, monospace;
+    font-size: 90%;
+    padding: 0.2em 0.4em;
     color: #333;
     background: rgb(250, 250, 250);
 }
 
 code {
-    padding: 0.2em 0.4em;
     white-space: nowrap;
 }
 

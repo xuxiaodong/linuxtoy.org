@@ -1,4 +1,4 @@
-Title: All Archives
+Title: Archives
 Date: 2015-05-18 10:52
 Author: toy
 Slug: all-archives

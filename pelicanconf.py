@@ -21,8 +21,8 @@ AUTHOR_ALIAS = {
         'wsgzao': '王奥OX',
         }
 
-PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
-RSS_ICONS = ['rss']
+#PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
+#RSS_ICONS = ['rss']
 MENUITEMS_AFTER = (('RSS', '/feeds/all.atom.xml'),)
 
 GITHUB_SOURCE = 'https://github.com/xuxiaodong/linuxtoy.org/blob/master/content'

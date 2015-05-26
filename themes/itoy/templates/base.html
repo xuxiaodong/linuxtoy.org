@@ -98,7 +98,13 @@
             {% endblock %}
         </div>
 
+        <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/zepto.min.js"></script>
         <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/ui.js"></script>
+        <script>
+            Zepto(function($){
+                $('table').addClass('pure-table pure-table-bordered');
+            });
+        </script>
         {% include 'google_analytics.html' %}
     </body>
 </html>

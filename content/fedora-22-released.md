@@ -6,6 +6,8 @@ Tags: fedora
 Slug: fedora-22-released
 Summary: 经过几次预料之中的延期，Fedora 22 正式发布，带来了 Kernel 4.0 及众多开源新技术。
 
+如果您想快速了解工作站版本的变化，不妨观看该[短片介绍](http://v.youku.com/v_show/id_XOTY1NDkxMDE2.html)。
+
 Fedora.Next 引入了三个面向不同用户群体的版本，其中的一些共同的改善有：
 
 * 上层软件包管理工具正式切换为 `dnf`，相应的过渡工具也已经就位。[点击此了解更多关于过渡的细节](http://dnf.readthedocs.org/en/latest/cli_vs_yum.html)。

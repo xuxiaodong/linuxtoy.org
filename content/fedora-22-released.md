@@ -39,7 +39,7 @@ Fedora.Next 引入了三个面向不同用户群体的版本，其中的一些�
 
 * KDE 定制版默认使用 **KDE5 Plasma 桌面环境**，引入全新的 Breeze 主题。
 * Xfce 定制版升级至 4.12 版本，包含 HiDPI 和 GTK3 插件支持。
-* 功能性定制版现在有了一个[专门的主页](https://labs.fedoraproject.org/)，内涵之前的创作套件版、开源游戏版和安全试验室版等
+* 功能性定制版现在有了一个[专门的主页](https://labs.fedoraproject.org/)，内含之前的创作套件版、开源游戏版和安全试验室版等
 * ARM 也独立出来有了[自己的主页](https://arm.fedoraproject.org/)，可以下载上述各个定制版的 ARM 平台版本。
 
 

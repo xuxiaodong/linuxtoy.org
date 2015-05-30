@@ -4,8 +4,7 @@ Date: 2015-05-30
 Category: Browser
 Tags: mozilla, firefox
 Slug: firefox-39-beta
-Status: draft
-Summary: 这一次和往常不同，Mozilla 在 Firefox 38 推送稳定渠道的一周后多后，才发布 Firefox 39 的 Beta 版本，为 Linux 平台启用了恶意软件检测，同时也带来了 Win 64 位版本。
+Summary: 这一次和往常不同，Mozilla 在 Firefox 38 推送稳定渠道的一周后多后，才发布 Firefox 39 的 Beta 版本，为 Linux 平台启用了**恶意软件检测**，同时也带来了 **Win 64 位版本**。
 
 本次**桌面版本**的更新有：
 
@@ -38,3 +37,13 @@ Summary: 这一次和往常不同，Mozilla 在 Firefox 38 推送稳定渠道的
 * 除了临时白名单站点以外，全局禁用 RC4
 * 默认启用 [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 * 在开发者版本默认启用[竖排文本模式](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode)
+* 支持 CSS 滚动快照点
+* [List-style-type](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)现在支持字符串数值
+* CSS 变换及动画层级与当前标准匹配
+* 实现 [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+* 改善从 IPV6 退回到 IPV4 的性能
+* 通过侦测损坏的 HTTP1.1 传输的方式解决部分未完成下载被标示为完成的问题
+
+[官方英文发布摘要](https://www.mozilla.org/en-US/firefox/android/39.0beta/releasenotes/)
+
+[Play Store 官方下载](market://details?id=org.mozilla.firefox&referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org)

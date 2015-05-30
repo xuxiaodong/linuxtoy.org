@@ -5,7 +5,7 @@ Category: Tutorials
 Tags: suse, autoyast
 Slug: autoyast
 
-本文主要介绍基于AutoYaST实现半自动化SuSE定制光盘和PXE网络全自动化安装SuSE的实践过程，希望对大家有用。
+本文主要介绍基于 AutoYaST 实现半自动化 SuSE 定制光盘和PXE网络全自动化安装 SuSE 的实践过程，希望对大家有用。
 
 <!-- PELICAN_END_SUMMARY -->
 

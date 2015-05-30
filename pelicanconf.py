@@ -7,7 +7,7 @@ SITENAME = u'LinuxTOY'
 SITEURL = 'https://linuxtoy.org'
 
 PATH = 'content'
-STATIC_PATH = ['images', 'files']
+STATIC_PATHS = ['images', 'files']
 TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'

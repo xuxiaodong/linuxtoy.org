@@ -18,7 +18,7 @@
         {% if article.tags %} 
         Tagged as 
         {% for tag in article.tags %}
-        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape }}</a> 
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
         {% endfor %} 
         {% endif %}
         {% if GITHUB_SOURCE %}

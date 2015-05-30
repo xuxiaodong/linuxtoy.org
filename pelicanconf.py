@@ -20,6 +20,8 @@ DEFAULT_PAGINATION = 10
 AUTHOR_ALIAS = {
         'lovenemesis': '黑日白月',
         'wsgzao': '王奥OX',
+        'yutangbaihe': '玉堂白鹤',
+        'jianlee': '好风',
         }
 
 #PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']

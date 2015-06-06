@@ -74,7 +74,7 @@ OneNote，有些方面甚至更好。直接下载[组织你的意念：Emacs
 Org-mode](http://i.linuxtoy.org/i/2008/10/orgmode.gz)（HTML）。
 
 在线阅读[组织你的意念：Emacs
-Org-mode](http://i.linuxtoy.org/docs/guide/ch31.html)。
+Org-mode](http://i.linuxtoy.org/docs/guide/ch32.html)。
 
 **Firefox 备忘表**
 

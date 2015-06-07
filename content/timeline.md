@@ -9,7 +9,7 @@ Slug: timeline
 
 <!-- PELICAN_END_SUMMARY -->
 
-[![Timeline](http://linuxtoy.org/images/timeline-thumb.png)](http://linuxtoy.org/images/timeline.png)
+[![Timeline](http://linuxtoy.org/images/2015/06/timeline-thumb.png)](http://linuxtoy.org/images/2015/06/timeline.png)
 
 Timeline 是一个有趣的应用，它让你以时间为轴展示事件。事件不仅可归类，而且可有不同的颜色。此外，也能够添加额外的备注及进度。最终完成的时间轴还能导出为图片。总之，Timeline 的可视化效果非常直观，相信这会给人留下深刻的印象。
 

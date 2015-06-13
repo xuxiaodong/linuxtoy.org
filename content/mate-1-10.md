@@ -10,7 +10,7 @@ Slug: mate-1-10
 
 <!-- PELICAN_END_SUMMARY -->
 
-[![mate](http://linuxtoy.org/images/2015/06/mate-session-thumb.png)](http://linuxtoy.org/images/2015/06/mate-session-thumb.png)
+[![mate](http://linuxtoy.org/images/2015/06/mate-session-thumb.png)](http://linuxtoy.org/images/2015/06/mate-session.png)
 
 MATE 1.10 主要包括以下改进：
 

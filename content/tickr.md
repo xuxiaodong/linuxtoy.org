@@ -15,6 +15,6 @@ Slug: tickr
 
 如果你有现成的 OPML 格式的 Feed，则可以直接导入它。若没有，那么通过 **File > Open Feed**菜单添加喜欢的 Feed 即可。比较遗憾的是，Tickr 目前尚不支持 https，希望后续版本能够加以改进。
 
---- [Tickr](http://www.open-tickr.net/download.php)
+&mdash; [Tickr](http://www.open-tickr.net/download.php)
 
 { via [OMG!UBUNTU](http://www.omgubuntu.co.uk/2015/06/tickr-open-source-desktop-rss-news-ticker) }

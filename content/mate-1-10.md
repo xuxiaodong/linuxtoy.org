@@ -6,9 +6,11 @@ Tags: mate, de
 Slug: mate-1-10
 
 历经 15 个月的开发，MATE Desktop 开发团队最终发布了 MATE 桌面环境 1.10
-版本。MATE 1.10 带来了实验性的 GTK3 支持，并包含来自 GSoC 2014 诸多贡献。
+版本。MATE 1.10 带来了实验性的 GTK3 支持，并包含来自 GSoC 2014 的诸多贡献。
 
 <!-- PELICAN_END_SUMMARY -->
+
+[![mate](http://linuxtoy.org/images/2015/06/mate-session-thumb.png)](http://linuxtoy.org/images/2015/06/mate-session-thumb.png)
 
 MATE 1.10 主要包括以下改进：
 

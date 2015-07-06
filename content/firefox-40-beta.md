@@ -16,7 +16,7 @@ Summary: 在美国独立日假期前一天，Mozilla 按时将 Firefox 40 推送
 * 实现 [CSS 动画](https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations)异步渲染，提高稳定性且更加平缓
 * 为 GNU/Linux 平台启用主线程外混成模式（OMTC），改善视频和渲染的稳定性和可靠度
 * 在安装未经 Mozilla 签名的附件组件时将会弹出安全警告
-* 为 Win 平台启用硬件垂直同步，提供更加平台的滚动体验
+* 为 Win 平台启用硬件垂直同步，提供更加平缓的滚动体验
 * 降低 JPEG 图像的内存占用，并提升绘制速度
 * 支持新的 Unicode 8.0 肤色风格表情
 * [IndexedDB 事务](https://developer.mozilla.org/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#durable)默认将是非持久性的。

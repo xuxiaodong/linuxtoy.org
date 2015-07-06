@@ -27,4 +27,4 @@ Pinos 想要解决的问题和当初 PulseAudio 的类似：
 
 [初步源代码](http://cgit.freedesktop.org/~wtay/pinos/)
 
-(更多详情及消息来源)[https://blogs.gnome.org/uraeus/2015/06/30/introducing-pulse-video/]
+[更多详情及消息来源](https://blogs.gnome.org/uraeus/2015/06/30/introducing-pulse-video/)

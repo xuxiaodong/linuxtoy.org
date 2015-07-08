@@ -23,7 +23,7 @@ Pinos 想要解决的问题和当初 PulseAudio 的类似：
 * GNOME 内嵌的屏幕录像可以通过 Pinos 实现一边录制屏幕，一边录制来自摄像头的视频和声音，这点对于录制网上教学视频十分方便，减少了后期制作的麻烦
 * 提供对于沙箱化应用的视频输入设备访问支持，当下直接访问 V4L2 内核 API 的方式并不适合沙箱化应用
 
-由于尝试解决类似的问题，Pinos 原本叫 PulseVideo，不过现在依据主要作者 Wim Taymans 家乡一个附近小镇的命在改叫 Pinos, Wim Taymans 同时也是 Gstreamer 的联合创始人之一。
+由于尝试解决类似的问题，Pinos 原本叫 PulseVideo，不过现在依据主要作者 Wim Taymans 家乡一个附近小镇的名字改叫 Pinos, Wim Taymans 同时也是 Gstreamer 的联合创始人之一。
 
 [初步源代码](http://cgit.freedesktop.org/~wtay/pinos/)
 

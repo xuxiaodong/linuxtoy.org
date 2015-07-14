@@ -4,15 +4,15 @@ Date: 2015-07-14
 Category: Tutorial
 Tags: android, debian, R
 Slug: install-debian-and-r-on-android
-Summary: 要说最近为啥没更新，原因很多，不过真相只有一个：在下载折腾新购入的平板。这里就描述下怎么在 Android 平板上安装原生 Linux 系统及统计及机器学习语言 R。
+Summary: 要说最近为啥没更新，原因很多，不过真相只有一个：在折腾新购入的平板。这里就描述下如何在 Android 平板上安装原生 Linux 系统以及用于统计及和机器学习的 R 语言环境。
 
 其实在 Android 平板上通过第三方软件，已经可以提供很多类似一般桌面 Linux 系统的工具了。常用的 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en)、[VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en)、 [LibreOffice](https://play.google.com/store/apps/details?id=org.documentfoundation.libreoffice&hl=en) 以及[终端模拟器](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)都有 Android 版本，结合 Busybox 也能拥有大部分 coreutils 工具，甚至还有诸如 [Terminal IDE](https://play.google.com/store/apps/details?id=com.spartacusrex.spartacuside&hl=en)这种一站式的开发工具方案（不过不支持 Android 5.0+）。若是想要接近桌面级别的体验的话，比如像在下希望使用的 R 语言环境，还是安装一个完整的 Linux 环境比较好。
 
-在 Android 平台上，若是 Unlock Bootloader 且获取了 root 权限，那么有一大票的方法可以将亦或完整亦或深度定制各种的 Linux 环境安装上去，网上教程也有不少，不再赘述。本文描述的方法则是：
+在 Android 手机或平板上，若是 Unlock Bootloader 且获取了 root 权限，那么多种的方法可以将亦或完整亦或深度定制各种的 Linux 环境安装上去，网上教程也有不少，不再赘述。本文描述的方法则具有如下特点：
 
 1. **无需 root**，无需修改系统分区或者 Bootloader；
 2. 安装的是正常的 Debian Linux ARM 版本，可从官方仓库获得更新，兼容第三方 backport 仓库；
-3. 允许多个 Linux 发行版共存，非常方便的删除或重建，无需担心在系统或者 SD 卡上有异样残留。 
+3. 允许**多个 Linux 发行版共存**，非常方便的删除或重建，无需担心在系统或者 SD 卡上有异样残留。 
 
 首先请出主角 [GNURoot](https://play.google.com/store/apps/details?id=champion.gnuroot&hl=en) 及 [GNURoot Wheezy](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezy&hl=en)。前者在应用程序级别提供一个虚拟根文件系统，允许在其上运行为其微调的桌面 Linux 发行版；后者则显而易见的是为其打造的 Debian Wheezy 版本。
 
@@ -22,7 +22,7 @@ GNURoot 的使用方法相当直观。第一步选择要创建的根文件系统
 
 不过在点击启动之前，最好确认下您已经准备好了合适的输入设备，因为即将迎接您的仅仅是一个终端模拟器，而安装 R 的操作需要有不少终端的操作。若是有蓝牙键盘最好，没有的话推荐使用这款名为 [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en) 的虚拟键盘，可以提供很多终端下常用的按键。
 
-Debian Wheezy 这个根文件系统生成时间稍早，所以当然一上来是通过 `apt-get` 升级到最新版本了。除此之外，诸如 `less`、｀vim` 之类的工具也还是装上才感觉正确了。有几点注意的：
+Debian Wheezy 这个根文件系统生成时间稍早，所以当然一上来是通过 `apt-get` 升级到最新版本了。除此之外，诸如 `less`、`vim` 之类的工具也还是装上才感觉完整了。有几点需要注意的：
 
 1. 默认登录即是 root 账户；
 2. 主机的内置存储和 SD 记忆卡等设备被挂载到 `/storage` 下；
@@ -48,14 +48,14 @@ Debian Wheezy 这个根文件系统生成时间稍早，所以当然一上来是
 `apt-get update`
 `apt-get install r-base r-base-dev`
 
-这个过程比较漫长，一方面是源自访问 Debian FTP 的速度，另外则是安装及解包时间了。在耐心等待或者一觉之后，就可以开心的在平板上使用 R 语言啦！
+这个过程比较漫长（约200M），一方面是 Debian FTP 的访问速度所限，另一方面则是安装及解包时间了。在耐心等待或者睡一觉之后，就可以开心的在平板上使用 R 语言啦！
 
 对于已经习惯使用图形化 IDE Rstudio 的在下来说，R 终端还是需要熟悉下的：
 
 1. 运行脚本需要使用 `Rscript`，而非 `R CMD BATCH`。
 2. 使用 help.start() 可以启动 HTML 的帮助手册页面，可以在 Android 系统环境下的浏览器中查看。
-3. 类似的，图形绘制及表格之类的，也可以通过嵌套在 Shiny 的方式输出到 Web 页面，之后再 Android 系统浏览器中查看。
+3. 类似的，图形绘制及表格之类的，也可以通过嵌套在 Shiny 的方式输出到 Web 页面，之后在 Android 系统浏览器中查看。
 
-最后说说同一个作者出品的 [WheezyX](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezyx) 及[GNURoot Debian](https://play.google.com/store/apps/details?id=com.gnuroot.debian)。前者是在启动时初始化一个 vnc 服务，使得可以使用本地或远程的 VNC 客户端看到 X 图形化界面。在下尝试了在其基础上安装 LXDE 桌面环境，在极度漫长的等待失败，无法启动 LXDE。后者是该名作者的新作品，按照其说明是新的结合，不过根据评论来看似乎还有不少问题需要处理。
+最后说说同一个作者出品的 [WheezyX](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezyx) 和[GNURoot Debian](https://play.google.com/store/apps/details?id=com.gnuroot.debian)。前者是在启动时初始化一个 vnc 服务，使得可以使用本地或远程的 VNC 客户端看到 X 图形化界面。在下尝试了在其基础上安装 LXDE 桌面环境，在极度漫长的安装过程（包含依赖关系近 700M）后失败，无法启动 LXDE。后者则是该名作者的新作品，按照其说明是新的结合及未来的趋势，不过根据评论来看似乎还有不少问题需要处理。
 
 经过这么一番折腾，感觉 Android 平板还是有不少可以把玩和折腾的地方，特别是对 Linux 用户来说。若是您有更多折腾的经历或心得，不妨来稿或者在评论中分享。

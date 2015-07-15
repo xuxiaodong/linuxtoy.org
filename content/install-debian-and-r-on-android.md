@@ -12,7 +12,9 @@ Summary: 要说最近为啥没更新，原因很多，不过真相只有一个�
 
 1. **无需 root**，无需修改系统分区或者 Bootloader；
 2. 安装的是正常的 Debian Linux ARM 版本，可从官方仓库获得更新，兼容第三方 backport 仓库；
-3. 允许**多个 Linux 发行版共存**，非常方便的删除或重建，无需担心在系统或者 SD 卡上有异样残留。 
+3. 允许**多个 Linux 发行版共存**，非常方便的删除或重建，无需担心在系统或者 SD 卡上有异样残留；
+4. 像普通 Android 应用一样运行 Linux 系统，可与其他 Android 应用之间自由切换；
+5. Linux 系统服从 Android 系统的电源管理策略（读作：省电）。 
 
 首先请出主角 [GNURoot](https://play.google.com/store/apps/details?id=champion.gnuroot&hl=en) 及 [GNURoot Wheezy](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezy&hl=en)。前者在应用程序级别提供一个虚拟根文件系统，允许在其上运行为其微调的桌面 Linux 发行版；后者则显而易见的是为其打造的 Debian Wheezy 版本。
 

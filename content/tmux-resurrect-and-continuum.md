@@ -7,7 +7,7 @@ Slug: tmux-resurrect-and-continuum
 
 我很喜欢 Tmux 会话功能，每天都会使用，但它有一点不好，如果我的机器重启，那么 Tmux 会话就消失了，包括打开的各个窗口、窗格布局、以及其中跑的程序等所有东东。虽然已经有了一些工具可以简化 Tmux 的会话创建过程，甚至我也写了脚本来做这方面的事情，但是毕竟我们使用 Tmux 会话是一个动态的过程，利用这些工具很难让消失的会话精确还原。要是能够把 Tmux 会话备份起来，那么恢复就容易多了。Tmux Resurrect 和 Tmux Continuum 这两个 Tmux 插件正是因此而生的。
 
-<-- PELICAN_END_SUMMARY -->
+<!-- PELICAN_END_SUMMARY -->
 
 **Tmux Resurrect**
 

@@ -1,4 +1,4 @@
-Title: 在 Android 系统上安装 Debian Linux 与 R
+Title: 在 Android 系统上安装 Debian Linux 与 R （更新 Jessie 体验）
 Author: lovenemesis
 Date: 2015-07-14
 Category: Tutorial
@@ -18,7 +18,7 @@ Summary: 要说最近为啥没更新，原因很多，不过真相只有一个�
 
 首先请出主角 [GNURoot](https://play.google.com/store/apps/details?id=champion.gnuroot&hl=en) 及 [GNURoot Wheezy](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezy&hl=en)。前者在应用程序级别提供一个虚拟根文件系统，允许在其上运行为其微调的桌面 Linux 发行版；后者则显而易见的是为其打造的 Debian Wheezy 版本。
 
-GNURoot 本身支持多个不同的 Linux 发行版，在下常用的 Fedora 亦在其中，不过由于打包的古老亦不再维护的 Fedora 17，实在是不推荐使用。至于那个 Debian WheezyX 版本，稍候说明。
+GNURoot 本身支持多个不同的 Linux 发行版，在下常用的 Fedora 亦在其中。不过由于打包的是古老亦不再维护的 Fedora 17，实在是不推荐使用。至于那个 Debian WheezyX 版本，稍候说明。
 
 GNURoot 的使用方法相当直观。第一步选择要创建的根文件系统，若是没有安装上面提到的 Wheezy 的话，在选择后跳转到 Play Store 提示安装。稍事片刻创建完成后，就可以在第二步选择启动了，记得勾上 "Launch As Fake Root" 的选项。第三个选项则是删除根文件系统，点击后选中的根文件系统就会干净的删除，估计您不会想现在就点击它吧…
 
@@ -61,3 +61,15 @@ Debian Wheezy 这个根文件系统生成时间稍早，所以当然一上来是
 最后说说同一个作者出品的 [WheezyX](https://play.google.com/store/apps/details?id=champion.gnuroot.wheezyx) 和[GNURoot Debian](https://play.google.com/store/apps/details?id=com.gnuroot.debian)。前者是在启动时初始化一个 vnc 服务，使得可以使用本地或远程的 VNC 客户端看到 X 图形化界面。在下尝试了在其基础上安装 LXDE 桌面环境，在极度漫长的安装过程（包含依赖关系近 700M）后失败，无法启动 LXDE。后者则是该名作者的新作品，按照其说明是新的结合及未来的趋势，不过根据评论来看似乎还有不少问题需要处理。
 
 经过这么一番折腾，感觉 Android 平板还是有不少可以把玩和折腾的地方，特别是对 Linux 用户来说。若是您有更多折腾的经历或心得，不妨来稿或者在评论中分享。
+
+### 7 月 22 日更新
+
+在本文发布第三天，GNURoot Debian 发布了新版本 0.2，这两天再次体（zhe）验（teng）了下：
+
+* 与 GNURoot 完全不同，无法延用之前创建的根文件系统，且仅支持 Debian
+* 升级到 Debian Jessie 8.1 Stable 版本，且架构支持硬浮点 `armhf`
+* 挂载以及和系统交互的方式变化不少，$HOME 分区可以直接在 Android 系统下访问，还有一些奇怪的 `mount` 输出没看懂
+* 附带的 Jessie 特别精简，连 `vi` 都没有，创建根分区之后要安装的常用工具不少…
+* CRAN Backport 里的 R 貌似只有针对 `armel` 的，而 Jessie Backport 里的版本太老，于是想了想，干脆自己动手编译了 R 3.2.1 版本…
+* 至少在我使用的 Z4 Tablet 上，安装部分应用（比如 git, openssh-client）会提示 `Cannot open audit interface`，谷歌说可能跟内核或者挂载有关，已经提交 Issue Report 等反馈…
+* 理论上讲 Rstudio Server 也可以编译，但是至少需要解决上述的问题才能安装必要的依赖关系。

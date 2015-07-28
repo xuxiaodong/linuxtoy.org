@@ -42,6 +42,7 @@ MONTH_ARCHIVE_SAVE_AS = 'archives/{date:%Y}/{date:%m}/index.html'
 
 FEED_MAX_ITEMS = 10
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+TAG_FEED_RSS = 'feeds/%s.rss.xml'
 
 THEME = 'themes/itoy'
 

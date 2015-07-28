@@ -47,7 +47,7 @@ TAG_FEED_RSS = 'feeds/%s.rss.xml'
 THEME = 'themes/itoy'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts', 'cjk-auto-spacing']
+PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts']
 
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True

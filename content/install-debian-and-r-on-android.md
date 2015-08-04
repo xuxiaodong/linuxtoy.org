@@ -1,6 +1,6 @@
-Title: 在 Android 系统上安装 Debian Linux 与 R （更新 Jessie 体验）
+Title: 在 Android 系统上安装 Debian Linux 与 R （更新 RStudio Server 安装）
 Author: lovenemesis
-Date: 2015-07-14
+Date: 2015-08-04
 Category: Tutorial
 Tags: android, debian, R
 Slug: install-debian-and-r-on-android
@@ -72,4 +72,26 @@ Debian Wheezy 这个根文件系统生成时间稍早，所以当然一上来是
 * 附带的 Jessie 特别精简，连 `vi` 都没有，创建根分区之后要安装的常用工具不少…
 * CRAN Backport 里的 R 貌似只有针对 `armel` 的，而 Jessie Backport 里的版本太老，于是想了想，干脆自己动手编译了 R 3.2.1 版本，总共用时两个半小时，还好
 * 至少在我使用的 Z4 Tablet 上，安装部分应用（比如 git, openssh-client）会提示 `Cannot open audit interface`，谷歌说可能跟内核或者挂载有关，已经提交 Issue Report 等反馈…
-* 理论上讲 Rstudio Server 也可以编译，但是至少需要解决上述的问题才能安装必要的依赖关系。
+* 理论上讲 RStudio Server 也可以编译，但是至少需要解决上述的问题才能安装必要的依赖关系。
+
+### 8 月 4 日更新
+
+上个周末 GNURoot Debian 发布了 0.26 版本，解决了之前[反馈的问题](https://github.com/corbinlc/GNURootDebian/issues/5)，意味着可以编译 RStudio Server 了！
+
+* 首先前往 [RStudio 官网](https://www.rstudio.com/products/rstudio/download-server/)下载源代码包。
+* 解压到某处之后，**仔细阅读**其中的 INSTALL 说明。
+* RStudio 需要 R 的共享库，如果之前手动编译 R 的过程中没加上 `--enable-R-shlib` 选项的话（竟然不是默认启用），重编译先吧…
+* 根据说明，可以借助 `dependencies/linux/install-dependency-debian` 文件的内容处理编译 RStudio 的依赖关系。由于 GNURoot Debian 默认没有配置 `sudo`，这里建议还是**手动安装各个依赖**比较好
+* 几点需要提醒的：
+  1. 没必要特别安装 OpenJDK 6，在编译 R 的时候所用的 OpenJDK 7 即可
+  2. 无需担心 AppArmor、Qt SDK 的依赖，Server 版本用不上
+* 解决完 debian 文件所描述的后，参照 `common/install-common` 里的内容进一步处理依赖关系，同样还是建议参考，但是手动处理，其实也就是手动执行同目录下的其他以 install 开头的脚本。当然在上一步 debian 脚本中通过仓库解决的就不需要了，比如 boost 和 pandoc
+* 此时可以参考 [RStudio 论坛](https://support.rstudio.com/hc/communities/public/questions/200656557-Building-RStudio-on-Ubuntu-Linux-on-ARM)上的解答，包括下载最新版本的 Closure Complier 来替换 `src/gwt/tools`目录中的老版本，已经创建空的 pandoc 目录，都是值得应用的。它还提到了使用 Oracle JDK 8 来加快 GWT 构建，这点我没有尝试，有兴趣也可以用 OpenJDK 8 看看。这篇文档较早，新版本还需要一些 clang 的头文件，也是使用 install 脚本处理就好。
+* 全部依赖关系处理结束之后，返回源代码顶层目录，按照 INSTALL 文档的说明，创建 build 目录并调用 cmake 创建编译配置文件，
+* 若一切正常，就可以使用 `make install` 开始编译了（没看错，没有 `make` 步骤）。在 Z4 Tablet 上，GWT 构建果真使用了 90 分钟，而 C++ 代码部分的编译用了 6 至 8 小时（具体时间未知，因为中途睡着了…）
+* 结束之后，继续按照 INSTALL 文档的说明，创建服务所用的运行账户、添加 init.d 配置文件、创建管理脚本符号链接、创建运行时所必要的目录
+* 之后就可以通过 `rstudio-server start` 启动，然后在系统浏览器中输入 ｀127.0.0.1:8787｀，其中 8787 是 rstudio-server 的默认端口号，就能看到熟悉的 RStduio 登录界面啦！
+* 不过，别高兴的太早…你会发现 root 账户登录不能，提示需要密码，设置密码后还是不行，创建个全新的普通用户，问题依旧，提示 `Error occurred during transmission`…网上搜到的解决方案提示根分区满了，呃，好像不相关啊…
+* 尝试换用 systemd 的启动脚本时收到提示说 dbus 不可用，不知道这个会不会是原因？
+
+所以，RStudio Server 的确可以在 Andriod/GNURoot Debian 环境下正常编译（尽管时间比较长），但是其正常工作，似乎还需要一些研究。

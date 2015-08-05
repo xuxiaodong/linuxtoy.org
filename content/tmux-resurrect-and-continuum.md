@@ -21,7 +21,7 @@ Tmux Resurrect 能够备份 Tmux 会话的各种细节，包括所有会话、�
 
 官方推荐通过 Tmux 插件管理器来安装，如果你需要安装多个插件，不妨自行尝试。然后在 `~/.tmux.conf` 中添加下列内容：
 
-    % run-shell ~/.tmux/tmux-resurrect/resurrect.tmux
+    run-shell ~/.tmux/tmux-resurrect/resurrect.tmux
 
 保存后，重载 Tmux 配置：
 
@@ -40,8 +40,8 @@ Tmux Resurrect 工作很好，只是备份和还原都是手动完成。而 Tmux
 
 Tmux Continuum 的安装方法与 Tmux Resurrect 类似：
 
-    cd ~/.tmux
-    git clone https://github.com/tmux-plugins/tmux-continuum.git
+    % cd ~/.tmux
+    % git clone https://github.com/tmux-plugins/tmux-continuum.git
 
 接着，将以下内容添加到 `~/.tmux.conf`：
 

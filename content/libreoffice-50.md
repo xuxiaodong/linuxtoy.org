@@ -1,7 +1,7 @@
 Title: LibreOffice 5.0
 Author: lovenemesis
 Date: 2015-08-11
-Category: Office
+Category: Office Suite
 Tags: libreoffice
 Slug: libreoffice-50
 Summary: 来自文档基金会的跨平台办公软件套件 LibreOffice 发布 5.0 版本，这个本来命名为 4.5 的版本由于变化众多，所以得到了提升。

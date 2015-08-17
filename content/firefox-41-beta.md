@@ -34,7 +34,7 @@ Summary: Mozilla 携 Firefox 41 版本至 Beta 通道，默认禁用了未签名
 
 [官方多语言全平台下载](https://www.mozilla.org/en-US/firefox/beta/all/)
 
-[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/beta/notes/)
+[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/41.0beta/releasenotes/)
 
 **Android 版本**的变化有：
 
@@ -56,4 +56,4 @@ Summary: Mozilla 携 Firefox 41 版本至 Beta 通道，默认禁用了未签名
 
 [官方 Play Store 下载](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta&referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org)
 
-[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/android/beta/notes/)
+[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/android/41.0beta/releasenotes/)

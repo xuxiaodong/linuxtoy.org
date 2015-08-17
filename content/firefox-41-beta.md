@@ -34,7 +34,7 @@ Summary: Mozilla 携 Firefox 41 版本至 Beta 通道，默认禁用了未签名
 
 [官方多语言全平台下载](https://www.mozilla.org/en-US/firefox/beta/all/)
 
-[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/beta/notes/)
+[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/41.0beta/releasenotes/)
 
 **Android 版本**的变化有：
 
@@ -43,7 +43,7 @@ Summary: Mozilla 携 Firefox 41 版本至 Beta 通道，默认禁用了未签名
 * 在登录站点时可以选在所需要的账户信息
 * 允许使用 SVG 作为 Favicon
 * 增加重复书签检查
-* 允许网页使用 [Intent UR](https://developer.chrome.com/multidevice/android/intents)打开本地应用程序
+* 允许网页使用 [Intent URI](https://developer.chrome.com/multidevice/android/intents)打开本地应用程序
 * 改善了图像解码的速度，在部分设备上特别是滚动时甚至达到2倍的提升
 * UA 信息中现在包含 Android 系统版本
 * 通过异步渲染的方式提供更可靠及稳定的 [CSS 动画](https://wiki.mozilla.org/Platform/GFX/OffMainThreadCompositing#CSS_Animations)
@@ -56,4 +56,4 @@ Summary: Mozilla 携 Firefox 41 版本至 Beta 通道，默认禁用了未签名
 
 [官方 Play Store 下载](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta&referrer=utm_source%3Dmozilla%26utm_medium%3DReferral%26utm_campaign%3Dmozilla-org)
 
-[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/android/beta/notes/)
+[英文完整发布摘要](https://www.mozilla.org/en-US/firefox/android/41.0beta/releasenotes/)

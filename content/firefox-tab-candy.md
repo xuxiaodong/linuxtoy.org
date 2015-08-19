@@ -16,7 +16,7 @@ Tab Candy 目的在与通过视觉化的方式管理标签页：
 
 效果见下图：
 
-[![](http://linuxtoy.org/img/2010/07/screenshot-minefield-tab-sets.png)](http://linuxtoy.org/img/2010/07/screenshot-minefield-tab-sets.png)
+[![firefox](http://linuxtoy.org/img/2010/07/screenshot-minefield-tab-sets.png)](http://linuxtoy.org/img/2010/07/screenshot-minefield-tab-sets.png)
 
 Tab Candy 并不是扩展，而是被包含在 Firefox 4.0 Beta 3 Pre 中。
 

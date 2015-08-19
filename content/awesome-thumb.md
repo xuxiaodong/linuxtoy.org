@@ -10,7 +10,7 @@ Firefox
 
 这里我讲的缩略图，并不像在文件管理器打开一个图片文件夹时显示的那样，但凭借窗口平铺的功能，结果很像那么回事。
 
-[![](http://i.linuxtoy.org/images/2009/11/2009-11-09_1680x1050-400x250.png)](http://i.linuxtoy.org/images/2009/11/2009-11-09_1680x1050.png)
+[![awesome](http://i.linuxtoy.org/images/2009/11/2009-11-09_1680x1050-400x250.png)](http://i.linuxtoy.org/images/2009/11/2009-11-09_1680x1050.png)
 
 当我迷失的时候，我用 Meta-1 在 tag1 中查看所有终端的缩略图，通过
 Meta-h/j/k/l 选中感兴趣的终端，接着用 Meta-Enter 跳转至该终端所在

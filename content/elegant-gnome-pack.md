@@ -10,9 +10,9 @@ Elegant 主题是一套很有质感的深色系 GTK 主题，近日 GNOME-Look
 
 **效果图（出自 GNOME-LOOK**）
 
-[![](http://linuxtoy.org/img/2010/07/elegant_01.jpg)](http://linuxtoy.org/img/2010/07/elegant_01.jpg)
+[![elegant](http://linuxtoy.org/img/2010/07/elegant_01.jpg)](http://linuxtoy.org/img/2010/07/elegant_01.jpg)
 
-[![](http://linuxtoy.org/img/2010/07/elegant_02.jpg)](http://linuxtoy.org/img/2010/07/elegant_02.jpg)
+[![elegant](http://linuxtoy.org/img/2010/07/elegant_02.jpg)](http://linuxtoy.org/img/2010/07/elegant_02.jpg)
 
 先决条件：Nautilus-elementary，Droid Sans 字体, Murrine 和 Equinox GTK
 引擎。

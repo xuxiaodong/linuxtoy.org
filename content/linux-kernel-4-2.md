@@ -12,7 +12,7 @@ Summary: 在短暂的一周延期后，Linux 内核发布 4.2 正式版本，带
 * 对于 AMD GCN 1.0 的显卡用户来说，可以使用 VCE1 的视频编码核心了
 * 新增 VirtIO GPU 驱动，奠定 QEUM/KVM 虚拟环境下 GPU 加速的基础
 * NCQ TRIM 允许强制开启或关闭，方便维护较早的 SSD
-* 改善了 Btrfs, Ext4, F2FS 的修复及改善
+* 针对 Btrfs, Ext4, F2FS 的修复及改善
 * 新增对 PS Move 的支持，同时 XBox 控制器上的 LED 现在可正常工作了
 * 提供对 UEFI ESRT 的支持从而可以在 Linux 下更新 UEFI 固件，其用户态工具将随着 Fedora 23 面世
 

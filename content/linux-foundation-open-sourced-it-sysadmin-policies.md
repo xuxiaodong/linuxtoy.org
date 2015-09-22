@@ -11,7 +11,7 @@ Summary: Linux 基金会近日将其 IT 部门的系统管理策略文档开源�
 第一份文档比较长，一些有趣的要点有：
 
 * UEFI 及其 Secure Boot 对于 Linux 系统安全是有益的
-* Thunderblot、Firewire、ExpressCard 是安全隐患
+* Thunderbolt、Firewire、ExpressCard 是安全隐患
 * 建议选择支持 SELinux/AppArmor/GrSecurity 等 MAC/RBAC 的发行版
 * 全盘加密是必须，包括交换分区
 * 备份也要加密，云端备份选择无特征（Zero Knowledge）的

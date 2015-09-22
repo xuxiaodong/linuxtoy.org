@@ -10,7 +10,7 @@ Summary: 在短暂的一周延期后，Linux 内核发布 4.2 正式版本，带
 
 * 首次包含 AMD 统一驱动架构下的 `amdgpu` 内核态模块，目前支持 Tongo 、Carrizo 及 Fiji 核心的 GPU，不过注意重调速支持需要等到下个版本
 * 对于 AMD GCN 1.0 的显卡用户来说，可以使用 VCE1 的视频编码核心了
-* 新增 VirtIO GPU 驱动，奠定 QEUM/KVM 虚拟环境下 GPU 加速的基础
+* 新增 VirtIO GPU 驱动，奠定 QEMU/KVM 虚拟环境下 GPU 加速的基础
 * NCQ TRIM 允许强制开启或关闭，方便维护较早的 SSD
 * 针对 Btrfs, Ext4, F2FS 的修复及改善
 * 新增对 PS Move 的支持，同时 XBox 控制器上的 LED 现在可正常工作了

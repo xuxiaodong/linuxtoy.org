@@ -27,7 +27,7 @@ Summary: Fedora 23 Beta 正式发布，带来了 GNOME 3.18、Docker 1.8　等�
 
 ** Fedora Cloud 变化**
 
-* 更新 Docker 至最新的额 1.8 版本
+* 更新 Docker 至最新的 1.8 版本
 
 [工作站版下载](https://getfedora.org/en/workstation/prerelease/)
 

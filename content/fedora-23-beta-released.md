@@ -13,13 +13,13 @@ Summary: Fedora 23 Beta 正式发布，带来了 GNOME 3.18、Docker 1.8　等�
 * 包含新的 Mono4 库
 * 提供 Unicode 8.0
 
-**Fedora Sever 变化**
+**Fedora Server 变化**
 
 * 增加新的预置角色：网络应用缓存服务器，基于 `memcached`
 * 可以在 anaconda 中直接制定 RoleKit
 * Cockpit 支持 SSH 公钥验证
 
-**Fedora Worksation 变化**
+**Fedora Workstation 变化**
 
 * 搭载即将发布的 GNOME 3.18，包含 Google Drive 整合及智能背光感知支持
 * 进一步完善 Wayland 支持，有可能在下个版本（Fedora 24）时置为默认

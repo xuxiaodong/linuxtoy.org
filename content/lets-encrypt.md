@@ -13,10 +13,10 @@ Slug: lets-encrypt
 
 1. 获取客户端并执行
 
-    git clone https://github.com/letsencrypt/letsencrypt
-    cd letsencrypt
-    ./letsencrypt-auto --agree-dev-preview --server \
-        https://acme-v01.api.letsencrypt.org/directory auth
+        git clone https://github.com/letsencrypt/letsencrypt
+        cd letsencrypt
+        ./letsencrypt-auto --agree-dev-preview --server \
+            https://acme-v01.api.letsencrypt.org/directory auth
 
 2. 选择认证方式
 
@@ -35,10 +35,10 @@ Slug: lets-encrypt
 
     当看到下列消息时，说明认证已经成功完成：
 
-    - Congratulations! Your certificate and chain have been saved at
-    /etc/letsencrypt/live/linuxtoy.org/fullchain.pem. Your cert will
-    expire on 2016-01-25. To obtain a new version of the certificate in
-    the future, simply run Let's Encrypt again.
+        - Congratulations! Your certificate and chain have been saved at
+        /etc/letsencrypt/live/linuxtoy.org/fullchain.pem. Your cert will
+        expire on 2016-01-25. To obtain a new version of the certificate in
+        the future, simply run Let's Encrypt again.
 
 Let's Encrypt 将认证的信息保存于 `/etc/letsencrypt` 目录。
 

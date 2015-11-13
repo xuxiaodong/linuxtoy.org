@@ -21,4 +21,6 @@ Summary: Mozilla 终于将 Firefox 浏览器带到了 iOS 平台，此外还发�
 * 允许将任意网页 Pin 到桌面上
 * 强化隐私浏览，默认启用 DNT
 
-为了方便更多的用户体验 FirefoxOS，Mozilla 这次为 Android 平台提供了其 Gaia Launcher。Android 用户可以像安装其他第三方 Launcher 的方式下载并安装，从而体验完全基于现代 Web 技术开发的手机操作体验。 
+为了方便更多的用户体验 FirefoxOS，Mozilla 这次为 Android 平台提供了其 Gaia Launcher。Android 用户可以像安装其他第三方 Launcher 的方式下载并安装，从而体验完全基于现代 Web 技术开发的手机操作体验。
+
+**注意**: FirefoxOS V2.5 及其用于 Android 平台的 Gaia Launcher 还是开发者预览状态，所以肯定会有不少 Bug，欢迎反馈！ 

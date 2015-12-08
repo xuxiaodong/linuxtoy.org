@@ -12,7 +12,7 @@ Summary: 树梅派基金会隆重推出了体积更小，价格更低的微型�
 * 512MB 的 LPDDR2 SDRAM
 * micro-SD 插槽
 * micro-HDMI 输出（注意不再是全尺寸 HDMI）和混合输出
-* Micro-USB 电源输入
+* Micro-USB 电源输入及 Micro-USB OTG
 * 40-pin 的 GPIO 接口
 * 超迷你的尺寸 65mm x 30mm x 5mm
 

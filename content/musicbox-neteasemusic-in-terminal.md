@@ -1,5 +1,5 @@
 Title: Musicbox：网易云音乐命令行版本
-Date: 2015-01-13
+Date: 2016-01-13
 Author: lovenemesis
 Category: Multimedia
 Tags: neteasemusic, python, terminal

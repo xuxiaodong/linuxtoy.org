@@ -5,8 +5,7 @@ Category: Cli
 Tags: Bash
 Slug: bash-shortcuts
 
-生活在 Bash shell  
-中，熟记以下快捷键，将极大的提高你的命令行操作效率。
+生活在 Bash shell 中，熟记以下快捷键，将极大的提高你的命令行操作效率。
 
 ### 编辑命令 ###
 
@@ -57,17 +56,15 @@ rezilla 指正]
 + !$：上一条命令的最后一个参数，与 Alt + . 相同  
 + !$:p：打印输出 !$ 的内容  
 + !*：上一条命令的所有参数  
-+ !*:p：打印输出 !* 的内容  
++ !\*:p：打印输出 !* 的内容  
 + ^blah：删除上一条命令中的 blah  
 + ^blah^foo：将上一条命令中的 blah 替换为 foo  
 + ^blah^foo^：将上一条命令中所有的 blah 都替换为 foo
 
 \_友情提示\_：
 
-1. 以上介绍的大多数 Bash 快捷键仅当在 emacs 编辑模式时有效，若你将 Bash  
-配置为 vi 编辑模式，那将遵循 vi 的按键绑定。Bash 默认为 emacs  
-编辑模式。如果你的 Bash 不在 emacs 编辑模式，可通过 `set -o emacs`
-设置。  
+1. 以上介绍的大多数 Bash 快捷键仅当在 emacs 编辑模式时有效，若你将 Bash 配置为 vi 编辑模式，那将遵循 vi 的按键绑定。Bash 默认为 emacs 编辑模式。如果你的 Bash 不在 emacs 编辑模式，可通过 `set -o emacs` 设置。  
+
 2. ^S、^Q、^C、^Z 是由终端设备处理的，可用 `stty` 命令设置。
 
 [v]: http://wp.me/pj13n-jo

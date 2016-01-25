@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block content %}
+<div class="content pure-u-1 pure-u-md-11-12">
+    <div class="posts">
+        <section class="post">
+            <header class="post-header">
+                <h2 class="post-title">{{ page.title }}</h2>
+            </header>
+            <div class="post-description">
+                {{ page.content }}
+            </div>
+        </section>
+        <script type="text/javascript" src="http://linuxtoy.disqus.com/recent_comments_widget.js?num_items=25&hide_avatars=0&avatar_size=40&excerpt_length=200"></script>
+    </div>
+</div>
+{% endblock %}

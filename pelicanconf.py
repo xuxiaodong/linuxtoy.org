@@ -8,7 +8,6 @@ SITEURL = 'https://linuxtoy.org'
 
 PATH = 'content'
 STATIC_PATHS = ['images', 'files']
-TEMPLATE_PAGES = {'recent_comments.html': 'comments.html'}
 TIMEZONE = 'Asia/Shanghai'
 
 DEFAULT_LANG = u'zh'

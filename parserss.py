@@ -104,10 +104,12 @@ html_header = """
             <header class="post-header">
                 <h2 class="post-title">Comments</h2>
             </header>
-        </section>
+            <div class="post-description">
 """
 
 html_footer = """
+            </div>
+        </section>
     </div>
 </div>
         </div>

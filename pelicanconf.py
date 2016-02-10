@@ -26,7 +26,7 @@ AUTHOR_ALIAS = {
 
 #PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
 #RSS_ICONS = ['rss']
-MENUITEMS_AFTER = (('RSS', '/feeds/all.atom.xml'),)
+MENUITEMS_AFTER = (('Comments', '/pages/comments.html'), ('RSS', '/feeds/all.atom.xml'),)
 
 GITHUB_SOURCE = 'https://github.com/xuxiaodong/linuxtoy.org/blob/master/content'
 

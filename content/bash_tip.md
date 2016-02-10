@@ -1,16 +1,17 @@
 Title: bash 使用技巧
 Date: 2006-08-01 14:45
 Author: toy
-Category: Tutorials
+Category: Tips
 Slug: bash_tip
 
-1.编辑/etc/bash.bashrc，启用下面3行：  
+1. 编辑 `/etc/bash.bashrc`，启用下面 3 行：  
 
-　　` 　　if [ -f /etc/bash_completion ]; then 　　    . /etc/bash_completion 　　fi 　　`
+        if [ -f /etc/bash_completion ]; then 　　    
+            . /etc/bash_completion 　　
+        fi
 
-2.载入/etc/bash\_completion
+2. 载入 `/etc/bash_completion`
 
-`xxd@locdev:~$ . /etc/bash_completion`
+        xxd@locdev:~$ . /etc/bash_completion
 
-你会发现在 shell 中按 Tab 键的不同的，如试一试：sudo
-apt-g[Tab]，发现了什么？它已经帮你自动补完了。
+你会发现在 shell 中按 Tab 键的不同的，如试一试：`sudo apt-g[Tab]`，发现了什么？它已经帮你自动补完了。

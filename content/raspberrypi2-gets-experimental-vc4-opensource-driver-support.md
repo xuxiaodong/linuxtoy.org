@@ -10,7 +10,15 @@ Summary: 近日适用于树莓派的 Linux 发行版 Raspbian 发布了新版本
 
 根据 [Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Trying-VC4-On-Raspbian-RPi2)的报道来看，打开此试验性支持仅需要升级下 Raspbian 并在 `rpi-config` 工具中启用即可，重启后便可以在 `glxinfo` 汇报其支持 OpenGL 2.1 版本。不过至少在现阶段，该试验性支持会导致相机模块异常，且无法调用 GPU 硬件 H264 解码。
 
-目前笔者正在更新手头的 Raspbian ，稍后更新体验。注意目前**仅适用于 Raspberry Pi 2**，不支持 Raspberry Pi 1 代和 Zero 。
+注意目前**仅适用于 Raspberry Pi 2**，不支持 Raspberry Pi 1 代和 Zero 。
+
+更新下体验：
+
+1. 对于老版本用户来说，除了更新以外，在 `rpi-config` 中启用加速时还需要安装 `libgl1-mesa-dri` 及 `xcompmgr` 两个安装包
+2. 安装后需要重启，不过至少本人的测试中重启的意思其实是断电重启动……
+3. 具体应用场景中 Iceweasel 汇报有 Basic 加速了，WebGL 渲染器也被识别
+4. GNOME 3 的应用在非全屏状态下的阴影显示不正常
+
 
 [Raspbian 最新版下载](https://www.raspberrypi.org/downloads/raspbian/)
 

@@ -21,9 +21,9 @@
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
         {% endfor %} 
         {% endif %}
+        <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">{{ article.title }}</a>
         {% if GITHUB_SOURCE %}
         Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
         {% endif %}
-        <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">{{ article.title }}</a>
     </p>
 </header>

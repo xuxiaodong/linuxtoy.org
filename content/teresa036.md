@@ -3,7 +3,7 @@ Date: 2016-02-28
 Modified: 2016-02-28
 Category: Python
 Tags: ipod, TTS
-Slug: teresa
+Slug: teresa036
 Authors: Chen Meng
 Summary: 在 Linux 下同步你的 iPod Shuffle 并开启中文语音播报支持
 

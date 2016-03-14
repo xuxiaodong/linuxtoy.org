@@ -1,6 +1,6 @@
 Title: Simple Bash Prompt
 Author: lovenemesis
-Data: 2016-03-12
+Date: 2016-03-12
 Category: Terminal
 Tags: bash, powerline
 Slug: simple-bash-prompt

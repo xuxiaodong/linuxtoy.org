@@ -30,8 +30,8 @@ Summary: 针对路由器环境的第三方固件 OpenWrt 发布了 15.05 正式�
 
 1. 下载适用于该架构的 [ImageBuilder](http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/OpenWrt-ImageBuilder-15.05-ar71xx-generic.Linux-x86_64.tar.bz2)
 2. 在一个 Linux 64bit 系统上解压，使用如下命令构建自定义镜像：
-    `make info` 找到自己的设备预置文件名称，比如这里要使用的是 "TLWR703N"
-    `make image PROFILE="TLWR703N" PACKAGES="block-mount kmod-fs-ext4 kmod-usb-storage-extras"`
+    `make info` 找到自己的设备预置文件名称，比如这里要使用的是 "TLWR703"
+    `make image PROFILE="TLWR703" PACKAGES="block-mount kmod-fs-ext4 kmod-usb-storage-extras"`
 3. 之后新的镜像即在 `ImageBuilder` 的 `bin` 目录下生成，包含适用于升级的 `sysupgrade` 镜像。
 
 

@@ -6,6 +6,9 @@
         <section class="post">
             {% include 'article_info.html' %}
             <div class="post-description">
+            {% if article.summary %}
+            {{ article.summary }}
+            {% endif %}
             {{ article.content }}
             {% include 'article_meta.html' %}
             </div>

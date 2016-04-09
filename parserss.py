@@ -22,6 +22,7 @@ html_header = """
         <![endif]-->
         <!--[if gt IE 8]><!-->
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/grids-responsive-min.css">
+        <link rel="stylesheet" href="https://linuxtoy.org/theme/css/calluna.css">
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/side-menu.css">
         <!--<![endif]-->
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/pygments.css">
@@ -33,7 +34,7 @@ html_header = """
     </head>
     <body>
         <div id="layout" class="pure-g">
-            <div class="sidebar pure-u-1 pure-u-md-1-12">
+            <div class="sidebar pure-u-1 pure-u-md-1-5">
                 <div class="header">
                     <a id="menuLink" class="menu-link" href="#menu">
                         <span></span>
@@ -99,7 +100,7 @@ html_header = """
                 </div>
             </div>
 
-<div class="content pure-u-1 pure-u-md-11-12">
+<div class="content pure-u-1 pure-u-md-4-5">
     <div class="posts">
         <section class="post">
             <header class="post-header">

@@ -11,9 +11,10 @@
             </div>
         </section>
     </div>
-    {% if article.related_posts %}
     <h4>Read More:</h4>
-    <div class="pure-menu">
+    {% include 'gad.html' %}
+    {% if article.related_posts %}
+    <div class="nav-right pure-menu">
         <ul class="pure-menu-list">
         {% for related_post in article.related_posts %}
             <li class="pure-menu-item">

@@ -52,3 +52,5 @@ PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts']
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'mtime'
+
+RELATED_POSTS_MAX = 8

@@ -1,12 +1,13 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title|striptags }}{% endblock %}
 {% block content %}
-<div class="content pure-u-1 pure-u-md-11-12">
+<div class="content pure-u-1 pure-u-md-4-5">
     <div class="posts">
         <section class="post">
             {% include 'article_info.html' %}
             <div class="post-description">
             {{ article.content }}
+            {% include 'article_meta.html' %}
             </div>
         </section>
     </div>

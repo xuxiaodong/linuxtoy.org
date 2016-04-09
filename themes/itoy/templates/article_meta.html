@@ -1,0 +1,12 @@
+    <p class="post-meta">
+        {% if article.tags %} 
+        Tagged as 
+        {% for tag in article.tags %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
+        {% endfor %} 
+        {% endif %}
+        <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">{{ article.title }}</a>
+        {% if GITHUB_SOURCE %}
+        &middot; Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
+        {% endif %}
+    </p>

@@ -10,20 +10,20 @@
             {% include 'article_meta.html' %}
             </div>
         </section>
+        <h4>Read More:</h4>
+        {% include 'gad.html' %}
+        {% if article.related_posts %}
+        <div class="pure-menu">
+            <ul class="pure-menu-list">
+            {% for related_post in article.related_posts %}
+                <li class="pure-menu-item">
+                    <a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
     </div>
-    <h4>Read More:</h4>
-    {% include 'gad.html' %}
-    {% if article.related_posts %}
-    <div class="pure-menu">
-        <ul class="pure-menu-list">
-        {% for related_post in article.related_posts %}
-            <li class="pure-menu-item">
-                <a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
-            </li>
-        {% endfor %}
-        </ul>
-    </div>
-    {% endif %}
     {% include 'disqus.html' %}
     <div class="footer">
                 {% if article.prev_article %}

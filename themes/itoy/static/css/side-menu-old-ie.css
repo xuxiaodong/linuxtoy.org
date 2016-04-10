@@ -235,6 +235,7 @@ blockquote .small:before {
 .nav-left {
     display: block;
     float: left;
+    margin-right: 20px;
 }
 .nav-right {
     display: block;

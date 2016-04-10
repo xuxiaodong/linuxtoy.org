@@ -18,7 +18,7 @@
         <ul class="pure-menu-list">
         {% for related_post in article.related_posts %}
             <li class="pure-menu-item">
-                <a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
+                <a class="pure-menu-link" href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
             </li>
         {% endfor %}
         </ul>

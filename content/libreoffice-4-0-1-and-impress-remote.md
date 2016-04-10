@@ -3,7 +3,7 @@ Date: 2013-03-07 10:44
 Author: lovenemesis
 Category: Android
 Tags: Android, libreoffice
-Slug: libreoffice-4-0-1-%e5%8f%8a-impress-remote
+Slug: libreoffice-4-0-1-and-impress-remote
 
 文档基金会推出了 LibreOffice 4.X 的首个维护版本
 4.0.1，同时宣布幻灯片播放的 Android 版遥控程序实现全平台支持。

@@ -14,11 +14,11 @@
     <h4>Read More:</h4>
     {% include 'gad.html' %}
     {% if article.related_posts %}
-    <div class="pure-menu custom-restricted">
+    <div class="pure-menu">
         <ul class="pure-menu-list">
         {% for related_post in article.related_posts %}
             <li class="pure-menu-item">
-                <a class="pure-menu-link" href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
+                <a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a>
             </li>
         {% endfor %}
         </ul>

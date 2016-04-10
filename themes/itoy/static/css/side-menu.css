@@ -208,6 +208,10 @@ blockquote .small:before {
   content: '\2014 \00A0';
 }
 
+.custom-restricted {
+    display: inline-block;
+}
+
 .nav-left {
     display: block;
     float: left;

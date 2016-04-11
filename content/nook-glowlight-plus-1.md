@@ -21,24 +21,24 @@ Nook GlowLight Plus（下称“NGP”）为 6 寸 300 PPI 高清 E Ink 屏（支
 
 1. 开启 USB 调试模式
 
-   进入 Settings &rarr; ABOUT &rarr; Software，连续快点 N 图标三次将展开详细设置选项。之后点击 Development Options，开启 Developer options 并勾选 USB debugging 即可。
+    进入 Settings &rarr; ABOUT &rarr; Software，连续快点 N 图标三次将展开详细设置选项。之后点击 Development Options，开启 Developer options 并勾选 USB debugging 即可。
 
-   [![software]({filename}/images/software.thumb.png)]({filename}/images/software.png)[![devel]({filename}/images/devel.thumb.png)]({filename}/images/devel.png)
-   [![usb]({filename}/images/usbdebug.thumb.png)]({filename}/images/usbdebug.png)
+    [![software]({filename}/images/software.thumb.png)]({filename}/images/software.png)[![devel]({filename}/images/devel.thumb.png)]({filename}/images/devel.png)
+    [![usb]({filename}/images/usbdebug.thumb.png)]({filename}/images/usbdebug.png)
 
 2. 将 NGP 与电脑相连
 
-   通过执行命令 `adb devices` 确认连接，此时将显示 NGP 的序列号。
+    通过执行命令 `adb devices` 确认连接，此时将显示 NGP 的序列号。
 
 3. [下载 Root 脚本][r]
 
-   在解包后，直接执行：
+    在解包后，直接执行：
 
         unzip rootGLP-3.zip
         chmod a+x rootnook.sh
         ./rootnook.sh
 
-   脚本输出如下：
+    脚本输出如下：
 
         push: files/supolicy -> /data/local/tmp/.nookrooter/supolicy
         push: files/su -> /data/local/tmp/.nookrooter/su
@@ -57,9 +57,9 @@ Nook GlowLight Plus（下称“NGP”）为 6 寸 300 PPI 高清 E Ink 屏（支
         Restarting adbd as root... 
         Rooted.
 
-   Root 过程利用了 Android 4.4 的 [Vold ASEC][v] 漏洞，由此添加并更改了一些系统文件以及安装了 SuperSu 程序。
+    Root 过程利用了 Android 4.4 的 [Vold ASEC][v] 漏洞，由此添加并更改了一些系统文件以及安装了 SuperSu 程序。
 
-   [![supersu]({filename}/images/supersu.thumb.png)]({filename}/images/supersu.png)
+    [![supersu]({filename}/images/supersu.thumb.png)]({filename}/images/supersu.png)
 
 此时，通过 `adb shell` 连接后，执行 `su` 按提示授权便得到了具有 root 权限的 shell。
 

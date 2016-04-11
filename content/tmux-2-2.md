@@ -5,7 +5,7 @@ Category: News
 Tags: tmux
 Slug: tmux-2-2
 
-与 screen 类似的多路复用器 [tmux]({filename}/tmux.md) 已经发布了新的 2.2 版本。
+与 screen 类似的终端多路复用器 [tmux]({filename}/tmux.md) 已经发布了新的 2.2 版本。
 
 <!-- PELICAN_END_SUMMARY --> 
 

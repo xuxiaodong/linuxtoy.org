@@ -35,6 +35,16 @@ linuxtoy.org
 
     <!-- PELICAN_END_SUMMARY -->
 
+### 引用图像
+
+将图像文件放入 `content/images` 目录之后，然后只需按如下方式引用即可：
+
+    ![Title]({filename}/images/<image.png>)
+
+BTW：也可按此方式链接先前文章：
+
+    [Article]({filename}/tmux.md)
+
 ### 添加代码
 
 在撰文时，可对引用代码添加语法高亮显示，记法如下：

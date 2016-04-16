@@ -93,7 +93,7 @@ html_header = """
                                     </a>
                                 </li>
 
-                                <li class="pure-menu-item">
+                                <li class="pure-menu-item menu-item-divided pure-menu-selected">
                                     <a class="pure-menu-link" href="https://linuxtoy.org/pages/comments.html" title="Comments">
                                         Comments
                                     </a>

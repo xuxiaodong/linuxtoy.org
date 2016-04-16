@@ -101,7 +101,7 @@ Inventory 文件用来定义你要管理的主机。其默认位置在 `/etc/ans
     - name: create user  
     hosts: vps  
     user: root  
-    gather\_facts: false
+    gather_facts: false
 
     vars:  
     - user: "toy"
@@ -118,15 +118,12 @@ Inventory 文件用来定义你要管理的主机。其默认位置在 `/etc/ans
 
 执行结果为：
 
-    PLAY [create
-    user] ************************************************************
+    PLAY [create user] ************************************************************
 
-    TASK: [create toy on
-    vps] *****************************************************  
+    TASK: [create toy on vps] *****************************************************  
     changed: [linuxtoy.org]
 
-    PLAY
-    RECAP ********************************************************************  
+    PLAY RECAP ********************************************************************  
     linuxtoy.org : ok=1 changed=1 unreachable=0 failed=0
 
 关于 Playbook 的详细用法，推荐阅读 Ansible 的[官方文档][d]，并参考[官方示例][e]。
@@ -139,7 +136,7 @@ Ansible 由 Puppet 的前雇员所创建，使用起来真的很简单。不仅�
 [c]: http://www.opscode.com/chef/  
 [s]: http://linuxtoy.org/archives/saltstack.html  
 [a]: http://www.ansibleworks.com/  
-[i]: http://www.ansibleworks.com/docs/intro\_installation.html  
+[i]: http://www.ansibleworks.com/docs/intro_installation.html  
 [m]: http://www.ansibleworks.com/docs/modules.html  
 [d]: http://www.ansibleworks.com/docs/#playbooks  
 [e]: https://github.com/ansible/ansible-examples

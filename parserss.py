@@ -47,10 +47,19 @@ html_header = """
                             </a>
 
                             <ul class="pure-menu-list">
-
                                 <li class="pure-menu-item">
                                     <a class="pure-menu-link" href="https://linuxtoy.org/pages/all-archives.html" title="Archives">
                                         Archives
+                                    </a>
+                                </li>
+                                <li class="pure-menu-item">
+                                    <a class="pure-menu-link" href="https://linuxtoy.org/pages/all-archives.html" title="Books">
+                                        Books
+                                    </a>
+                                </li>
+                                <li class="pure-menu-item">
+                                    <a class="pure-menu-link" href="https://linuxtoy.org/pages/all-archives.html" title="Talks">
+                                        Talks
                                     </a>
                                 </li>
                                 <li class="pure-menu-item">
@@ -83,14 +92,14 @@ html_header = """
                                         Links
                                     </a>
                                 </li>
-                                <li class="pure-menu-item menu-item-divided pure-menu-selected">
+
+                                <li class="pure-menu-item">
                                     <a class="pure-menu-link" href="https://linuxtoy.org/pages/comments.html" title="Comments">
                                         Comments
                                     </a>
                                 </li>
-
                                 <li class="pure-menu-item">
-                                    <a class="pure-menu-link" href="/feeds/all.atom.xml" title="RSS">
+                                    <a class="pure-menu-link" href="https://linuxtoy.org/feeds/all.atom.xml" title="RSS">
                                         RSS
                                     </a>
                                 </li>

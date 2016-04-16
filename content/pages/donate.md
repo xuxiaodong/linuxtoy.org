@@ -2,7 +2,7 @@ Title: Donate
 Date: 2008-12-10 18:53
 Author: toy
 Slug: donate
-Page_Order: 4
+Page_Order: 6
 
 如果您觉得 LinuxTOY 对您非常有用，您可以考虑通过捐赠来支持我们。您的捐赠将帮助我们应付日益增长的主机和带宽费用，使我们在未来能够提供更加丰富的内容。我们非常感谢您的捐赠与支持。
 

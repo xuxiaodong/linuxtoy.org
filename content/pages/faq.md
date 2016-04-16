@@ -2,7 +2,7 @@ Title: FAQs
 Date: 2006-06-28 11:27
 Author: toy
 Slug: faq
-Page_Order: 2
+Page_Order: 4
 
 对 LinuxTOY 有疑问？敬请阅读下面的 FAQ
 列表。若你仍有问题，欢迎通过页左的

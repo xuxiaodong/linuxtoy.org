@@ -2,7 +2,7 @@ Title: License
 Date: 2006-06-06 16:43
 Author: toy
 Slug: license
-Page_Order: 5
+Page_Order: 7
 
 [LinuxTOY](http://linuxtoy.org) 网站内所有原创文章，版权归 <http://linuxtoy.org> 和作者共同所有。除非特别注明，本站所有原创文章皆采用“[署名-非商业性使用-相同方式共享 2.5 中国大陆](http://creativecommons.org/licenses/by-nc-sa/2.5/cn/)”的创作共用协议。
 

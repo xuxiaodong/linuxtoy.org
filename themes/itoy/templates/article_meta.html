@@ -4,8 +4,9 @@
         {% for tag in article.tags %}
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
         {% endfor %} 
+        &middot; 
         {% endif %}
         {% if GITHUB_SOURCE %}
-        &middot; Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
+        Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
         {% endif %}
     </p>

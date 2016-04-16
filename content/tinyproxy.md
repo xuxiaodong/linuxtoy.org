@@ -6,8 +6,7 @@ Slug: tinyproxy
 
 在天朝每月总有那么几天访问网站不够顺畅，你懂的。虽然可以使用 [Google Translate][g] 来应个急，但并非 100% 有效，比如最近我在访问 wireshark.org 时就遇到了问题。  
 
-好在我们还能搭建 HTTP(S) 代理。目前市面上有许多 HTTP(S) 代理软件可以选择，我们将使用 [Tinyproxy][t]。我们选择 Tinyproxy，  
-是因为它足够简单、小巧，且无需过多的配置。
+好在我们还能搭建 HTTP(S) 代理。目前市面上有许多 HTTP(S) 代理软件可以选择，我们将使用 [Tinyproxy][t]。我们选择 Tinyproxy，是因为它足够简单、小巧，且无需过多的配置。
 
 #### 安装 Tinyproxy
 

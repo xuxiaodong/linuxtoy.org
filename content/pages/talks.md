@@ -1,7 +1,7 @@
 Title: Talks
-Date: 2015-05-18 10:52
+Date: 2016-04-16 14:55:00
 Author: toy
-Slug: all-archives
+Slug: talks
 Page_Order: 2
 
 我 (toy) 曾经做过几回演讲，下面是这些演讲的幻灯片。

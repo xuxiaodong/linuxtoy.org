@@ -64,7 +64,7 @@
 
                                 {% if DISPLAY_PAGES_ON_MENU -%}
                                 {% for pg in PAGES|sort(attribute='page_order') %}
-                                <li class="pure-menu-item{% if pg == page %} menu-item-divided pure-menu-selected{% endif %}">
+                                <li class="pure-menu-item{% if pg == page %} pure-menu-selected{% endif %}">
                                     <a class="pure-menu-link" href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">
                                         {% if PAGE_ICONS %}
                                         <i class="icono-{{ PAGE_ICONS[loop.index0 ] }}"></i>

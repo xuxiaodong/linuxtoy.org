@@ -140,61 +140,61 @@ M+Tab       | screen (next)   | 切换到下一个可用的屏幕
 
 **Musca 的命令一览**
 
-command                                   | 用途
------------------------------------------ | ------------------------------------------------------------------------------------
-add <name>                                |         增加一个窗口组，并切换到它
-alias <name> <command>                    |       产生一个musca命令别名
-bind <on|off> <Modifier>+<Key> <command>  |   添加(on)或清除(off)键绑定，只有on需要command参数。 bind off all将清除所有键绑定
-border <on|off>                           |         当前帧是否显示边。
-catchall                                  |           当前帧是否为catchall
-client hints <on|off>                     |         对于当前应用窗口是否遵从X尺寸提示。
-command                                   |           启动dmenu等待musca命令输入
-cycle <local> <next|prev>                 |       循环显示隐藏窗口于当前帧，所有选项可选
-dedicate <on|off>                         |         (toggle)是否把当前帧给当前应用程序专用。
-drop <name|number>                        |         通过名称或编号删除一个窗口组
-dump <file>                               |         把描述（当前组名和帧布局）导出到指定文件
-exec <command>                            |         执行一个shell命令
-focus <left|right|up|down>                |         聚焦左/右/上/下面的帧
-lfocus|rfocus|ufocus|dfocus               |           聚焦左/右/上/下面的帧
-height <relative|pixel>                   |         指定当前帧的高度，可以是像素或xx%
-hook <on|off> <pattern> <command>         |     绑定一个musca命令到任何匹配模式的musca命令
-hsplit <relative|pixel>                   |         水平分割。
-kill <number|name>                        |         如果给出number或name，会关闭对应的应用，否则关闭当前帧
-load <file>                               |         导入一个描述文件到当前窗口组
-manage <on|off> <name>                    |       对应名称的窗口类是否被musca管理
-move <name|number>                        |         移动当前窗口到指定编号或名称的窗口组中。
-name <name>                               |         重新命名当前的窗口组中
-only                                      |           移除其它帧，当前帧最大化
-pad <left> <right> <top> <bottom>         |   设定当前组使用的屏幕范围
-quit                                      |           退出musca
-raise <number|title>                      |         提升并聚焦指定编号或标题的窗口
-refresh                                   |           刷新当前帧
-remove                                    |           移除当前帧
-resize <left|right|up|down>               |         向指定方向重新设定帧的大小
-run <file>                                |         运行一个包含musca命令的文件，每行一个命令
-say <text>                                |         用'notify'中设定的方法显示文本
-screen <number>                           |         切换到指定编号的屏幕。
-set <setting> <value>                     |       设定musca变量的值
-shell                                     |           启动dmenu等待musca命令输入
-show <settings>                           |         显示musca变量的值，在后台show时，最好加silent，如silent show xxx
-show <bindings>                           |         显示键绑定
-show <unmanaged>                          |         显示不受管理的窗口类
-show <hooks>                              |         显示命令触发器
-show <groups>                             |         显示窗口组
-show <frames>                             |         显示所有帧
-show <windows>                            |         显示所有窗口
-show <aliases>                            |         显示命令别名
-shrink <name|id>                          |         最小化一个窗口，用raise <name|id>可以恢复该窗口
-slide <left|right|up|down>                |         将当前窗口移动到指定方向的帧
-lslide|rslide|uslide|dslide               |           将当前窗口移动到指定方向的帧
-stack <on|off|flip>                       |         将当前组在tiling和stacking模式间切换
-swap <left|right|up|down>                 |         将当前窗口与指定方向帧中的窗口交换
-lswap|rswap|uswap|dswap                   |           将当前窗口与指定方向帧中的窗口交换
-switch <window|group>                     |         启动dmenu的窗口切换或组切换
-undo                                      |           还原为上一个帧布局
-use <name|number|(other)|(prev)|(next)>   |         通过名称或编号切换组。
-vsplit <relative|pixel>                   |         垂直分割当前帧。
-width <relative|pixel>                    |         设定当前帧的宽度。
+command                                     | 用途
+------------------------------------------- | ----------------------------------------------------------------------------------
+`add <name>`                                |         增加一个窗口组，并切换到它
+`alias <name> <command>`                    |       产生一个musca命令别名
+`bind <on|off> <Modifier>+<Key> <command>`  |   添加(on)或清除(off)键绑定，只有on需要command参数。 bind off all将清除所有键绑定
+`border <on|off>`                           |         当前帧是否显示边。
+`catchall`                                  |           当前帧是否为catchall
+`client hints <on|off>`                     |         对于当前应用窗口是否遵从X尺寸提示。
+`command`                                   |           启动dmenu等待musca命令输入
+`cycle <local> <next|prev>`                 |       循环显示隐藏窗口于当前帧，所有选项可选
+`dedicate <on|off>`                         |         (toggle)是否把当前帧给当前应用程序专用。
+`drop <name|number>`                        |         通过名称或编号删除一个窗口组
+`dump <file>`                               |         把描述（当前组名和帧布局）导出到指定文件
+`exec <command>`                            |         执行一个shell命令
+`focus <left|right|up|down>`                |         聚焦左/右/上/下面的帧
+`lfocus|rfocus|ufocus|dfocus`               |           聚焦左/右/上/下面的帧
+`height <relative|pixel>`                   |         指定当前帧的高度，可以是像素或xx%
+`hook <on|off> <pattern> <command>`         |     绑定一个musca命令到任何匹配模式的musca命令
+`hsplit <relative|pixel>`                   |         水平分割。
+`kill <number|name>`                        |         如果给出number或name，会关闭对应的应用，否则关闭当前帧
+`load <file>`                               |         导入一个描述文件到当前窗口组
+`manage <on|off> <name>`                    |       对应名称的窗口类是否被musca管理
+`move <name|number>`                        |         移动当前窗口到指定编号或名称的窗口组中。
+`name <name>`                               |         重新命名当前的窗口组中
+`only`                                      |           移除其它帧，当前帧最大化
+`pad <left> <right> <top> <bottom>`         |   设定当前组使用的屏幕范围
+`quit`                                      |           退出musca
+`raise <number|title>`                      |         提升并聚焦指定编号或标题的窗口
+`refresh`                                   |           刷新当前帧
+`remove`                                    |           移除当前帧
+`resize <left|right|up|down>`               |         向指定方向重新设定帧的大小
+`run <file>`                                |         运行一个包含musca命令的文件，每行一个命令
+`say <text>`                                |         用'notify'中设定的方法显示文本
+`screen <number>`                           |         切换到指定编号的屏幕。
+`set <setting> <value>`                     |       设定musca变量的值
+`shell`                                     |           启动dmenu等待musca命令输入
+`show <settings>`                           |         显示musca变量的值，在后台show时，最好加silent，如silent show xxx
+`show <bindings>`                           |         显示键绑定
+`show <unmanaged>`                          |         显示不受管理的窗口类
+`show <hooks>`                              |         显示命令触发器
+`show <groups>`                             |         显示窗口组
+`show <frames>`                             |         显示所有帧
+`show <windows>`                            |         显示所有窗口
+`show <aliases>`                            |         显示命令别名
+`shrink <name|id>`                          |         最小化一个窗口，用`raise <name|id>`可以恢复该窗口
+`slide <left|right|up|down>`                |         将当前窗口移动到指定方向的帧
+`lslide|rslide|uslide|dslide`               |           将当前窗口移动到指定方向的帧
+`stack <on|off|flip>`                       |         将当前组在tiling和stacking模式间切换
+`swap <left|right|up|down>`                 |         将当前窗口与指定方向帧中的窗口交换
+`lswap|rswap|uswap|dswap`                   |           将当前窗口与指定方向帧中的窗口交换
+`switch <window|group>`                     |         启动dmenu的窗口切换或组切换
+`undo`                                      |           还原为上一个帧布局
+`use <name|number|(other)|(prev)|(next)>`   |         通过名称或编号切换组。
+`vsplit <relative|pixel>`                   |         垂直分割当前帧。
+`width <relative|pixel>`                    |         设定当前帧的宽度。
 
 **Musca 的启动定制**
 

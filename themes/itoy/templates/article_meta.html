@@ -1,13 +1,9 @@
     <p class="post-meta">
-        {% if article.tags %} 
+        {% if article.tags %}
         Tagged as 
-        {% for tag in article.tags %}
-        {% if not loop.last %}
-        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a>,  
-        {% else %}
-        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
-        {% endif %}
-        {% endfor %} 
+        {% for tag in article.tags|sort %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a>{% if not loop.last %}, {% endif %}
+        {% endfor %}
         &middot; 
         {% endif %}
         {% if GITHUB_SOURCE %}

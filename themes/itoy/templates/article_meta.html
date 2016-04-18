@@ -2,7 +2,11 @@
         {% if article.tags %} 
         Tagged as 
         {% for tag in article.tags %}
+        {% if not loop.last %}
+        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a>,  
+        {% else %}
         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a> 
+        {% endif %}
         {% endfor %} 
         &middot; 
         {% endif %}

@@ -18,3 +18,5 @@ Redox 包含常见的 Unix 命令，为 C 程序提供了 Newlib 库，提供 ZF
 如果你对 Redox 感兴趣，那么不妨参考官方的文档来[编译安装 Redox][c]。
 
 &rarr; [Redox](http://www.redox-os.org/)
+
+[c]: https://doc.redox-os.org/book/getting_started/preparing_the_build.html

@@ -4,7 +4,7 @@ Date: 2016-04-19
 Category: Tips
 Tags: btsync
 Slug: tips-while-playing-btsync
-Summmary: 最近在折腾 [BTSync](https://www.getsync.com/) 用作云存储的被选方案，有一些心得在这里跟分享下。
+Summary: 最近在折腾 [BTSync](https://www.getsync.com/) 用作云存储的被选方案，有一些心得在这里跟分享下。
 
 * BTSync 的产品发展可谓曲折，早期的 1.4 和现在的 [2.2 变化](http://help.getsync.com/hc/en-us/articles/206216855-Sync-2-x-change-log)还是比较大的。在网上搜索资料的时候要注意版本，早期版本的指南已经不适用新版本了。
 * BTSync 可以在通过 SMB/CIFS 挂载的网络磁盘上工作，但是[问题不少](http://help.getsync.com/hc/en-us/articles/207755736-Sync-and-SMB-file-shares)，至少在常见的 Samba 分享设置下。可（yi）能（jing）遇到的问题有：索引中断、文件损坏、分享不能。

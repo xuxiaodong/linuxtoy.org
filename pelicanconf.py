@@ -26,7 +26,7 @@ AUTHOR_ALIAS = {
 
 #PAGE_ICONS = ['folder', 'book', 'support', 'mail', 'heart', 'exclamationCircle']
 #RSS_ICONS = ['rss']
-MENUITEMS_AFTER = (('Comments', '/pages/comments.html'), ('RSS', '/feeds/all.atom.xml'),)
+MENUITEMS_AFTER = (('Comments', '/pages/comments.html'), ('Random', '/random.html'), ('RSS', '/feeds/all.atom.xml'),)
 
 GITHUB_SOURCE = 'https://github.com/xuxiaodong/linuxtoy.org/blob/master/content'
 
@@ -47,10 +47,11 @@ TAG_FEED_RSS = 'feeds/%s.rss.xml'
 THEME = 'themes/itoy'
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts']
+PLUGINS = ['pelican-page-order', 'summary', 'neighbors', 'related_posts', 'random_article']
 
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = True
 CHECK_MODIFIED_METHOD = 'mtime'
 
 RELATED_POSTS_MAX = 5
+RANDOM = 'random.html'

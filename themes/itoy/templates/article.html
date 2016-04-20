@@ -8,7 +8,7 @@
             <div class="post-description">
             {{ article.content }}
             {% if article.via %}
-            {% set via = article.via.split(':') %}
+            {% set via = article.via.split('|') %}
             <p>&rarr; <a href="{{ via[1] }}">{{ via[0] }}</a></p>
             {% endif %}
             {% if article.thank %}

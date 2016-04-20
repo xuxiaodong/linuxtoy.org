@@ -4,7 +4,7 @@ Authors: toy
 Category: Apps
 Tags: im, wechat
 Slug: electronic-wechat
-Via: Electronic WeChat:https://github.com/geeeeeeeeek/electronic-wechat
+Via: Electronic WeChat|https://github.com/geeeeeeeeek/electronic-wechat
 Thank: Iven
 
 Electronic WeChat 是利用 [Electron][e] 开源框架而打造的一款第三方微信客户端，目前支持 Linux 和 Mac OS X 系统。

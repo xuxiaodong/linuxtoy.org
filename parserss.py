@@ -16,13 +16,13 @@ html_header = """
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Comments</title>
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/main.css">
+        <link rel="stylesheet" href="https://linuxtoy.org/theme/css/calluna.css">
         <!--[if lte IE 8]>
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/grids-responsive-old-ie-min.css">
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/side-menu-old-ie.css">
         <![endif]-->
         <!--[if gt IE 8]><!-->
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/grids-responsive-min.css">
-        <link rel="stylesheet" href="https://linuxtoy.org/theme/css/calluna.css">
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/side-menu.css">
         <!--<![endif]-->
         <link rel="stylesheet" href="https://linuxtoy.org/theme/css/pygments.css">
@@ -158,7 +158,7 @@ with codecs.open('output/pages/comments.html', mode='w', encoding='utf-8') as f:
     f.write(html_header)
     for item in disqus.entries:
         date_srt = time.strftime("%Y/%m/%d %H:%M:%S", item.published_parsed)
-        f.write('<p><a href="%s">@%s</a> %s &raquo; %s<p>\n' % (item.link,
+        f.write('<p><a href="%s">@%s</a> %s &raquo; %s</p>\n' % (item.link,
             item.author, item.title, date_srt))
         f.write('%s\n' % item.summary)
     f.write(html_footer)

@@ -7,6 +7,10 @@
             {% include 'article_info.html' %}
             <div class="post-description">
             {{ article.content }}
+            {% if article.via %}
+            {% set title, link = article.via.split(':') %}
+            <p>&rarr; <a href="{{ link }}">{{ title }}</a></p>
+            {% endif %}
             {% include 'article_meta.html' %}
             </div>
         </section>

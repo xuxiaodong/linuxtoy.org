@@ -11,6 +11,9 @@
             {% set title, link = article.via.split(':') %}
             <p>&rarr; <a href="{{ link }}">{{ title }}</a></p>
             {% endif %}
+            {% if article.thank %}
+            <p>{ Thanks {{ article.thank }}. }</p>
+            {% endif %}
             {% include 'article_meta.html' %}
             </div>
         </section>

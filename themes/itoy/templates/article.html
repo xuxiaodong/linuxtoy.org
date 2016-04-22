@@ -12,7 +12,12 @@
             <p>&rarr; <a href="{{ via[1] }}">{{ via[0] }}</a></p>
             {% endif %}
             {% if article.thank %}
-            <p>{ Thanks {{ article.thank }}. }</p>
+            {% set thank = article.thank.split('|') %}
+            {% if thank[1] %}
+            <p>{ Thanks <a href="{{ thank[1] }}">{{ article.thank[0] }}</a>. }</p>
+            {% else %}
+            <p>{ Thanks {{ article.thank[0] }}. }</p>
+            {% endif %}
             {% endif %}
             {% include 'article_meta.html' %}
             <p class="post-meta">&hearts; <a href="http://resume.linuxtoy.org" title="本广告长期有效，欢迎联系~">寻一份 GNU/Linux 远程工作，欢迎联系 :)</a></p>

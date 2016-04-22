@@ -11,24 +11,14 @@ Slug: linux-package-management-cheatsheet
 
 任务 | 安装包 | 移除包 | 更新包列表 | 更新系统 | 列出源 | 添加源 | 移除源 | 搜索包 | 列出已安装的包
 ---- | ------ | ------ | ---------- | -------- | ------ | ------ | ------ | ------ | --------------
-
 apt (Debian/Ubuntu) | apt-get install `<pkg>` | apt-get remove `<pkg>` | apt-get update | apt-get upgrade | cat /etc/apt/sources.list | (edit /etc/apt/sources.list) | (edit /etc/apt/sources.list) | apt-cache search `<pkg>` | dpkg -l
-
 zypp (openSUSE) | zypper install `<pkg>` | zypper remove `<pkg>` | zypper refresh | zypper update | zypper repos | zypper addrepo `<path>` `<name>` | zypper removerepo `<name>` | zypper search `<pkg>` | rpm -qa
-
 yum (Fedora/CentOS) | yum install `<pkg>` | yum erase `<pkg>` | yum check-update | yum update | yum repolist | (add `<repo>` to /etc/yum.repos.d/) | (remove `<repo>` from /etc/yum.repos.d/) | yum search `<pkg>` | rpm -qa
-任务
-
 urpmi (Mandriva) | urpmi `<pkg>` | urpme `<pkg>` | urpmi.update -a | urpmi --auto-select | urpmq --list-media | urpmi.addmedia `<name>` `<path>` | urpmi.removemedia `<media>` | urpmf `<pkg>` | rpm -qa
-
 slackpkg (Slackware) | slackpkg install `<pkg>` | slackpkg remove `<pkg>` | slackpkg update | slackpkg upgrade-all | cat /etc/slackpkg/mirrors | (edit /etc/slackpkg/mirrors) | (edit /etc/slackpkg/mirrors) | -- | ls /var/log/packages/
-
 pacman (Arch) | pacman -S `<pkg>` | pacman -R `<pkg>` | pacman -Sy | pacman -Su | cat /etc/pacman.conf | (edit /etc/pacman.conf) | (edit /etc/pacman.conf) | pacman -Qs `<pkg>` | pacman -Qii
-
 conary (rPath/Foresight) | conary update `<pkg>` | conary erase `<pkg>` | conary updateall | -- | -- | -- | conary query `<pkg>` | conary query
-
 pisi (Pardus) | pisi install `<pkg>` | pisi remove `<pkg>` | pisi update-repo | pisi upgrade | pisi list-repo | pisi add-repo `<name>` `<path>` | pisi remove-repo `<name>` | pisi search `<pkg>` | pisi list-installed
-
 emerge (Gentoo) | emerge `<pkg>` | emerge -C `<pkg>` | emerge --sync (layman -S [for added repositories]) | emerge -NuDa world | layman -L | layman -a | layman -d | emerge --search | `cat /var/lib/portage | more`
 
 **参考**

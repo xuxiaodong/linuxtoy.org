@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import codecs
-import time
+import datetime
 import feedparser
 
 rss_url = 'http://linuxtoy.disqus.com/latest.rss'
@@ -99,6 +99,11 @@ html_header = """
                                     </a>
                                 </li>
                                 <li class="pure-menu-item">
+                                    <a class="pure-menu-link" href="https://linuxtoy.org/random.html" title="Comments">
+                                        Random
+                                    </a>
+                                </li>
+                                <li class="pure-menu-item">
                                     <a class="pure-menu-link" href="https://linuxtoy.org/feeds/all.atom.xml" title="RSS">
                                         RSS
                                     </a>
@@ -157,8 +162,10 @@ html_footer = """
 with codecs.open('output/pages/comments.html', mode='w', encoding='utf-8') as f:
     f.write(html_header)
     for item in disqus.entries:
-        date_srt = time.strftime("%Y/%m/%d %H:%M:%S", item.published_parsed)
+        dt = datetime.datetime(*item.published_parsed[:7]) + datetime.timedelta(hours=12)
+        date_srt = dt.strftime("%Y/%m/%d %H:%M:%S")
+        title = item.title.replace(u' \xb7 LinuxTOY', '')
         f.write('<p><a href="%s">@%s</a> %s &raquo; %s</p>\n' % (item.link,
-            item.author, item.title, date_srt))
+            item.author, title, date_srt))
         f.write('%s\n' % item.summary)
     f.write(html_footer)

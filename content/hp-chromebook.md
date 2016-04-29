@@ -12,8 +12,8 @@ Via: Ars Technica|http://arstechnica.com/gadgets/2016/04/hp-and-google-are-makin
 
 ![chromebook]({filename}/images/hpchromebook.jpg)
 
-这款 Chromebook 采用 Skylake Core M 处理器，具有 4GB/8GB/16GB 三种配置的内存，内置 32GB eMMC 存储，支持 3200x1800 分辨率的 IPS 显示屏，包括两个 USB Type-C 总端口。此外，其厚度为 12.9 毫米，重 1.29 公斤，能续航 11.5 小时。
+这款 Chromebook 采用 Skylake Core M 处理器，具有 4GB/8GB/16GB 三种配置的内存，内置 32GB eMMC 存储，支持 3200x1800 分辨率的 IPS 显示屏，包括两个 USB Type-C 端口。此外，其厚度为 12.9 毫米，重 1.29 公斤，能续航 11.5 小时。
 
-好几年前购买的 EeePC 我仍在家用，看来这次可以通过置入这款 Chromebook 来升级了。
+好几年前购买的 Eee PC 我仍在家用，看来这次可以通过置入这款 Chromebook 来升级了。
 
 [p]: http://www.google.com.hk/chromebook/find/#/?device=chromebook-pixel

@@ -14,9 +14,6 @@
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/grids-responsive-min.css">
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/side-menu.css">
         <!--<![endif]-->
-        {% if PAGE_ICONS and RSS_ICONS %}
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/icono.min.css">
-        {% endif %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments.css">
         <link rel="shortcut icon" type="image/x-icon" href="{{ SITEURL }}/favicon.ico">
         {% if FEED_ALL_ATOM %}
@@ -28,82 +25,54 @@
         <!--[if IE]>
         <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-		<script>
-		(adsbygoogle = window.adsbygoogle || []).push({
-			google_ad_client: "ca-pub-9432205671574187",
-			enable_page_level_ads: true
-		});
-		</script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-9432205671574187",
+            enable_page_level_ads: true
+        });
+        </script>
     </head>
     <body>
         <div id="layout" class="pure-g">
-            <div class="sidebar pure-u-1 pure-u-md-1-5">
+            <div class="sidebar pure-u-1">
                 <div class="header">
-                    <a id="menuLink" class="menu-link" href="#menu">
-                        <span></span>
-                    </a>
+                    <a id="menuLink" class="menu-link" href="#menu"><span></span></a>
+                    <div id="menu" class="pure-menu">
+                        <a class="pure-menu-heading" href="{{ SITEURL }}/" title="{{ SITENAME }}">{{ SITENAME }}</a>
+                        <ul class="pure-menu-list">
+                            {% if MENUITEMS_BEFORE %}
+                            {% for title, link in MENUITEMS_BEFORE %}
+                            <li class="pure-menu-item">
+                                <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">{{ title }}</a>
+                            </li>
+                            {% endfor %}
+                            {% endif %}
 
-                    <div id="menu">
-                        <div class="pure-menu">
-                            <a class="pure-menu-heading" href="{{ SITEURL }}/" title="{{ SITENAME }}">
-                                {% if PAGE_ICONS %}
-                                <i class="icono-home"></i>
-                                {% else %}
-                                {{ SITENAME }}
-                                {% endif %}
-                            </a>
+                            {% if DISPLAY_PAGES_ON_MENU -%}
+                            {% for pg in PAGES|sort(attribute='page_order') %}
+                            <li class="pure-menu-item{% if pg == page %} pure-menu-selected{% endif %}">
+                                <a class="pure-menu-link" href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">{{ pg.title }}</a>
+                            </li>
+                            {% endfor %}
+                            {% endif %}
 
-                            <ul class="pure-menu-list">
-                                {% if MENUITEMS_BEFORE %}
-                                {% for title, link in MENUITEMS_BEFORE %}
-                                <li class="pure-menu-item">
-                                    <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">
-                                        {% if ARCHIVE_ICONS %}
-                                        <i class="icono-{{ ARCHIVE_ICONS[loop.index0 ] }}"></i>
-                                        {% else %}
-                                        {{ title }}
-                                        {% endif %}
-                                    </a>
-                                </li>
-                                {% endfor %}
-                                {% endif %}
-
-                                {% if DISPLAY_PAGES_ON_MENU -%}
-                                {% for pg in PAGES|sort(attribute='page_order') %}
-                                <li class="pure-menu-item{% if pg == page %} pure-menu-selected{% endif %}">
-                                    <a class="pure-menu-link" href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">
-                                        {% if PAGE_ICONS %}
-                                        <i class="icono-{{ PAGE_ICONS[loop.index0 ] }}"></i>
-                                        {% else %}
-                                        {{ pg.title }}
-                                        {% endif %}
-                                    </a>
-                                </li>
-                                {% endfor %}
-                                {% endif %}
-
-                                {% if MENUITEMS_AFTER %}
-                                {% for title, link in MENUITEMS_AFTER %}
-                                <li class="pure-menu-item">
-                                    <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">
-                                        {% if RSS_ICONS %}
-                                        <i class="icono-{{ RSS_ICONS[loop.index0 ] }}"></i>
-                                        {% else %}
-                                        {{ title }}
-                                        {% endif %}
-                                    </a>
-                                </li>
-                                {% endfor %}
-                                {% endif %}
-                            </ul>
-                        </div>
+                            {% if MENUITEMS_AFTER %}
+                            {% for title, link in MENUITEMS_AFTER %}
+                            <li class="pure-menu-item">
+                                <a class="pure-menu-link" href="{{ link }}" title="{{ title }}">{{ title }}</a>
+                            </li>
+                            {% endfor %}
+                            {% endif %}
+                        </ul>
                     </div>
                 </div>
             </div>
 
             {% block content %}
             {% endblock %}
+
+            {% include 'rightside.html' %}
         </div>
 
         <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/zepto.min.js"></script>

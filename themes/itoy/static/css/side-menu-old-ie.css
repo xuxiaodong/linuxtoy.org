@@ -100,6 +100,10 @@ The content `<div>` is where all your content goes.
     letter-spacing: 0.1em;
 }
 
+.posts {
+    font-family: Calluna-Exljbris, Georgia, "Cambria", serif;
+}
+
 .post {
     padding-bottom: 2em;
 }

@@ -4,17 +4,17 @@ Author: toy
 Category: Featured
 Slug: playing-around-with-mplayer
 
-MPlayer 是我在 Linux
-系统中用到的相当好的媒体播放程序，它因支持播放广泛的音频/视频文件格式而著称。本文所要探讨的，除却一般的使用方法之外，更包括一些鲜为人知的提示和诀窍。相信在阅读此文后，你的多媒体播放体验将会增色不少。
+MPlayer 是我在 Linux 系统中用到的相当好的媒体播放程序，它因支持播放广泛的音频/视频文件格式而著称。本文所要探讨的，除却一般的使用方法之外，更包括一些鲜为人知的提示和诀窍。相信在阅读此文后，你的多媒体播放体验将会增色不少。
+
+<!-- PELICAN_END_SUMMARY -->
 
 **播放文件**
 
 使用 MPlayer 播放媒体文件最简单的方式是：
 
-`mplayer <somefile>`
+    mplayer <somefile>
 
-MPlayer
-会自动检测文件的类型并加以播放，如果是音频文件，则会在命令行中显示该播放文件的状态信息；而假如是视频文件的话，则会打开一个新的播放窗口。
+MPlayer 会自动检测文件的类型并加以播放，如果是音频文件，则会在命令行中显示该播放文件的状态信息；而假如是视频文件的话，则会打开一个新的播放窗口。
 
 **倒退与快进**
 
@@ -28,7 +28,7 @@ MPlayer
 
 虽然 MPlayer 不支持 DVD 菜单，但是却能够播放 DVD。你可以这样播放 DVD：
 
-`mplayer dvd://<titlenumber>`
+    mplayer dvd://<titlenumber>
 
 你需要使用实际的数字来替换 <titlenumber>，如 1、2、3 等。
 
@@ -36,14 +36,13 @@ MPlayer
 
 当播放电影文件时，你可以指定字幕文件：
 
-`mplayer -sub <somesubtitlefile> <somefile>`
+    mplayer -sub <somesubtitlefile> <somefile>
 
 在播放 DVD 电影时，你也可以通过指定语言代码来使用字幕：
 
-`mplayer dvd://<titlenumber> -slang nl,en`
+    mplayer dvd://<titlenumber> -slang nl,en
 
-这样，MPlayer
-就会优先使用荷兰语字幕，如果该语言不可用，则再使用英语字幕。
+这样，MPlayer 就会优先使用荷兰语字幕，如果该语言不可用，则再使用英语字幕。
 
 **有用的快捷键**
 
@@ -67,141 +66,122 @@ MPlayer
 
 **生成索引**
 
-有时候，有些视频文件（主要是 AVI
-文件）包含损坏的索引，或者根本就没有索引。这种情况通常是由下载文件不正确或未完成造成的。幸运的是，MPlayer
-能够生成正常播放文件所需的索引。通过使用 -idx 选项，你可以告诉 MPlayer
-来生成索引：
+有时候，有些视频文件（主要是 AVI 文件）包含损坏的索引，或者根本就没有索引。这种情况通常是由下载文件不正确或未完成造成的。幸运的是，MPlayer 能够生成正常播放文件所需的索引。通过使用 -idx 选项，你可以告诉 MPlayer 来生成索引：
 
-`mplayer -idx <somefile>`
+    mplayer -idx <somefile>
 
-有时候文件虽然包含索引，但却已损坏。那样的情况，你可能需要 MPlayer
-强制生成索引：
+有时候文件虽然包含索引，但却已损坏。那样的情况，你可能需要 MPlayer 强制生成索引：
 
-`mplayer -forceidx <somefile>`
+    mplayer -forceidx <somefile>
 
 根据视频文件的大小，生成索引需花费一定的时间。但在此后，文件应该能够正常播放。
 
 **纠正错误的音频／视频同步**
 
-有些视频文件（主要是 flv 文件）由于编码的问题，会给 MPlayer
-带来音频／视频同步的麻烦。这有两种可能情况：
+有些视频文件（主要是 flv 文件）由于编码的问题，会给 MPlayer 带来音频／视频同步的麻烦。这有两种可能情况：
 
 -   MPlayer 会尝试修复，但同步问题却更遭。
 -   MPlayer 会尝试修复那些正确的，因此没有必要同步。
 
 对于第一种情况，你应当让 MPlayer 努力修复同步问题：
 
-`mplayer -autosync 30 -mc 2.0 <somefile>`
+    mplayer -autosync 30 -mc 2.0 <somefile>
 
 而对于第二种情况，你不应当允许 MPlayer 去修复同步问题：
 
-`mplayer -autosync 0 -mc 0 <somefile>`
+    mplayer -autosync 0 -mc 0 <somefile>
 
-将上述命令中的 autosync 设置为正值就会让 MPlayer
-逐渐调整音频／视频的同步。值越高，MPlayer 越快地修复它。mc 选项指定
-MPlayer 纠正每帧要多少秒。值越高，MPlayer
-越认为接近修复音频／视频同步。设置为 0 则阻止 MPlayer 修复。
+将上述命令中的 autosync 设置为正值就会让 MPlayer 逐渐调整音频／视频的同步。值越高，MPlayer 越快地修复它。mc 选项指定 MPlayer 纠正每帧要多少秒。值越高，MPlayer 越认为接近修复音频／视频同步。设置为 0 则阻止 MPlayer 修复。
 
 **在慢系统上使用 MPlayer**
 
-MPlayer 允许在旧的或慢的系统上使用低 CPU
-功率来播放视频文件。你可以使用 -framedrop 选项：
+MPlayer 允许在旧的或慢的系统上使用低 CPU 功率来播放视频文件。你可以使用 -framedrop 选项：
 
-`mplayer -framedrop <somefile>`
+    mplayer -framedrop <somefile>
 
-当播放 MP3 或 OGG Vorbis
-文件时，你可能感受到一定的缓冲，这将影响你的音乐体验。那样的话，你可以尝试使用
-libmad（MP3）或 Tremor（OGG Vorbis）音频解码器。你可以这样来检测它们：
+当播放 MP3 或 OGG Vorbis 文件时，你可能感受到一定的缓冲，这将影响你的音乐体验。那样的话，你可以尝试使用 libmad（MP3）或 Tremor（OGG Vorbis）音频解码器。你可以这样来检测它们：
 
 对于 MP3：
 
-`mplayer -ac help | grep mad`
+    mplayer -ac help | grep mad
 
 如果上面的命令返回的结果像这样：
 
-`mad         libmad    working   libMAD MPEG layer 1-2-3  [libmad]`
+    mad         libmad    working   libMAD MPEG layer 1-2-3  [libmad]
 
 那么你可以使用 libmad 播放 MP3：
 
-`mplayer -ac mad <somefile>`
+    mplayer -ac mad <somefile>
 
 在 OGG 的情况中，你可以使用同样的技巧来检测 tremor 音频解码器是否可用：
 
-`mplayer -ac help | grep tremor`
+    mplayer -ac help | grep tremor
 
 **播放流媒体**
 
-如果 MPlayer
-无法自动找到播放列表或直接的流媒体文件，你可以尝试使用 -playlist 选项：
+如果 MPlayer 无法自动找到播放列表或直接的流媒体文件，你可以尝试使用 -playlist 选项：
 
-`mplayer -playlist <file or url>`
+    mplayer -playlist <file or url>
 
 同时你也可以设置较大的缓存：
 
-`mplayer -cache 8192 -playlist <file or url>`
+    mplayer -cache 8192 -playlist <file or url>
 
-指定缓存大小的单位是 KB，上面的命令将允许 MPlayer 使用 8 MB
-缓存。你可以使用 -cache-min 选项来改变 MPlayer 占用缓存的百分比：
+指定缓存大小的单位是 KB，上面的命令将允许 MPlayer 使用 8 MB 缓存。你可以使用 -cache-min 选项来改变 MPlayer 占用缓存的百分比：
 
-`mplayer -cache 8192 -cache-min 50 -playlist <file or url>`
+    mplayer -cache 8192 -cache-min 50 -playlist <file or url>
 
 **循环播放**
 
 如果你想让媒体文件循环播放，可以使用 -loop 选项：
 
-`mplayer -loop 3 <somefile>`
+    mplayer -loop 3 <somefile>
 
 上面的命令将播放 <somefile> 3 次，然后才退出。
 
-`mplayer -loop 0 <somefile>`
+    mplayer -loop 0 <somefile>
 
 上面的命令将永远重复播放 <somefile>。
 
 **改变播放速度**
 
-你可以使用 -speed 选项来改变 MPlayer 播放媒体文件的速度。值为
-1.0，意味着正常速度；0.5 意味着慢两倍；2.0
-意味着快两倍。像这样指定选项：
+你可以使用 -speed 选项来改变 MPlayer 播放媒体文件的速度。值为 1.0，意味着正常速度；0.5 意味着慢两倍；2.0 意味着快两倍。像这样指定选项：
 
-`mplayer -speed 2.0 <somefile>`
+    mplayer -speed 2.0 <somefile>
 
 **改变采样率**
 
 使用 -srate 选项你可以改变 MPlayer 输出的采样率：
 
-`mplayer -srate 48000 <somefile>`
+    mplayer -srate 48000 <somefile>
 
 **将音频输出为 wav 文件**
 
 你可以将视频文件中的音频部分输出为 wav 文件：
 
-`mplayer -ao pcm <somefile>`
+    mplayer -ao pcm <somefile>
 
-这将输出名为 audiodump.wav 的音频文件。你也可以为输出的 wav
-文件指定名称：
+这将输出名为 audiodump.wav 的音频文件。你也可以为输出的 wav 文件指定名称：
 
-`mplayer -ao pcm:file=<filename>.wav <somefile>`
+    mplayer -ao pcm:file=<filename>.wav <somefile>
 
 **使用 ASCII 方式观看电影**
 
-虽然无用，但却很好玩。有两个库文件支持该特性：aa 和 caca。使用
-libaa，你只能在黑白 ASCII 中观看电影。而 libcaca 支持色彩。然而，libaa
-支持更广泛。你可以像这样使用 libaa 观看电影：
+虽然无用，但却很好玩。有两个库文件支持该特性：aa 和 caca。使用 libaa，你只能在黑白 ASCII 中观看电影。而 libcaca 支持色彩。然而，libaa 支持更广泛。你可以像这样使用 libaa 观看电影：
 
-`mplayer -vo aa <somefile>`
+    mplayer -vo aa <somefile>
 
 如果你想使用 libcaca：
 
-`mplayer -vo caca <somefile>`
+    mplayer -vo caca <somefile>
 
 **将电影输出为系列图片**
 
 MPlayer 也能将电影输出为一系列的图片：
 
-`mplayer -vo jpeg <somefile>`
+    mplayer -vo jpeg <somefile>
 
-注意：上面的命令将产生数量巨大的 jpeg 文件。输出的 jpeg
-文件名看起来像这样：00000001.jpg、00000002.jpg、00000003.jpg 等等。
+注意：上面的命令将产生数量巨大的 jpeg 文件。输出的 jpeg 文件名看起来像这样：00000001.jpg、00000002.jpg、00000003.jpg 等等。
 
 你也可以输出其他的格式。只需将命令中的 jpeg 替换成 ppm、png、tga 等。
 
@@ -209,15 +189,13 @@ MPlayer 也能将电影输出为一系列的图片：
 
 当你在宽屏中播放电影时，可能想要使用 16:9 的纵横比：
 
-`mplayer -aspect 16:9 <somefile>`
+    mplayer -aspect 16:9 <somefile>
 
 在非宽屏中，你可以使用 4:3 的纵横比。
 
 **将选项放置到 MPlayer 的配置文件中**
 
-对于一般用户来说，该配置文件位于 ~/.mplayer/config；全局的配置文件在
-/etc/mplayer/config。不同的值使用行分隔，如：
-
+对于一般用户来说，该配置文件位于 ~/.mplayer/config；全局的配置文件在 /etc/mplayer/config。不同的值使用行分隔，如：
 
     # MPlayer config file
     srate=48000

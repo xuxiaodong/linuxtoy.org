@@ -5,14 +5,13 @@ Category: Cli
 Tags: Commands, History
 Slug: history-command-usage-examples
 
-如果你经常使用 Linux 命令行，那么使用
-history（历史）命令可以有效地提升你的效率。本文将通过实例的方式向你介绍
-history 命令的 15 个用法。
+如果你经常使用 Linux 命令行，那么使用 history（历史）命令可以有效地提升你的效率。本文将通过实例的方式向你介绍 history 命令的 15 个用法。
+
+<!-- PELICAN_END_SUMMARY -->
 
 **使用 HISTTIMEFORMAT 显示时间戳**
 
-当你从命令行执行 history
-命令后，通常只会显示已执行命令的序号和命令本身。如果你想要查看命令历史的时间戳，那么可以执行：
+当你从命令行执行 history 命令后，通常只会显示已执行命令的序号和命令本身。如果你想要查看命令历史的时间戳，那么可以执行：
 
 
     # export HISTTIMEFORMAT='%F %T '
@@ -22,15 +21,11 @@ history 命令的 15 个用法。
     3  2008-08-05 19:02:39 id
     4  2008-08-05 19:02:39 cat /etc/redhat-release
 
-**注意**：这个功能只能用在当 HISTTIMEFORMAT
-这个环境变量被设置之后，之后的那些新执行的 bash
-命令才会被打上正确的时间戳。在此之前的所有命令，都将会显示成设置
-HISTTIMEFORMAT 变量的时间。[感谢 NightOwl 读者补充]
+**注意**：这个功能只能用在当 HISTTIMEFORMAT 这个环境变量被设置之后，之后的那些新执行的 bash 命令才会被打上正确的时间戳。在此之前的所有命令，都将会显示成设置 HISTTIMEFORMAT 变量的时间。[感谢 NightOwl 读者补充]
 
 **使用 Ctrl+R 搜索历史**
 
-Ctrl+R
-是我经常使用的一个快捷键。此快捷键让你对命令历史进行搜索，对于想要重复执行某个命令的时候非常有用。当找到命令后，通常再按回车键就可以执行该命令。如果想对找到的命令进行调整后再执行，则可以按一下左或右方向键。
+Ctrl+R 是我经常使用的一个快捷键。此快捷键让你对命令历史进行搜索，对于想要重复执行某个命令的时候非常有用。当找到命令后，通常再按回车键就可以执行该命令。如果想对找到的命令进行调整后再执行，则可以按一下左或右方向键。
 
 
     # [Press Ctrl+R from the command prompt, which will display the reverse-i-search prompt]
@@ -74,8 +69,7 @@ Ctrl+R
 
 **使用 HISTSIZE 控制历史命令记录的总行数**
 
-将下面两行内容追加到 .bash\_profile 文件并重新登录 bash
-shell，命令历史的记录数将变成 450 条：
+将下面两行内容追加到 .bash\_profile 文件并重新登录 bash shell，命令历史的记录数将变成 450 条：
 
 
     # vi ~/.bash_profile
@@ -84,9 +78,7 @@ shell，命令历史的记录数将变成 450 条：
 
 **使用 HISTFILE 更改历史文件名称**
 
-默认情况下，命令历史存储在 ~/.bash\_history 文件中。添加下列内容到
-.bash\_profile 文件并重新登录 bash shell，将使用 .commandline\_warrior
-来存储命令历史：
+默认情况下，命令历史存储在 ~/.bash\_history 文件中。添加下列内容到 .bash\_profile 文件并重新登录 bash shell，将使用 .commandline\_warrior 来存储命令历史：
 
 
     # vi ~/.bash_profile
@@ -94,9 +86,7 @@ shell，命令历史的记录数将变成 450 条：
 
 **使用 HISTCONTROL 从命令历史中剔除连续重复的条目**
 
-在下面的例子中，pwd 命令被连续执行了三次。执行 history
-后你会看到三条重复的条目。要剔除这些重复的条目，你可以将 HISTCONTROL
-设置为 ignoredups：
+在下面的例子中，pwd 命令被连续执行了三次。执行 history 后你会看到三条重复的条目。要剔除这些重复的条目，你可以将 HISTCONTROL 设置为 ignoredups：
 
 
     # pwd
@@ -118,9 +108,7 @@ shell，命令历史的记录数将变成 450 条：
 
 **使用 HISTCONTROL 清除整个命令历史中的重复条目**
 
-上例中的 ignoredups
-只能剔除连续的重复条目。要清除整个命令历史中的重复条目，可以将
-HISTCONTROL 设置成 erasedups：
+上例中的 ignoredups 只能剔除连续的重复条目。要清除整个命令历史中的重复条目，可以将 HISTCONTROL 设置成 erasedups：
 
 
     # export HISTCONTROL=erasedups
@@ -143,8 +131,7 @@ HISTCONTROL 设置成 erasedups：
 
 **使用 HISTCONTROL 强制 history 不记住特定的命令**
 
-将 HISTCONTROL 设置为
-ignorespace，并在不想被记住的命令前面输入一个空格：
+将 HISTCONTROL 设置为 ignorespace，并在不想被记住的命令前面输入一个空格：
 
 
     # export HISTCONTROL=ignorespace
@@ -172,8 +159,7 @@ ignorespace，并在不想被记住的命令前面输入一个空格：
     # vi !!:$
     vi anaconda-ks.cfg
 
-**补充**：使用 !$ 可以达到同样的效果，而且更简单。[感谢 wanzigunzi
-读者补充]
+**补充**：使用 !$ 可以达到同样的效果，而且更简单。[感谢 wanzigunzi 读者补充]
 
 下例中，!^ 从上一条命令获得第一项参数：
 
@@ -185,8 +171,7 @@ ignorespace，并在不想被记住的命令前面输入一个空格：
 
 **为特定的命令替换指定的参数**
 
-在下面的例子，!cp:2 从命令历史中搜索以 cp
-开头的命令，并获取它的第二项参数：
+在下面的例子，!cp:2 从命令历史中搜索以 cp 开头的命令，并获取它的第二项参数：
 
 
     # cp ~/longname.txt /really/a/very/long/path/long-filename.txt
@@ -224,5 +209,4 @@ ignorespace，并在不想被记住的命令前面输入一个空格：
     81  history
     [Note that history did not record pwd, ls and ls -ltr]
 
-[via [The Geek
-Stuff](http://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history/)]
+[via [The Geek Stuff](http://www.thegeekstuff.com/2008/08/15-examples-to-master-linux-command-line-history/)]

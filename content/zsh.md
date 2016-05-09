@@ -5,12 +5,12 @@ Category: Apps
 Tags: Shell, Zsh
 Slug: zsh
 
-[撰文/Kardinal]
-
 > 子曾经曰过，zsh: The last shell you’ll ever need!  
 > Z 是最后一个字母，所以它是终极 Shell。
 >
 > 我曾经搜索到一个比较各种 Shell 的文章，Zsh 交互性是 A+ 级别的，远高于其它 Shell。在编程方面，Zsh 是 A 级的吧，也是最高的。只是不知道出于什么原因，Zsh 被严重的低估了。
+
+<!-- PELICAN_END_SUMMARY -->
 
 大多数的 Linux 用户比较偏爱 Bash，因为大多数的发行版默认的就是它。平心而论，Bash 确实比 Csh 之流的好用多了。不过 Bash 也有很多地方不尽人意，像自动补全的功能不够强大，定位较长路径不够方便等。
 

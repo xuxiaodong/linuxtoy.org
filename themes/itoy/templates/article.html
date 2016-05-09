@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title|striptags }} &middot; {{ SITENAME }}{% endblock %}
+{% block head %}
+{{ super() }}
+<link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+{% endblock %}
 {% block content %}
 <div class="content pure-u-1 pure-u-md-3-5">
     <div class="posts">

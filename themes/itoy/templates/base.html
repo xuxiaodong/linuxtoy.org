@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
     <head>
+        {% block head %}
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
@@ -32,6 +33,7 @@
             enable_page_level_ads: true
         });
         </script>
+        {% endblock %}
     </head>
     <body>
         <div id="layout" class="pure-g">

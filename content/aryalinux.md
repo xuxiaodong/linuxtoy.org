@@ -3,7 +3,7 @@ Date: 2016-05-10 14:01:58
 Authors: toy
 Category: Distros
 Tags: lfs, source based
-Slug: content/aryalinux.md
+Slug: aryalinux
 Via: AryaLinux|http://aryalinux.org/downloads.php
 
 AryaLinux 是受 LFS/BLFS 启发、基于源代码的 Linux 发行版。它提供 bash

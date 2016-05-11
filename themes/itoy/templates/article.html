@@ -17,6 +17,9 @@
         <section class="post">
             {% include 'article_info.html' %}
             <div class="post-description">
+            {% if article.author == 'lovenemesis' %}
+            {{ article.summary }}
+            {% endif %}
             {{ article.content }}
             {% if article.via %}
             {% set via = article.via.split('|') %}

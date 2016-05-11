@@ -1,13 +1,13 @@
-    <p class="post-meta">
-        &num; 
-        {% if article.tags %}
-        Tagged as 
-        {% for tag in article.tags|sort %}
-        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a>{% if not loop.last %}, {% endif %}
-        {% endfor %}
-        &middot; 
-        {% endif %}
-        {% if GITHUB_SOURCE %}
-        Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
-        {% endif %}
-    </p>
+            <p class="post-meta">
+                &num; 
+                {% if article.tags %}
+                Tagged as 
+                {% for tag in article.tags|sort %}
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag|escape|lower }}</a>{% if not loop.last %}, {% endif %}
+                {% endfor %}
+                &middot; 
+                {% endif %}
+                {% if GITHUB_SOURCE %}
+                Edit on <a href="{{ GITHUB_SOURCE }}/{{ article.slug }}.md">GitHub</a>
+                {% endif %}
+            </p>

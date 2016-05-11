@@ -1,5 +1,5 @@
-Titile: Pine64 初评
-Date: 2015-05-11
+Title: Pine64 初评
+Date: 2015-05-11 18:17:27
 Author: lovenemesis
 Category: Embedded
 Tags: pine64
@@ -9,7 +9,7 @@ Summary: Pine64 是一个在去年12月在 [Kickstarter 举行众筹](https://ww
 尽管 Pine64 将 $15 放入到标题中大肆宣传，实际上那个仅仅是 512M 内存的入门版本，实在是做不了太多……于是当初笔者选择其中的顶配型号，配置如下：
 
 
-*** Pine64+ 2G 版
+### Pine64+ 2G 版
 * 全志 A64 四核 CortexA53 ARMv8 1.2GHz
 * Mali400MP2 双核 GPU
 * 2G DDR3 内存
@@ -25,7 +25,7 @@ Summary: Pine64 是一个在去年12月在 [Kickstarter 举行众筹](https://ww
 
 对于这 $12 的运费不得不吐槽下：至少笔者这个版本是从深圳的制造厂用圆通经济送达的，典型的花美金的价格享受人民币的服务……
 
-*** 做工及配件
+### 做工及配件
 
 矩形的[板子做工](http://files.pine64.org/doc/Pine%20A64%20Schematic/A64-DB-Rev%20B-TOP%20Preliminary.pdf)中规中居，尺寸上比树莓派大不少，常用的 I/O 接口分别位于板子两个短边，扩展接口在板子两个长边，接外设不会干扰，元器件之间布局宽松。
 
@@ -34,7 +34,7 @@ Summary: Pine64 是一个在去年12月在 [Kickstarter 举行众筹](https://ww
 本想到手后随便淘宝个外壳，怎奈这还是稀少品，唯一的[亚克力外壳售价 99 元](https://item.taobao.com/item.htm?id=530367699491&ns=1&abbucket=15#detail)，呃……然后寻求 3D 打印服务，然而某宝上对于[其社区创建的图纸](https://www.pine64.com/downloads)给出的报价是 260， 呃……最后发现[盛装 AmazonBasics 电池的纸盒](https://www.amazon.cn/dp/B0030T1NEU/) 尺寸接近且软硬适中，于是 DIY 了一个外壳先凑和着吧。
 
 
-*** 软件及性能
+### 软件及性能
 
 既然 SoC 是全志出品，估计你也猜到了其 Linux 的支持水平：能用，但问题不少。根据[更新相对及时的 Wiki 页面](http://wiki.pine64.org/index.php/Main_Page#Software.2FImage_Download)上显示，目前已经有基于它订制内核的 Debian Jessie + MATE 和 Ubuntu Xfce 两个发行版，众筹时宣传的诸如 OpenWrt 什么的还没见到。论坛上其他的人使用中也时常遇到些奇葩的小问题。
 
@@ -50,7 +50,7 @@ Summary: Pine64 是一个在去年12月在 [Kickstarter 举行众筹](https://ww
 
 基本就是去年中端机的水平，不出彩，不过大部分应用也能跑。最新的固件包含谷歌框架，支持 Root，支持 OTA 升级，支持 USB 键盘，但不支持 USB 无线网卡和 HDMI CEC。
 
-*** 使用体验
+### 使用体验
 
 如上所说，Linux 桌面应用当下是比较骨感，于是在这一个月来都是配合飞鼠当做电视盒和高清播放机使用的，配合各类视频应用和 Kodi，稳定流畅，应用订制上比价位接近的电视盒要省心不少。
 

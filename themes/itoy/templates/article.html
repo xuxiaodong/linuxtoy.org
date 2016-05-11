@@ -53,20 +53,20 @@
     </div>
     {% include 'disqus.html' %}
     <div class="footer">
-                {% if article.prev_article %}
-                <p class="nav-left">
-                    <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
-                        &laquo; {{ article.prev_article.title }}
-                    </a>
-                </p>
-                {% endif %}
-                {% if article.next_article %}
-                <p class="nav-right">
-                    <a href="{{ SITEURL }}/{{ article.next_article.url}}">
-                        {{ article.next_article.title }} &raquo;
-                    </a>
-                </p>
-                {% endif %}
+        {% if article.prev_article %}
+        <p class="nav-left">
+            <a href="{{ SITEURL }}/{{ article.prev_article.url}}">
+                &laquo; {{ article.prev_article.title }}
+            </a>
+        </p>
+        {% endif %}
+        {% if article.next_article %}
+        <p class="nav-right">
+            <a href="{{ SITEURL }}/{{ article.next_article.url}}">
+                {{ article.next_article.title }} &raquo;
+            </a>
+        </p>
+        {% endif %}
     </div>
 </div>
 {% endblock %}

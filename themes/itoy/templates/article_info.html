@@ -1,20 +1,21 @@
-<header class="post-header">
-    <h2 class="post-title">
-        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
-    </h2>
-    <p class="post-meta">
-        {{ article.locale_date }}
-        {% if article.authors %}
-        &middot; By
-        {% for author in article.authors %}
-        {% if AUTHOR_ALIAS %}
-        <a href="{{ SITEURL }}/{{ author.url }}">{% if AUTHOR_ALIAS[author] %}{{ AUTHOR_ALIAS[author] }}{% else %}{{ author }}{% endif %}</a>
-        {% else %}
-        <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
-        {% endif %}
-        {% endfor %}
-        {% endif %}
-        &middot; Posted in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
-        &middot; <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">0 Comments</a>
-    </p>
-</header>
+        <header class="post-header">
+            <h2 class="post-title">
+                <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+            </h2>
+            <p class="post-meta">
+                {{ article.locale_date }}
+                {% if article.authors %}
+                &middot; By
+                {% for author in article.authors %}
+                {% if AUTHOR_ALIAS %}
+                <a href="{{ SITEURL }}/{{ author.url }}">{% if AUTHOR_ALIAS[author] %}{{ AUTHOR_ALIAS[author] }}{% else %}{{ author }}{% endif %}</a>
+                {% else %}
+                <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+                &middot; Posted in <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+                &middot; <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread">0 Comments</a>
+            </p>
+        </header>
+

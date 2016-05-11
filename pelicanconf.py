@@ -33,6 +33,7 @@ GITHUB_SOURCE = 'https://github.com/xuxiaodong/linuxtoy.org/blob/master/content'
 DISQUS_SITENAME = 'linuxtoy'
 GOOGLE_ANALYTICS = 'UA-349050-2'
 SWIFTYPE = 'zWjtxRdA6ciZ7LBm4R4K'
+TWITTER_NAME = '@linuxtoy'
 
 ARTICLE_URL = 'archives/{slug}.html'
 ARTICLE_SAVE_AS = 'archives/{slug}.html'

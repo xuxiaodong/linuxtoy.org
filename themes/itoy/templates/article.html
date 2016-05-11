@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block title %}{{ article.title|striptags }} &middot; {{ SITENAME }}{% endblock %}
+{% block meta_desc %}{{ article.summary|striptags }}{% endblock %}
 {% block head %}
 {{ super() }}
         <meta name="twitter:card" content="summary">
@@ -16,7 +17,6 @@
         <meta property="og:description" content="{{ article.summary|striptags }}">
         <meta property="og:site_name" content="{{ SITENAME }}">
         <meta property="article:author" content="{{ article.author }}">
-        <meta name="description" content="{{ article.summary|striptags }}">
         <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
 {% endblock %}
 {% block content %}

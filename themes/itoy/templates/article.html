@@ -2,14 +2,14 @@
 {% block title %}{{ article.title|striptags }} &middot; {{ SITENAME }}{% endblock %}
 {% block head %}
 {{ super() }}
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:site" content="@linuxtoy">
-	<meta name="twitter:creator" content="@linuxtoy">
-    <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
-    <meta name="twitter:title" content="{{ article.title|striptags }}">
-    <meta name="twitter:description" content="{{ article.summary }}">
-    <meta name="twitter:image" content="{{ SITEURL }}/logo.png">    
-    <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@linuxtoy">
+        <meta name="twitter:creator" content="@linuxtoy">
+        <meta name="twitter:url" content="{{ SITEURL }}/{{ article.url }}">
+        <meta name="twitter:title" content="{{ article.title|striptags }}">
+        <meta name="twitter:description" content="{{ article.summary|striptags }}">
+        <meta name="twitter:image" content="{{ SITEURL }}/logo.png">
+        <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
 {% endblock %}
 {% block content %}
 <div class="content pure-u-1 pure-u-md-3-5">

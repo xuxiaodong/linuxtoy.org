@@ -16,6 +16,7 @@
         <meta property="og:description" content="{{ article.summary|striptags }}">
         <meta property="og:site_name" content="{{ SITENAME }}">
         <meta property="article:author" content="{{ article.author }}">
+        <meta name="description" content="{{ article.summary|striptags }}">
         <link rel="canonical" href="{{ SITEURL }}/{{ article.url }}">
 {% endblock %}
 {% block content %}

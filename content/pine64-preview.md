@@ -1,5 +1,5 @@
-Titile: Pine64 初评
-Date: 2015-05-11
+Title: Pine64 初评
+Date: 2016-05-11 18:17:27
 Author: lovenemesis
 Category: Embedded
 Tags: pine64
@@ -10,8 +10,12 @@ Summary: Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https
 
 尽管 Pine64 将 $15 放入到标题中大肆宣传，实际上那个仅仅是 512M 内存的入门版本，实在是做不了太多……于是当初笔者选择其中的顶配型号，配置如下：
 
+<<<<<<< HEAD
 *** Pine64+ 2G 版
 
+=======
+### Pine64+ 2G 版
+>>>>>>> 4df68a0837d51a3e39a293ad8772119460160f38
 * 全志 A64 四核 CortexA53 ARMv8 1.2GHz
 * Mali400MP2 双核 GPU
 * 2G DDR3 内存
@@ -27,7 +31,7 @@ Summary: Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https
 
 对于这 $12 的运费不得不吐槽下：至少笔者这个版本是从深圳的制造厂用圆通经济送达的，典型的*花美金的价格享受人民币的服务*……
 
-*** 做工及配件
+### 做工及配件
 
 矩形的[板子做工](http://files.pine64.org/doc/Pine%20A64%20Schematic/A64-DB-Rev%20B-TOP%20Preliminary.pdf)中规中居，尺寸上比树莓派大不少，常用的 I/O 接口分别位于板子两个短边，扩展接口在板子两个长边，接外设不会干扰，元器件之间布局宽松。2G 内存版本是 4 个 512M 的颗粒，PCB 版正反各两个。
 
@@ -39,7 +43,7 @@ Summary: Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https
 
 通常的[树莓派用散热片](https://item.taobao.com/item.htm?id=529564632386)也是可以继续用在这个上面，其 SoC 和外围控制芯片大小与树莓派一模一样。
 
-*** 软件及性能
+### 软件及性能
 
 既然 SoC 是全志出品，估计你也猜到了其 Linux 的支持水平：**能用，但问题不少**。根据[更新相对及时的 Wiki 页面](http://wiki.pine64.org/index.php/Main_Page#Software.2FImage_Download)上显示，目前已经有基于它订制内核的 Debian Jessie + MATE 和 Ubuntu Xfce 两个发行版，众筹时宣传的诸如 OpenWrt 什么的还没见到。论坛上其他的人使用中也时常遇到些奇葩的小问题。
 
@@ -57,7 +61,7 @@ Summary: Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https
 
 基本就是去年中端机的水平，不出彩，不过大部分应用也能跑。最新的固件包含谷歌框架，支持 Root，支持 OTA 升级，支持 USB 键盘，但**不支持** USB 无线网卡和 HDMI CEC。
 
-*** 使用体验
+### 使用体验
 
 如上所说，Linux 桌面应用当下是比较骨感，于是在这一个月来都是配合[空中飞鼠](https://detail.tmall.com/item.htm?id=19487710893)当做电视盒和高清播放机使用的，配合各类视频应用和 Kodi，稳定流畅，应用订制上比价位接近的电视盒要省心不少。
 

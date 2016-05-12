@@ -4,7 +4,8 @@ Author: lovenemesis
 Category: Embedded
 Tags: pine64
 Slug: pine64-preview
-Summary: Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https://www.kickstarter.com/projects/pine64/pine-a64-first-15-64-bit-single-board-super-comput)的 SBC，当时宣传的亮点是首个 $15 的 64位 SBC。这里跟大家分享下笔者在上月初收到的 2G Plus 版本。
+
+Pine64 是一个于 2015 年 12 月在 [Kickstarter 举行众筹](https://www.kickstarter.com/projects/pine64/pine-a64-first-15-64-bit-single-board-super-comput)的 SBC，当时宣传的亮点是首个 $15 的 64位 SBC。这里跟大家分享下笔者在上月初收到的 2G Plus 版本。
 
 <!-- PELICAN_END_SUMMARY --> 
 

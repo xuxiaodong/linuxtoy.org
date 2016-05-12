@@ -10,7 +10,7 @@ BunsenLabs Linux 源于 CrunchBang Linux（已暂停开发），它基于 Debian
 
 <!-- PELICAN_END_SUMMARY -->
 
-[![bunsenlabs]({filename}/images/bunsenlabs.thumb.png)]({filename}/images/bunsenlabs.png)
+[![bunsenlabs]({filename}/images/bunsenlabs.thumb.jpg)]({filename}/images/bunsenlabs.jpg)
 
 除了预先配置 Openbox、Tint2、Conky 等程序外，BunsenLabs Linux 还包括用来维护该系统的各种工具。它有 Live CD 和安装 ISO，支持 i686 和 x86\_64 架构。
 
